@@ -45,6 +45,7 @@ try {
 		const fileUrl = new URL(coinData.image.large)
 		const fileExt = path.extname(fileUrl.pathname)
 		await downloadImage(coinData.image.large, `data/${coin.symbol}${fileExt}`)
+		break ///temp
 	}
 } catch (e) {
 	console.log(e)
