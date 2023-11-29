@@ -4,7 +4,7 @@ name: Fetch more
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0,15,30,45 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -24,3 +24,5 @@ jobs:
           commit-message: "Add more data"
           title: "Fetch more data"
           delete-branch: true
+          assignees: pvinis
+          reviewers: pvinis
