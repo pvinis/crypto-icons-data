@@ -1,7 +1,6 @@
 import got from "got"
 import fs from "fs"
 import path from "path"
-import { exit } from "process"
 
 const downloadImage = async (url: string, filepath: string) => {
 	const imgStream = await got.stream(url)
@@ -15,6 +14,7 @@ const downloadImage = async (url: string, filepath: string) => {
 
 const coingecko = got.extend({
 	prefixUrl: "https://api.coingecko.com/api/v3",
+	headers: { "x-cg-demo-api-key": process.env.COINGECKO_API_KEY },
 	responseType: "json",
 })
 
@@ -49,5 +49,5 @@ try {
 } catch (e) {
 	console.log(e)
 	console.log("Rate limit exceeded probably.")
-	exit(0)
+	process.exit(0)
 }
