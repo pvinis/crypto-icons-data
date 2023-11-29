@@ -2,8 +2,18 @@ import got from "got"
 import fs from "fs"
 import path from "path"
 
+const coingecko = got.extend({
+	prefixUrl: "https://api.coingecko.com/api/v3",
+	headers: { "x-cg-demo-api-key": process.env.COINGECKO_API_KEY },
+	responseType: "json",
+	timeout: { request: 3000 },
+})
+
 const downloadImage = async (url: string, filepath: string) => {
-	const imgStream = await got.stream(url)
+	const imgStream = await got.stream(url, {
+		headers: { "x-cg-demo-api-key": process.env.COINGECKO_API_KEY },
+		timeout: { request: 3000 },
+	})
 	const fileWriter = fs.createWriteStream(filepath)
 	imgStream.pipe(fileWriter)
 	return new Promise((resolve, reject) => {
@@ -12,17 +22,11 @@ const downloadImage = async (url: string, filepath: string) => {
 	})
 }
 
-const coingecko = got.extend({
-	prefixUrl: "https://api.coingecko.com/api/v3",
-	headers: { "x-cg-demo-api-key": process.env.COINGECKO_API_KEY },
-	responseType: "json",
-})
-
-const coins: Array<{ id: string; symbol: string; name: string }> = await coingecko
-	.get("coins/list")
-	.json()
-
 try {
+	const coins: Array<{ id: string; symbol: string; name: string }> = await coingecko
+		.get("coins/list")
+		.json()
+
 	for (const coin of coins) {
 		if (
 			fs.existsSync(`data/${coin.symbol}.png`) ||
