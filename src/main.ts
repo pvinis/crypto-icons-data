@@ -26,6 +26,7 @@ try {
 	for (const coin of coins) {
 		if (
 			fs.existsSync(`data/${coin.symbol}.png`) ||
+			fs.existsSync(`data/${coin.symbol}.PNG`) ||
 			fs.existsSync(`data/${coin.symbol}.svg`) ||
 			fs.existsSync(`data/${coin.symbol}.jpg`) ||
 			fs.existsSync(`data/${coin.symbol}.jpeg`)
