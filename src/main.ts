@@ -27,7 +27,8 @@ try {
 		if (
 			fs.existsSync(`data/${coin.symbol}.png`) ||
 			fs.existsSync(`data/${coin.symbol}.svg`) ||
-			fs.existsSync(`data/${coin.symbol}.jpg`)
+			fs.existsSync(`data/${coin.symbol}.jpg`) ||
+			fs.existsSync(`data/${coin.symbol}.jpeg`)
 		) {
 			console.log(`${coin.symbol} (${coin.id}) - Skipped. Image exists.`)
 			continue
