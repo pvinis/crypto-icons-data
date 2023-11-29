@@ -1,0 +1,29 @@
+# this should be a github action that runs every 1 hour, tries to run the project, and then creates a new pull request with the changes.
+
+name: Fetch more
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch-more:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jdx/rtx-action@v1
+      - name: Fetch
+        run: |
+          pnpm run do-it
+      - name: Commit
+        run: |
+          git add data
+      - uses: peter-evans/create-pull-request@v3
+        with:
+          #   token: ${{ secrets.GITHUB_TOKEN }}
+          #   commit-message: "Fetch more"
+          #   title: "Fetch more"
+          #   body: "Fetch more"
+          branch: fetch-more
+          delete-branch: true
