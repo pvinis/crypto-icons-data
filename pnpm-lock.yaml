@@ -13,9 +13,12 @@ devDependencies:
   '@swc-node/register':
     specifier: ^1.6.8
     version: 1.6.8(@swc/core@1.3.99)(typescript@5.3.2)
-  '@tsconfig/recommended':
-    specifier: ^1.0.3
-    version: 1.0.3
+  '@tsconfig/node21':
+    specifier: ^21.0.0
+    version: 21.0.0
+  '@types/node':
+    specifier: ^20.10.0
+    version: 20.10.0
   typescript:
     specifier: ^5.3.2
     version: 5.3.2
@@ -181,13 +184,19 @@ packages:
       defer-to-connect: 2.0.1
     dev: false
 
-  /@tsconfig/recommended@1.0.3:
-    resolution: {integrity: sha512-+jby/Guq9H8O7NWgCv6X8VAiQE8Dr/nccsCtL74xyHKhu2Knu5EAKmOZj3nLCnLm1KooUzKY+5DsnGVqhM8/wQ==}
+  /@tsconfig/node21@21.0.0:
+    resolution: {integrity: sha512-fMySImjI1muKEV1JAFZfBlgSjLE8EeqNRmdcdyUWDenXyCvWjSE1oGM/nK6ob1fV+lAYlJhhC1b2nrjnDQCOhQ==}
     dev: true
 
   /@types/http-cache-semantics@4.0.4:
     resolution: {integrity: sha512-1m0bIFVc7eJWyve9S0RnuRgcQqF/Xd5QsUZAZeQFr1Q3/p9JWoQQEqmVy+DPTNpGXwhgIetAoYF8JSc33q29QA==}
     dev: false
+
+  /@types/node@20.10.0:
+    resolution: {integrity: sha512-D0WfRmU9TQ8I9PFx9Yc+EBHw+vSpIub4IDvQivcp26PtPrdMGAq5SDcpXEo/epqa/DXotVpekHiLNTg3iaKXBQ==}
+    dependencies:
+      undici-types: 5.26.5
+    dev: true
 
   /buffer-from@1.1.2:
     resolution: {integrity: sha512-E+XQCRwSbaaiChtv6k6Dwgc+bx+Bs6vuKJHHl5kox/BaKbhiXzqQOwK4cO22yElGp2OCmjwVhT3HmxgyPGnJfQ==}
@@ -358,4 +367,8 @@ packages:
     resolution: {integrity: sha512-6l+RyNy7oAHDfxC4FzSJcz9vnjTKxrLpDG5M2Vu4SHRVNg6xzqZp6LYSR9zjqQTu8DU/f5xwxUdADOkbrIX2gQ==}
     engines: {node: '>=14.17'}
     hasBin: true
+    dev: true
+
+  /undici-types@5.26.5:
+    resolution: {integrity: sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==}
     dev: true

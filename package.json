@@ -1,6 +1,7 @@
 {
 	"name": "crypto-icons-data",
 	"version": "0.2.0",
+	"type": "module",
 	"main": "src/main.ts",
 	"scripts": {
 		"do-it": "node --loader @swc-node/register/esm src/main.ts"
@@ -12,7 +13,8 @@
 	},
 	"devDependencies": {
 		"@swc-node/register": "^1.6.8",
-		"@tsconfig/recommended": "^1.0.3",
+		"@tsconfig/node21": "^21.0.0",
+		"@types/node": "^20.10.0",
 		"typescript": "^5.3.2"
 	}
 }
