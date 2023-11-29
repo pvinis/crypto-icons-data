@@ -13,6 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: jdx/rtx-action@v1
+      - run: |
+          pnpm install
       - name: Fetch
         run: |
           pnpm run do-it
