@@ -18,14 +18,9 @@ jobs:
       - name: Fetch
         run: |
           pnpm run do-it
-      #   - name: Commit new data
-      #     run: |
-      #       git add data
       - uses: peter-evans/create-pull-request@v5
         with:
-          #   token: ${{ secrets.GITHUB_TOKEN }}
-          #   commit-message: "Fetch more"
-          #   title: "Fetch more"
-          #   body: "Fetch more"
-          branch: fetch-more
+          branch: more-data
+          commit-message: "Add more data"
+          title: "Fetch more data"
           delete-branch: true
