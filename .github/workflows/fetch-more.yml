@@ -18,9 +18,9 @@ jobs:
       - name: Fetch
         run: |
           pnpm run do-it
-      - name: Commit new data
-        run: |
-          git add data
+      #   - name: Commit new data
+      #     run: |
+      #       git add data
       - uses: peter-evans/create-pull-request@v5
         with:
           #   token: ${{ secrets.GITHUB_TOKEN }}
