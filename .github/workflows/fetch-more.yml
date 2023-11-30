@@ -32,7 +32,7 @@ jobs:
           remote_repo="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           git config http.sslVerify false
           git config user.name "pavlobot"
-          git config user.email "pvinis@gmail.com"
+          git config user.email "pavlobot@pvin.is"
           git remote add publisher "${remote_repo}"
           git show-ref # useful for debugging
           git branch --verbose
