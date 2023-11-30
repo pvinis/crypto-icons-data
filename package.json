@@ -10,7 +10,7 @@
 	"author": "Pavlos Vinieratos <pvinis>",
 	"license": "ISC",
 	"dependencies": {
-		"got": "^13.0.0"
+		"got": "^14.0.0"
 	},
 	"devDependencies": {
 		"@swc-node/register": "^1.6.8",
