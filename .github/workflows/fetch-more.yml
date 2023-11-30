@@ -18,11 +18,12 @@ jobs:
       - name: Fetch
         run: |
           pnpm run do-it
-      - uses: peter-evans/create-pull-request@v5
-        with:
-          branch: more-data
-          commit-message: "Add more data"
-          title: "Fetch more data"
-          delete-branch: true
-          assignees: pvinis
-          reviewers: pvinis
+      # - uses: peter-evans/create-pull-request@v5
+      #   with:
+      #     branch: more-data
+      #     commit-message: "Add more data"
+      #     title: "Fetch more data"
+      #     delete-branch: true
+      #     assignees: pvinis
+      #     reviewers: pvinis
+      - uses: mikeal/publish-to-github-action@master
