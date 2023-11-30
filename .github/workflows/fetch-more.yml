@@ -39,7 +39,7 @@ jobs:
 
           git checkout main
           git add -A
-          git commit -m "add: ${GITHUB_SHA}" || exit 0
+          git commit -m "add: more icons" || exit 0
           git pull --rebase publisher main
           git push publisher main
       # - uses: mikeal/publish-to-github-action@master
