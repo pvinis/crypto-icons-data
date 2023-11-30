@@ -48,6 +48,7 @@ try {
 			image: { thumb: string; small: string; large: string }
 		} = await coingecko.get(`coins/${coin.id}`).json()
 
+		if (coinData.image.large.includes("missing_large")) continue
 		const fileUrl = new URL(coinData.image.large)
 		const fileExt = path.extname(fileUrl.pathname)
 		await downloadImage(coinData.image.large, `data/${coin.symbol}${fileExt}`)
