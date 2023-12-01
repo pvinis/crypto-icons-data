@@ -2,6 +2,8 @@ import path from "path"
 import { last } from "lodash"
 import symbolIdMapJson from "../data/symbol-id-map.json"
 
+const pro = true
+
 const symbolIdMap: Record<
 	string,
 	Array<{
@@ -20,15 +22,22 @@ const symbolIdMap: Record<
 
 const coingecko = {
 	get: async (url: string) => {
-		return await fetch(`https://api.coingecko.com/api/v3/${url}`, {
-			headers: { "x-cg-demo-api-key": Bun.env.COINGECKO_API_KEY! },
+		const apiUrl = pro
+			? "https://pro-api.coingecko.com/api/v3/"
+			: "https://api.coingecko.com/api/v3/"
+		return await fetch(apiUrl + url, {
+			headers: pro
+				? { "x-cg-pro-api-key": Bun.env.COINGECKO_PRO_API_KEY! }
+				: { "x-cg-demo-api-key": Bun.env.COINGECKO_DEMO_API_KEY! },
 		})
 	},
 }
 
 const downloadImage = async (url: string, filepath: string) => {
 	const img = await fetch(url, {
-		headers: { "x-cg-demo-api-key": Bun.env.COINGECKO_API_KEY! },
+		headers: pro
+			? { "x-cg-pro-api-key": Bun.env.COINGECKO_PRO_API_KEY! }
+			: { "x-cg-demo-api-key": Bun.env.COINGECKO_DEMO_API_KEY! },
 	})
 	await Bun.write(filepath, await img.arrayBuffer())
 }
@@ -72,9 +81,27 @@ try {
 			gecko_score: coinData.coingecko_score,
 			community_score: coinData.community_score,
 			image: {
-				thumb: coin.id + path.extname(last(new URL(coinData.image.thumb).pathname.split("/"))!),
-				small: coin.id + path.extname(last(new URL(coinData.image.small).pathname.split("/"))!),
-				large: coin.id + path.extname(last(new URL(coinData.image.large).pathname.split("/"))!),
+				thumb:
+					coin.id +
+					path.extname(
+						coinData.image.thumb.startsWith("http")
+							? last(new URL(coinData.image.thumb).pathname.split("/"))!
+							: coinData.image.thumb
+					),
+				small:
+					coin.id +
+					path.extname(
+						coinData.image.small.startsWith("http")
+							? last(new URL(coinData.image.small).pathname.split("/"))!
+							: coinData.image.small
+					),
+				large:
+					coin.id +
+					path.extname(
+						coinData.image.large.startsWith("http")
+							? last(new URL(coinData.image.large).pathname.split("/"))!
+							: coinData.image.large
+					),
 			},
 		})
 
