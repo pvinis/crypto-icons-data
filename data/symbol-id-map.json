@@ -1,5 +1,711 @@
 {
-	"zoc": "01coin",
-	"zcn": "0chain",
-	"0kn": "0-knowledge-network"
+  "28": [
+    {
+      "id": "28",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "42": [
+    {
+      "id": "42-coin",
+      "alexa": 1894935,
+      "gecko_rank": 1459,
+      "gecko_score": 17.654,
+      "community_score": 6.624
+    }
+  ],
+  "888": [
+    {
+      "id": "888tron",
+      "alexa": 838462,
+      "gecko_rank": 4027,
+      "gecko_score": 4.591,
+      "community_score": 19.96
+    }
+  ],
+  "2049": [
+    {
+      "id": "2049",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "2080": [
+    {
+      "id": "2080",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "69420": [
+    {
+      "id": "69420",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "zoc": [
+    {
+      "id": "01coin",
+      "alexa": 4678489,
+      "gecko_rank": 2011,
+      "gecko_score": 14.49,
+      "community_score": 14.819
+    }
+  ],
+  "zcn": [
+    {
+      "id": "0chain",
+      "alexa": 887000,
+      "gecko_rank": 392,
+      "gecko_score": 30.174,
+      "community_score": 29.334
+    }
+  ],
+  "0kn": [
+    {
+      "id": "0-knowledge-network",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "ome": [
+    {
+      "id": "0-mee",
+      "alexa": null,
+      "gecko_rank": 5176,
+      "gecko_score": 1.986,
+      "community_score": 9.026
+    }
+  ],
+  "vix": [
+    {
+      "id": "0vix-protocol",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "zrx": [
+    {
+      "id": "0x",
+      "alexa": 88488,
+      "gecko_rank": 55,
+      "gecko_score": 49.743,
+      "community_score": 39.874
+    }
+  ],
+  "0x0": [
+    {
+      "id": "0x0-ai-ai-smart-contract",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "0x1": [
+    {
+      "id": "0x1-tools-ai-multi-tool",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "0xaiswap": [
+    {
+      "id": "0xaiswap",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "0xanon": [
+    {
+      "id": "0xanon",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "0xa": [
+    {
+      "id": "0xauto-io-contract-auto-deployer",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "0xb": [
+    {
+      "id": "0xblack",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "coco": [
+    {
+      "id": "0xcoco",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "0xcon": [
+    {
+      "id": "0xconnect",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "oxd": [
+    {
+      "id": "0xdao",
+      "alexa": null,
+      "gecko_rank": 5018,
+      "gecko_score": 2.087,
+      "community_score": 8.577
+    }
+  ],
+  "cafe": [
+    {
+      "id": "0xdefcafe",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "0xfree": [
+    {
+      "id": "0xfreelance",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "0xf": [
+    {
+      "id": "0xfriend",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "0xg": [
+    {
+      "id": "0xgambit",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "0xgas": [
+    {
+      "id": "0xgasless",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "oxl": [
+    {
+      "id": "0x-leverage",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "0xlsd": [
+    {
+      "id": "0xlsd",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "0xmr": [
+    {
+      "id": "0xmonero",
+      "alexa": 2233817,
+      "gecko_rank": 2885,
+      "gecko_score": 10.515,
+      "community_score": 6.447
+    }
+  ],
+  "$0xs": [
+    {
+      "id": "0xs",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "0xs": [
+    {
+      "id": "0xsniper",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "vault": [
+    {
+      "id": "0xvault",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "tshp": [
+    {
+      "id": "12ships",
+      "alexa": 5298647,
+      "gecko_rank": 5381,
+      "gecko_score": 1.851,
+      "community_score": 7.506
+    }
+  ],
+  "1art": [
+    {
+      "id": "1art",
+      "alexa": null,
+      "gecko_rank": 1891,
+      "gecko_score": 15.035,
+      "community_score": 8.491
+    }
+  ],
+  "1eco": [
+    {
+      "id": "1eco",
+      "alexa": null,
+      "gecko_rank": 4533,
+      "gecko_score": 2.623,
+      "community_score": 8.865
+    }
+  ],
+  "water": [
+    {
+      "id": "1hive-water",
+      "alexa": null,
+      "gecko_rank": 5374,
+      "gecko_score": 1.856,
+      "community_score": 7.526
+    }
+  ],
+  "1inch": [
+    {
+      "id": "1inch",
+      "alexa": null,
+      "gecko_rank": 265,
+      "gecko_score": 33.994,
+      "community_score": 38.915
+    }
+  ],
+  "yv1inch": [
+    {
+      "id": "1inch-yvault",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "1mil": [
+    {
+      "id": "1million-nfts",
+      "alexa": null,
+      "gecko_rank": 4896,
+      "gecko_score": 2.165,
+      "community_score": 8.931
+    }
+  ],
+  "1mb": [
+    {
+      "id": "1minbet",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "1mt": [
+    {
+      "id": "1move token",
+      "alexa": null,
+      "gecko_rank": 6212,
+      "gecko_score": 0.2,
+      "community_score": 0
+    }
+  ],
+  "1peco": [
+    {
+      "id": "1peco",
+      "alexa": null,
+      "gecko_rank": 4215,
+      "gecko_score": 3.821,
+      "community_score": 16.813
+    }
+  ],
+  "1rt": [
+    {
+      "id": "1reward-token",
+      "alexa": null,
+      "gecko_rank": 6171,
+      "gecko_score": 0.2,
+      "community_score": 0
+    }
+  ],
+  "safu": [
+    {
+      "id": "1safu",
+      "alexa": null,
+      "gecko_rank": 5402,
+      "gecko_score": 1.84,
+      "community_score": 7.452
+    }
+  ],
+  "1sol": [
+    {
+      "id": "1sol",
+      "alexa": null,
+      "gecko_rank": 4005,
+      "gecko_score": 4.667,
+      "community_score": 10.37
+    },
+    {
+      "id": "1sol-io-wormhole",
+      "alexa": null,
+      "gecko_rank": 4748,
+      "gecko_score": 2.278,
+      "community_score": 9.446
+    }
+  ],
+  "₿": [
+    {
+      "id": "-2",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "pump": [
+    {
+      "id": "2024pump",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "20weth-80bal": [
+    {
+      "id": "20weth-80bal",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "vck": [
+    {
+      "id": "28vck",
+      "alexa": null,
+      "gecko_rank": 5558,
+      "gecko_score": 1.737,
+      "community_score": 5.685
+    }
+  ],
+  "arms": [
+    {
+      "id": "2acoin",
+      "alexa": 0,
+      "gecko_rank": 2556,
+      "gecko_score": 12.037,
+      "community_score": 4.824
+    }
+  ],
+  "2dai": [
+    {
+      "id": "2dai-io",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "2gcc": [
+    {
+      "id": "2g-carbon-coin",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "moon": [
+    {
+      "id": "2moon",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "2omb": [
+    {
+      "id": "2omb-finance",
+      "alexa": null,
+      "gecko_rank": 5198,
+      "gecko_score": 1.976,
+      "community_score": 8.074
+    }
+  ],
+  "2shares": [
+    {
+      "id": "2share",
+      "alexa": null,
+      "gecko_rank": 5199,
+      "gecko_score": 1.976,
+      "community_score": 8.074
+    }
+  ],
+  "fit": [
+    {
+      "id": "300fit",
+      "alexa": 1730096,
+      "gecko_rank": 4305,
+      "gecko_score": 3.404,
+      "community_score": 4.253
+    }
+  ],
+  "a3a": [
+    {
+      "id": "3a-lending-protocol",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "3d3d": [
+    {
+      "id": "3d3d",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "p3d": [
+    {
+      "id": "3dpass",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "3km": [
+    {
+      "id": "3-kingdoms-multiverse",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "3share": [
+    {
+      "id": "3shares",
+      "alexa": null,
+      "gecko_rank": 5386,
+      "gecko_score": 1.849,
+      "community_score": 8.403
+    }
+  ],
+  "3wild": [
+    {
+      "id": "3wild",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "xcal": [
+    {
+      "id": "3xcalibur",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "4art": [
+    {
+      "id": "4artechnologies",
+      "alexa": 2154740,
+      "gecko_rank": 5683,
+      "gecko_score": 1.637,
+      "community_score": 6.531
+    }
+  ],
+  "4chan": [
+    {
+      "id": "4chan",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "4dmaps": [
+    {
+      "id": "4d-twin-maps-2",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "4int": [
+    {
+      "id": "4int",
+      "alexa": null,
+      "gecko_rank": 4036,
+      "gecko_score": 4.566,
+      "community_score": 6.207
+    }
+  ],
+  "4jnet": [
+    {
+      "id": "4jnet",
+      "alexa": null,
+      "gecko_rank": 4229,
+      "gecko_score": 3.744,
+      "community_score": 9.274
+    }
+  ],
+  "nxtu": [
+    {
+      "id": "4-next-unicorn",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "50cal": [
+    {
+      "id": "50cal",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "50c": [
+    {
+      "id": "50cent",
+      "alexa": null,
+      "gecko_rank": 3278,
+      "gecko_score": 7.853,
+      "community_score": 0
+    }
+  ],
+  "vgc": [
+    {
+      "id": "5g-cash",
+      "alexa": null,
+      "gecko_rank": 6172,
+      "gecko_score": 0.2,
+      "community_score": 0
+    }
+  ],
+  "run": [
+    {
+      "id": "5km-run",
+      "alexa": null,
+      "gecko_rank": 4949,
+      "gecko_score": 2.125,
+      "community_score": 9
+    }
+  ],
+  "5mc": [
+    {
+      "id": "5mc",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "mph": [
+    {
+      "id": "88mph",
+      "alexa": null,
+      "gecko_rank": 2110,
+      "gecko_score": 13.934,
+      "community_score": 8.154
+    }
+  ],
+  "8bit": [
+    {
+      "id": "8bitearn",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "8pay": [
+    {
+      "id": "8pay",
+      "alexa": null,
+      "gecko_rank": 2274,
+      "gecko_score": 13.209,
+      "community_score": 8.306
+    }
+  ],
+  "stz": [
+    {
+      "id": "99starz",
+      "alexa": null,
+      "gecko_rank": 4121,
+      "gecko_score": 4.23,
+      "community_score": 8.768
+    }
+  ]
 }
