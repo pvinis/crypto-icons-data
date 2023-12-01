@@ -13,8 +13,6 @@ const symbolIdMap: Record<
 	}>
 > = symbolIdMapJson
 
-console.log("wow", Bun.env.COINGECKO_API_KEY!)
-
 const coingecko = {
 	get: async (url: string) => {
 		return await fetch(`https://api.coingecko.com/api/v3/${url}`, {
@@ -62,7 +60,6 @@ try {
 			community_score: number
 		} = await (await coingecko.get(`coins/${coin.id}`)).json()
 
-		console.log(coinData)
 		if (coinData.image.large.includes("missing_large")) continue
 
 		symbolIdMap[coin.symbol].push({
