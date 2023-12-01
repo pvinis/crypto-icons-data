@@ -1,6 +1,7 @@
 import got from "got"
 import fs from "fs"
 import path from "path"
+import data from "../data/data.json"
 
 const coingecko = got.extend({
 	prefixUrl: "https://api.coingecko.com/api/v3",

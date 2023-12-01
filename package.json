@@ -1,21 +1,17 @@
 {
 	"name": "crypto-icons-data",
-	"version": "0.3.0",
+	"version": "0.4.0",
 	"description": "Trying to catch 'em all.",
 	"type": "module",
 	"main": "src/main.ts",
 	"scripts": {
-		"do-it": "node --loader @swc-node/register/esm src/main.ts"
+		"do-it": "bun run src/main.ts"
 	},
 	"author": "Pavlos Vinieratos <pvinis>",
 	"license": "ISC",
-	"dependencies": {
-		"got": "^14.0.0"
-	},
+	"dependencies": {},
 	"devDependencies": {
-		"@swc-node/register": "^1.6.8",
-		"@tsconfig/node21": "^21.0.0",
-		"@types/node": "^20.10.0",
+		"@tsconfig/bun": "^1.0.1",
 		"typescript": "^5.3.2"
 	}
 }
