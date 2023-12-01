@@ -2126,6 +2126,13 @@
       "gecko_rank": 3239,
       "gecko_score": 8.117,
       "community_score": 35.986
+    },
+    {
+      "id": "aficionadao",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ],
   "adex": [
@@ -2438,6 +2445,154 @@
       "gecko_rank": 2890,
       "gecko_score": 10.502,
       "community_score": 6.236
+    }
+  ],
+  "aer": [
+    {
+      "id": "aerdrop",
+      "alexa": null,
+      "gecko_rank": 5623,
+      "gecko_score": 1.688,
+      "community_score": 6.761
+    },
+    {
+      "id": "aerie",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "aergo": [
+    {
+      "id": "aergo",
+      "alexa": 637746,
+      "gecko_rank": 174,
+      "gecko_score": 39.356,
+      "community_score": 8.667
+    }
+  ],
+  "aero": [
+    {
+      "id": "aerodrome-finance",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    },
+    {
+      "id": "aerovek-aviation",
+      "alexa": null,
+      "gecko_rank": 4062,
+      "gecko_score": 4.436,
+      "community_score": 19.255
+    }
+  ],
+  "arnx": [
+    {
+      "id": "aeron",
+      "alexa": 813711,
+      "gecko_rank": 2878,
+      "gecko_score": 10.571,
+      "community_score": 8.917
+    }
+  ],
+  "aesirx": [],
+  "ae": [
+    {
+      "id": "aeternity",
+      "alexa": 534975,
+      "gecko_rank": 131,
+      "gecko_score": 42.702,
+      "community_score": 34.974
+    }
+  ],
+  "aeg": [
+    {
+      "id": "aether-games",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "aeur": [
+    {
+      "id": "aeur",
+      "alexa": 0,
+      "gecko_rank": 6225,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "aevum": [
+    {
+      "id": "aevum-ore",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "azr": [
+    {
+      "id": "aezora",
+      "alexa": 1847514,
+      "gecko_rank": 1183,
+      "gecko_score": 19.64,
+      "community_score": 6.345
+    }
+  ],
+  "afen": [
+    {
+      "id": "afen-blockchain",
+      "alexa": null,
+      "gecko_rank": 2931,
+      "gecko_score": 10.318,
+      "community_score": 9.505
+    }
+  ],
+  "afnty": [
+    {
+      "id": "affinity",
+      "alexa": null,
+      "gecko_rank": 4347,
+      "gecko_score": 3.2,
+      "community_score": 0
+    }
+  ],
+  "fyn": [
+    {
+      "id": "affyn",
+      "alexa": null,
+      "gecko_rank": 1286,
+      "gecko_score": 18.838,
+      "community_score": 9.178
+    }
+  ],
+  "afin": [
+    {
+      "id": "afin-coin",
+      "alexa": 0,
+      "gecko_rank": 2446,
+      "gecko_score": 12.473,
+      "community_score": 8.501
+    }
+  ],
+  "afk": [
+    {
+      "id": "afkdao",
+      "alexa": null,
+      "gecko_rank": 4325,
+      "gecko_score": 3.288,
+      "community_score": 9.582
+    },
+    {
+      "id": "afk-trading-bot",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ]
 }
