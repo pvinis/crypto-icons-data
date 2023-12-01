@@ -13,17 +13,19 @@ const symbolIdMap: Record<
 	}>
 > = symbolIdMapJson
 
+console.log("wow", Bun.env.COINGECKO_API_KEY!)
+
 const coingecko = {
 	get: async (url: string) => {
 		return await fetch(`https://api.coingecko.com/api/v3/${url}`, {
-			headers: { "x-cg-demo-api-key": process.env.COINGECKO_API_KEY! },
+			headers: { "x-cg-demo-api-key": Bun.env.COINGECKO_API_KEY! },
 		})
 	},
 }
 
 const downloadImage = async (url: string, filepath: string) => {
 	const img = await fetch(url, {
-		headers: { "x-cg-demo-api-key": process.env.COINGECKO_API_KEY! },
+		headers: { "x-cg-demo-api-key": Bun.env.COINGECKO_API_KEY! },
 	})
 	await Bun.write(filepath, await img.arrayBuffer())
 }
