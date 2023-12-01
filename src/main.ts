@@ -72,9 +72,9 @@ try {
 			gecko_score: coinData.coingecko_score,
 			community_score: coinData.community_score,
 			image: {
-				thumb: last(new URL(coinData.image.thumb).pathname.split("/"))!,
-				small: last(new URL(coinData.image.small).pathname.split("/"))!,
-				large: last(new URL(coinData.image.large).pathname.split("/"))!,
+				thumb: coin.id + path.extname(last(new URL(coinData.image.thumb).pathname.split("/"))!),
+				small: coin.id + path.extname(last(new URL(coinData.image.small).pathname.split("/"))!),
+				large: coin.id + path.extname(last(new URL(coinData.image.large).pathname.split("/"))!),
 			},
 		})
 
