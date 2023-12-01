@@ -9,3 +9,8 @@ and every now and then, we can run the list call and grab the new icons
 map from symbol to id. could be it matches more than one. in that case do we do an array? do we pick the alexa score? or the gecko rank? something
 
 same for exchanges!
+
+
+--
+
+Data from CoinGecko
