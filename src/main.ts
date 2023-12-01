@@ -60,6 +60,7 @@ try {
 			community_score: number
 		} = await (await coingecko.get(`coins/${coin.id}`)).json()
 
+		console.log(coinData.image)
 		if (coinData.image.large.includes("missing_large")) continue
 
 		symbolIdMap[coin.symbol].push({
