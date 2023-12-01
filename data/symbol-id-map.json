@@ -2313,7 +2313,15 @@
       "community_score": 0
     }
   ],
-  "gem": [],
+  "gem": [
+    {
+      "id": "adv3nture-xyz-gemstone",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
   "gold": [
     {
       "id": "adv3nture-xyz-gold",
@@ -2497,7 +2505,15 @@
       "community_score": 8.917
     }
   ],
-  "aesirx": [],
+  "aesirx": [
+    {
+      "id": "aesirx",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
   "ae": [
     {
       "id": "aeternity",
@@ -2589,6 +2605,168 @@
     },
     {
       "id": "afk-trading-bot",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "afr": [
+    {
+      "id": "afreum",
+      "alexa": null,
+      "gecko_rank": 2648,
+      "gecko_score": 11.685,
+      "community_score": 9.037
+    }
+  ],
+  "afx": [
+    {
+      "id": "afrix",
+      "alexa": null,
+      "gecko_rank": 5997,
+      "gecko_score": 0.759,
+      "community_score": 2.543
+    }
+  ],
+  "afro": [
+    {
+      "id": "afrostar",
+      "alexa": null,
+      "gecko_rank": 5488,
+      "gecko_score": 1.78,
+      "community_score": 7.182
+    }
+  ],
+  "afsui": [
+    {
+      "id": "aftermath-staked-sui",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "fund": [
+    {
+      "id": "a-fund-baby",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "afyon": [
+    {
+      "id": "afyonspor-fan-token",
+      "alexa": null,
+      "gecko_rank": 5228,
+      "gecko_score": 1.955,
+      "community_score": 7.977
+    }
+  ],
+  "agac": [
+    {
+      "id": "aga-carbon-credit",
+      "alexa": null,
+      "gecko_rank": 4136,
+      "gecko_score": 4.183,
+      "community_score": 18.106
+    }
+  ],
+  "acar": [
+    {
+      "id": "aga-carbon-rewards",
+      "alexa": null,
+      "gecko_rank": 4137,
+      "gecko_score": 4.183,
+      "community_score": 18.104
+    }
+  ],
+  "edc": [
+    {
+      "id": "aga-rewards",
+      "alexa": null,
+      "gecko_rank": 3674,
+      "gecko_score": 5.689,
+      "community_score": 4.861
+    }
+  ],
+  "aga": [
+    {
+      "id": "aga-token",
+      "alexa": 1670032,
+      "gecko_rank": 2759,
+      "gecko_score": 11.209,
+      "community_score": 7
+    }
+  ],
+  "agvc": [
+    {
+      "id": "agavecoin",
+      "alexa": 1320447,
+      "gecko_rank": 3925,
+      "gecko_score": 4.896,
+      "community_score": 6.497
+    }
+  ],
+  "agve": [
+    {
+      "id": "agave-token",
+      "alexa": null,
+      "gecko_rank": 1834,
+      "gecko_score": 15.371,
+      "community_score": 21.442
+    }
+  ],
+  "age": [
+    {
+      "id": "agenor",
+      "alexa": null,
+      "gecko_rank": 3975,
+      "gecko_score": 4.759,
+      "community_score": 8.719
+    }
+  ],
+  "aog": [
+    {
+      "id": "ageofgods",
+      "alexa": null,
+      "gecko_rank": 3304,
+      "gecko_score": 7.658,
+      "community_score": 9.581
+    }
+  ],
+  "koson": [
+    {
+      "id": "age-of-zalmoxis-koson",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "ageur": [
+    {
+      "id": "ageur",
+      "alexa": null,
+      "gecko_rank": 914,
+      "gecko_score": 21.935,
+      "community_score": 8.669
+    }
+  ],
+  "egeur.e": [
+    {
+      "id": "ageur-plenty-bridge",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "aggrx": [
+    {
+      "id": "aggrx",
       "alexa": null,
       "gecko_rank": null,
       "gecko_score": 0,

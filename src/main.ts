@@ -60,8 +60,6 @@ try {
 			community_score: number
 		} = await (await coingecko.get(`coins/${coin.id}`)).json()
 
-		if (coinData.image.large.includes("missing_large")) continue
-
 		symbolIdMap[coin.symbol].push({
 			id: coin.id,
 			alexa: coinData.public_interest_stats.alexa_rank,
@@ -72,9 +70,15 @@ try {
 
 		await Bun.write("data/symbol-id-map.json", JSON.stringify(symbolIdMap, null, 2) + "\n")
 
-		const fileUrl = new URL(coinData.image.large)
-		const fileExt = path.extname(fileUrl.pathname)
-		await downloadImage(coinData.image.large, `data/icons/large/${coin.id}${fileExt}`)
+		if (coinData.image.large.includes("missing_large")) {
+			console.log(`${index + 1}/${length} - ${coin.symbol} (${coin.id}) - Missing large image.`)
+			const file = Bun.file("data/missing.png")
+			await Bun.write(`data/icons/large/${coin.id}.png`, file)
+		} else {
+			const fileUrl = new URL(coinData.image.large)
+			const fileExt = path.extname(fileUrl.pathname)
+			await downloadImage(coinData.image.large, `data/icons/large/${coin.id}${fileExt}`)
+		}
 	}
 } catch (e) {
 	console.log(e)
