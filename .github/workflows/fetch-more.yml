@@ -14,18 +14,10 @@ jobs:
       - uses: actions/checkout@v4
       - uses: jdx/rtx-action@v1
       - run: |
-          pnpm install
+          bun install
       - name: Fetch
         run: |
-          pnpm run do-it
-      # - uses: peter-evans/create-pull-request@v5
-      #   with:
-      #     branch: more-data
-      #     commit-message: "Add more data"
-      #     title: "Fetch more data"
-      #     delete-branch: true
-      #     assignees: pvinis
-      #     reviewers: pvinis
+          bun run do-it
       - name: push to main
         # took this from https://github.com/mikeal/publish-to-github-action/blob/master/entrypoint.sh
         run: |
@@ -42,7 +34,3 @@ jobs:
           git commit -m "add: more icons" || exit 0
           git pull --rebase publisher main
           git push publisher main
-      # - uses: mikeal/publish-to-github-action@master
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #     BRANCH_NAME: main

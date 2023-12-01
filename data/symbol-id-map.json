@@ -794,6 +794,13 @@
       "gecko_rank": 4487,
       "gecko_score": 2.653,
       "community_score": 11.138
+    },
+    {
+      "id": "aave-v3-aave",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ],
   "aammbptbalweth": [
@@ -1051,6 +1058,360 @@
       "gecko_rank": 4503,
       "gecko_score": 2.653,
       "community_score": 11.138
+    },
+    {
+      "id": "aave-dai-v1",
+      "alexa": 15890,
+      "gecko_rank": 1060,
+      "gecko_score": 20.809,
+      "community_score": 40.128
+    }
+  ],
+  "aenj": [
+    {
+      "id": "aave-enj",
+      "alexa": null,
+      "gecko_rank": 4494,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    },
+    {
+      "id": "aave-enj-v1",
+      "alexa": 15890,
+      "gecko_rank": 3109,
+      "gecko_score": 9.044,
+      "community_score": 40.188
+    }
+  ],
+  "aeth": [
+    {
+      "id": "aave-eth-v1",
+      "alexa": null,
+      "gecko_rank": 702,
+      "gecko_score": 24.287,
+      "community_score": 40.061
+    }
+  ],
+  "ghst": [
+    {
+      "id": "aavegotchi",
+      "alexa": 179954,
+      "gecko_rank": 740,
+      "gecko_score": 23.728,
+      "community_score": 9.75
+    }
+  ],
+  "alpha": [
+    {
+      "id": "aavegotchi-alpha",
+      "alexa": null,
+      "gecko_rank": 2606,
+      "gecko_score": 11.804,
+      "community_score": 9.75
+    }
+  ],
+  "fomo": [
+    {
+      "id": "aavegotchi-fomo",
+      "alexa": null,
+      "gecko_rank": 2521,
+      "gecko_score": 12.206,
+      "community_score": 9.75
+    }
+  ],
+  "fud": [
+    {
+      "id": "aavegotchi-fud",
+      "alexa": null,
+      "gecko_rank": 2603,
+      "gecko_score": 11.812,
+      "community_score": 9.75
+    }
+  ],
+  "kek": [
+    {
+      "id": "aavegotchi-kek",
+      "alexa": null,
+      "gecko_rank": 2616,
+      "gecko_score": 11.783,
+      "community_score": 9.75
+    }
+  ],
+  "agusd": [
+    {
+      "id": "aave-gusd",
+      "alexa": null,
+      "gecko_rank": 4504,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    }
+  ],
+  "asteth": [
+    {
+      "id": "aave-interest-bearing-steth",
+      "alexa": null,
+      "gecko_rank": 4521,
+      "gecko_score": 2.653,
+      "community_score": 11.137
+    }
+  ],
+  "aknc": [
+    {
+      "id": "aave-knc",
+      "alexa": null,
+      "gecko_rank": 4505,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    },
+    {
+      "id": "aave-knc-v1",
+      "alexa": 15890,
+      "gecko_rank": 1057,
+      "gecko_score": 20.822,
+      "community_score": 40.187
+    }
+  ],
+  "alink": [
+    {
+      "id": "aave-link",
+      "alexa": null,
+      "gecko_rank": 4523,
+      "gecko_score": 2.65,
+      "community_score": 11.138
+    },
+    {
+      "id": "aave-link-v1",
+      "alexa": null,
+      "gecko_rank": 1055,
+      "gecko_score": 20.828,
+      "community_score": 40.211
+    }
+  ],
+  "amana": [
+    {
+      "id": "aave-mana",
+      "alexa": null,
+      "gecko_rank": 4506,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    },
+    {
+      "id": "aave-mana-v1",
+      "alexa": 15890,
+      "gecko_rank": 1061,
+      "gecko_score": 20.806,
+      "community_score": 40.111
+    }
+  ],
+  "amkr": [
+    {
+      "id": "aave-mkr",
+      "alexa": null,
+      "gecko_rank": 4507,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    },
+    {
+      "id": "aave-mkr-v1",
+      "alexa": 15890,
+      "gecko_rank": 1058,
+      "gecko_score": 20.82,
+      "community_score": 40.174
+    }
+  ],
+  "amaave": [
+    {
+      "id": "aave-polygon-aave",
+      "alexa": null,
+      "gecko_rank": 4508,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    }
+  ],
+  "amdai": [
+    {
+      "id": "aave-polygon-dai",
+      "alexa": null,
+      "gecko_rank": 4481,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    }
+  ],
+  "amusdc": [
+    {
+      "id": "aave-polygon-usdc",
+      "alexa": null,
+      "gecko_rank": 4482,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    }
+  ],
+  "amusdt": [
+    {
+      "id": "aave-polygon-usdt",
+      "alexa": null,
+      "gecko_rank": 4484,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    }
+  ],
+  "amwbtc": [
+    {
+      "id": "aave-polygon-wbtc",
+      "alexa": null,
+      "gecko_rank": 3452,
+      "gecko_score": 6.69,
+      "community_score": 11.138
+    }
+  ],
+  "amweth": [
+    {
+      "id": "aave-polygon-weth",
+      "alexa": null,
+      "gecko_rank": 3362,
+      "gecko_score": 7.254,
+      "community_score": 11.138
+    }
+  ],
+  "amwmatic": [
+    {
+      "id": "aave-polygon-wmatic",
+      "alexa": null,
+      "gecko_rank": 4485,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    }
+  ],
+  "arai": [
+    {
+      "id": "aave-rai",
+      "alexa": null,
+      "gecko_rank": 4493,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    }
+  ],
+  "aren": [
+    {
+      "id": "aave-ren",
+      "alexa": null,
+      "gecko_rank": 4489,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    },
+    {
+      "id": "aave-ren-v1",
+      "alexa": 15890,
+      "gecko_rank": 3114,
+      "gecko_score": 9.015,
+      "community_score": 40.057
+    }
+  ],
+  "asnx": [
+    {
+      "id": "aave-snx",
+      "alexa": null,
+      "gecko_rank": 4510,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    },
+    {
+      "id": "aave-snx-v1",
+      "alexa": 15890,
+      "gecko_rank": 1059,
+      "gecko_score": 20.819,
+      "community_score": 40.173
+    }
+  ],
+  "asusd": [
+    {
+      "id": "aave-susd",
+      "alexa": null,
+      "gecko_rank": 4492,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    },
+    {
+      "id": "aave-susd-v1",
+      "alexa": 15890,
+      "gecko_rank": 1051,
+      "gecko_score": 20.835,
+      "community_score": 40.244
+    }
+  ],
+  "atusd": [
+    {
+      "id": "aave-tusd",
+      "alexa": null,
+      "gecko_rank": 4511,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    },
+    {
+      "id": "aave-tusd-v1",
+      "alexa": 15890,
+      "gecko_rank": 1050,
+      "gecko_score": 20.835,
+      "community_score": 40.243
+    }
+  ],
+  "auni": [
+    {
+      "id": "aave-uni",
+      "alexa": null,
+      "gecko_rank": 4478,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    }
+  ],
+  "ausdc": [
+    {
+      "id": "aave-usdc",
+      "alexa": null,
+      "gecko_rank": 4514,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    },
+    {
+      "id": "aave-usdc-v1",
+      "alexa": 15890,
+      "gecko_rank": 605,
+      "gecko_score": 25.626,
+      "community_score": 40.072
+    }
+  ],
+  "ausdt": [
+    {
+      "id": "aave-usdt",
+      "alexa": null,
+      "gecko_rank": 4515,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    },
+    {
+      "id": "aave-usdt-v1",
+      "alexa": 15890,
+      "gecko_rank": 4520,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    }
+  ],
+  "a1inch": [
+    {
+      "id": "aave-v3-1inch",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "aageur": [
+    {
+      "id": "aave-v3-ageur",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ]
 }
