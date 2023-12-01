@@ -1239,6 +1239,18 @@
         "small": "aave-aave.png",
         "large": "aave-aave.png"
       }
+    },
+    {
+      "id": "aave-v3-aave",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "aave-v3-aave.png",
+        "small": "aave-v3-aave.png",
+        "large": "aave-v3-aave.png"
+      }
     }
   ],
   "aammbptbalweth": [
@@ -1936,6 +1948,260 @@
         "thumb": "aave-polygon-usdc.png",
         "small": "aave-polygon-usdc.png",
         "large": "aave-polygon-usdc.png"
+      }
+    }
+  ],
+  "amusdt": [
+    {
+      "id": "aave-polygon-usdt",
+      "alexa": null,
+      "gecko_rank": 4487,
+      "gecko_score": 2.653,
+      "community_score": 11.138,
+      "image": {
+        "thumb": "aave-polygon-usdt.png",
+        "small": "aave-polygon-usdt.png",
+        "large": "aave-polygon-usdt.png"
+      }
+    }
+  ],
+  "amwbtc": [
+    {
+      "id": "aave-polygon-wbtc",
+      "alexa": null,
+      "gecko_rank": 3452,
+      "gecko_score": 6.69,
+      "community_score": 11.138,
+      "image": {
+        "thumb": "aave-polygon-wbtc.png",
+        "small": "aave-polygon-wbtc.png",
+        "large": "aave-polygon-wbtc.png"
+      }
+    }
+  ],
+  "amweth": [
+    {
+      "id": "aave-polygon-weth",
+      "alexa": null,
+      "gecko_rank": 3362,
+      "gecko_score": 7.254,
+      "community_score": 11.138,
+      "image": {
+        "thumb": "aave-polygon-weth.png",
+        "small": "aave-polygon-weth.png",
+        "large": "aave-polygon-weth.png"
+      }
+    }
+  ],
+  "amwmatic": [
+    {
+      "id": "aave-polygon-wmatic",
+      "alexa": null,
+      "gecko_rank": 4486,
+      "gecko_score": 2.653,
+      "community_score": 11.138,
+      "image": {
+        "thumb": "aave-polygon-wmatic.png",
+        "small": "aave-polygon-wmatic.png",
+        "large": "aave-polygon-wmatic.png"
+      }
+    }
+  ],
+  "arai": [
+    {
+      "id": "aave-rai",
+      "alexa": null,
+      "gecko_rank": 4493,
+      "gecko_score": 2.653,
+      "community_score": 11.138,
+      "image": {
+        "thumb": "aave-rai.png",
+        "small": "aave-rai.png",
+        "large": "aave-rai.png"
+      }
+    }
+  ],
+  "aren": [
+    {
+      "id": "aave-ren",
+      "alexa": null,
+      "gecko_rank": 4492,
+      "gecko_score": 2.653,
+      "community_score": 11.138,
+      "image": {
+        "thumb": "aave-ren.png",
+        "small": "aave-ren.png",
+        "large": "aave-ren.png"
+      }
+    },
+    {
+      "id": "aave-ren-v1",
+      "alexa": 15890,
+      "gecko_rank": 3114,
+      "gecko_score": 9.015,
+      "community_score": 40.057,
+      "image": {
+        "thumb": "aave-ren-v1.png",
+        "small": "aave-ren-v1.png",
+        "large": "aave-ren-v1.png"
+      }
+    }
+  ],
+  "asnx": [
+    {
+      "id": "aave-snx",
+      "alexa": null,
+      "gecko_rank": 4497,
+      "gecko_score": 2.653,
+      "community_score": 11.138,
+      "image": {
+        "thumb": "aave-snx.png",
+        "small": "aave-snx.png",
+        "large": "aave-snx.png"
+      }
+    },
+    {
+      "id": "aave-snx-v1",
+      "alexa": 15890,
+      "gecko_rank": 1059,
+      "gecko_score": 20.819,
+      "community_score": 40.173,
+      "image": {
+        "thumb": "aave-snx-v1.png",
+        "small": "aave-snx-v1.png",
+        "large": "aave-snx-v1.png"
+      }
+    }
+  ],
+  "asusd": [
+    {
+      "id": "aave-susd",
+      "alexa": null,
+      "gecko_rank": 4494,
+      "gecko_score": 2.653,
+      "community_score": 11.138,
+      "image": {
+        "thumb": "aave-susd.png",
+        "small": "aave-susd.png",
+        "large": "aave-susd.png"
+      }
+    },
+    {
+      "id": "aave-susd-v1",
+      "alexa": 15890,
+      "gecko_rank": 1051,
+      "gecko_score": 20.835,
+      "community_score": 40.244,
+      "image": {
+        "thumb": "aave-susd-v1.png",
+        "small": "aave-susd-v1.png",
+        "large": "aave-susd-v1.png"
+      }
+    }
+  ],
+  "atusd": [
+    {
+      "id": "aave-tusd",
+      "alexa": null,
+      "gecko_rank": 4514,
+      "gecko_score": 2.653,
+      "community_score": 11.138,
+      "image": {
+        "thumb": "aave-tusd.png",
+        "small": "aave-tusd.png",
+        "large": "aave-tusd.png"
+      }
+    },
+    {
+      "id": "aave-tusd-v1",
+      "alexa": 15890,
+      "gecko_rank": 1050,
+      "gecko_score": 20.835,
+      "community_score": 40.243,
+      "image": {
+        "thumb": "aave-tusd-v1.png",
+        "small": "aave-tusd-v1.png",
+        "large": "aave-tusd-v1.png"
+      }
+    }
+  ],
+  "auni": [
+    {
+      "id": "aave-uni",
+      "alexa": null,
+      "gecko_rank": 4482,
+      "gecko_score": 2.653,
+      "community_score": 11.138,
+      "image": {
+        "thumb": "aave-uni.png",
+        "small": "aave-uni.png",
+        "large": "aave-uni.png"
+      }
+    }
+  ],
+  "ausdc": [
+    {
+      "id": "aave-usdc",
+      "alexa": null,
+      "gecko_rank": 4515,
+      "gecko_score": 2.653,
+      "community_score": 11.138,
+      "image": {
+        "thumb": "aave-usdc.png",
+        "small": "aave-usdc.png",
+        "large": "aave-usdc.png"
+      }
+    },
+    {
+      "id": "aave-usdc-v1",
+      "alexa": 15890,
+      "gecko_rank": 605,
+      "gecko_score": 25.626,
+      "community_score": 40.072,
+      "image": {
+        "thumb": "aave-usdc-v1.png",
+        "small": "aave-usdc-v1.png",
+        "large": "aave-usdc-v1.png"
+      }
+    }
+  ],
+  "ausdt": [
+    {
+      "id": "aave-usdt",
+      "alexa": null,
+      "gecko_rank": 4516,
+      "gecko_score": 2.653,
+      "community_score": 11.138,
+      "image": {
+        "thumb": "aave-usdt.png",
+        "small": "aave-usdt.png",
+        "large": "aave-usdt.png"
+      }
+    },
+    {
+      "id": "aave-usdt-v1",
+      "alexa": 15890,
+      "gecko_rank": 4520,
+      "gecko_score": 2.653,
+      "community_score": 11.138,
+      "image": {
+        "thumb": "aave-usdt-v1.png",
+        "small": "aave-usdt-v1.png",
+        "large": "aave-usdt-v1.png"
+      }
+    }
+  ],
+  "a1inch": [
+    {
+      "id": "aave-v3-1inch",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "aave-v3-1inch.png",
+        "small": "aave-v3-1inch.png",
+        "large": "aave-v3-1inch.png"
       }
     }
   ]
