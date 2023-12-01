@@ -999,6 +999,13 @@
       "gecko_rank": 4499,
       "gecko_score": 2.653,
       "community_score": 11.138
+    },
+    {
+      "id": "aave-v3-bal",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ],
   "abpt": [
@@ -1049,6 +1056,13 @@
       "gecko_rank": 4473,
       "gecko_score": 2.653,
       "community_score": 11.138
+    },
+    {
+      "id": "aave-v3-crv",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ],
   "adai": [
@@ -1065,6 +1079,13 @@
       "gecko_rank": 1060,
       "gecko_score": 20.809,
       "community_score": 40.128
+    },
+    {
+      "id": "aave-v3-dai",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ],
   "aenj": [
@@ -1169,6 +1190,13 @@
       "gecko_rank": 1057,
       "gecko_score": 20.822,
       "community_score": 40.187
+    },
+    {
+      "id": "aave-v3-knc",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ],
   "alink": [
@@ -1185,6 +1213,13 @@
       "gecko_rank": 1055,
       "gecko_score": 20.828,
       "community_score": 40.211
+    },
+    {
+      "id": "aave-v3-link",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ],
   "amana": [
@@ -1408,6 +1443,141 @@
   "aageur": [
     {
       "id": "aave-v3-ageur",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "aarb": [
+    {
+      "id": "aave-v3-arb",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "abtc.b": [
+    {
+      "id": "aave-v3-btc-b",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "acbeth": [
+    {
+      "id": "aave-v3-cbeth",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "adpi": [
+    {
+      "id": "aave-v3-dpi",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "aens": [
+    {
+      "id": "aave-v3-ens",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "aeure": [
+    {
+      "id": "aave-v3-eure",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "aeurs": [
+    {
+      "id": "aave-v3-eurs",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "afrax": [
+    {
+      "id": "aave-v3-frax",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "aghst": [
+    {
+      "id": "aave-v3-ghst",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "agno": [
+    {
+      "id": "aave-v3-gno",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "aldo": [
+    {
+      "id": "aave-v3-ldo",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "alusd": [
+    {
+      "id": "aave-v3-lusd",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "amai": [
+    {
+      "id": "aave-v3-mai",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "amaticx": [
+    {
+      "id": "aave-v3-maticx",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "ametis": [
+    {
+      "id": "aave-v3-metis",
       "alexa": null,
       "gecko_rank": null,
       "gecko_score": 0,
