@@ -45,7 +45,9 @@ const downloadImage = async (url: string, filepath: string) => {
 try {
 	const coins: Array<{ id: string; symbol: string; name: string }> = await (
 		await coingecko.get("coins/list")
-	).json()
+	)
+		// await coingecko.get("coins/list/new")
+		.json()
 
 	await Bun.write("data/data.json", JSON.stringify(coins, null, 2) + "\n")
 
