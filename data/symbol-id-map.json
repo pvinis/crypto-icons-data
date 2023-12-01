@@ -1252,6 +1252,13 @@
       "gecko_rank": 1058,
       "gecko_score": 20.82,
       "community_score": 40.174
+    },
+    {
+      "id": "aave-v3-mkr",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ],
   "amaave": [
@@ -1356,6 +1363,13 @@
       "gecko_rank": 1059,
       "gecko_score": 20.819,
       "community_score": 40.173
+    },
+    {
+      "id": "aave-v3-snx",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ],
   "asusd": [
@@ -1372,6 +1386,13 @@
       "gecko_rank": 1051,
       "gecko_score": 20.835,
       "community_score": 40.244
+    },
+    {
+      "id": "aave-v3-susd",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ],
   "atusd": [
@@ -1397,6 +1418,13 @@
       "gecko_rank": 4478,
       "gecko_score": 2.653,
       "community_score": 11.138
+    },
+    {
+      "id": "aave-v3-uni",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ],
   "ausdc": [
@@ -1413,6 +1441,13 @@
       "gecko_rank": 605,
       "gecko_score": 25.626,
       "community_score": 40.072
+    },
+    {
+      "id": "aave-v3-usdc",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ],
   "ausdt": [
@@ -1429,6 +1464,13 @@
       "gecko_rank": 4520,
       "gecko_score": 2.653,
       "community_score": 11.138
+    },
+    {
+      "id": "aave-v3-usdt",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
     }
   ],
   "a1inch": [
@@ -1582,6 +1624,472 @@
       "gecko_rank": null,
       "gecko_score": 0,
       "community_score": 0
+    }
+  ],
+  "aop": [
+    {
+      "id": "aave-v3-op",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "areth": [
+    {
+      "id": "aave-v3-reth",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "arpl": [
+    {
+      "id": "aave-v3-rpl",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "asavax": [
+    {
+      "id": "aave-v3-savax",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "asdai": [
+    {
+      "id": "aave-v3-sdai",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "astg": [
+    {
+      "id": "aave-v3-stg",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "astmatic": [
+    {
+      "id": "aave-v3-stmatic",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "asushi": [
+    {
+      "id": "aave-v3-sushi",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "ausdbc": [
+    {
+      "id": "aave-v3-usdbc",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "ausdc.e": [
+    {
+      "id": "aave-v3-usdc-e",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "awavax": [
+    {
+      "id": "aave-v3-wavax",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "awbtc": [
+    {
+      "id": "aave-v3-wbtc",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    },
+    {
+      "id": "aave-wbtc",
+      "alexa": null,
+      "gecko_rank": 4492,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    },
+    {
+      "id": "aave-wbtc-v1",
+      "alexa": 15890,
+      "gecko_rank": 1049,
+      "gecko_score": 20.838,
+      "community_score": 40.258
+    }
+  ],
+  "aweth": [
+    {
+      "id": "aave-v3-weth",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    },
+    {
+      "id": "aave-weth",
+      "alexa": null,
+      "gecko_rank": 4495,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    }
+  ],
+  "awmatic": [
+    {
+      "id": "aave-v3-wmatic",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "awsteth": [
+    {
+      "id": "aave-v3-wsteth",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "axsushi": [
+    {
+      "id": "aave-xsushi",
+      "alexa": null,
+      "gecko_rank": 4473,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    }
+  ],
+  "ayfi": [
+    {
+      "id": "aave-yfi",
+      "alexa": null,
+      "gecko_rank": 4508,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    }
+  ],
+  "yvaave": [
+    {
+      "id": "aave-yvault",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "azrx": [
+    {
+      "id": "aave-zrx",
+      "alexa": null,
+      "gecko_rank": 4506,
+      "gecko_score": 2.653,
+      "community_score": 11.138
+    },
+    {
+      "id": "aave-zrx-v1",
+      "alexa": 15890,
+      "gecko_rank": 1052,
+      "gecko_score": 20.833,
+      "community_score": 40.236
+    }
+  ],
+  "abi": [
+    {
+      "id": "abachi-2",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "$abased": [
+    {
+      "id": "abased",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "meta": [
+    {
+      "id": "abcmeta",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "abc": [
+    {
+      "id": "abc-pos-pool",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "abel": [
+    {
+      "id": "abel-finance",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    },
+    {
+      "id": "abelian",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "abey": [
+    {
+      "id": "abey",
+      "alexa": null,
+      "gecko_rank": 3645,
+      "gecko_score": 5.835,
+      "community_score": 0
+    }
+  ],
+  "able": [
+    {
+      "id": "able-finance",
+      "alexa": null,
+      "gecko_rank": 6164,
+      "gecko_score": 0.2,
+      "community_score": 0
+    }
+  ],
+  "aboat": [
+    {
+      "id": "aboat-token-2",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "ast": [
+    {
+      "id": "absolute-sync-token",
+      "alexa": null,
+      "gecko_rank": 3458,
+      "gecko_score": 6.659,
+      "community_score": 3.37
+    }
+  ],
+  "awt": [
+    {
+      "id": "abyss-world",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "aca": [
+    {
+      "id": "acala",
+      "alexa": null,
+      "gecko_rank": 61,
+      "gecko_score": 49.25,
+      "community_score": 39.088
+    }
+  ],
+  "ausd": [
+    {
+      "id": "acala-dollar-acala",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "acs": [
+    {
+      "id": "access-protocol",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    },
+    {
+      "id": "acryptos",
+      "alexa": null,
+      "gecko_rank": 1598,
+      "gecko_score": 16.825,
+      "community_score": 27.572
+    },
+    {
+      "id": "acryptos-2",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "ace": [
+    {
+      "id": "acent",
+      "alexa": null,
+      "gecko_rank": 1175,
+      "gecko_score": 19.69,
+      "community_score": 9.547
+    },
+    {
+      "id": "acetoken",
+      "alexa": null,
+      "gecko_rank": 4362,
+      "gecko_score": 3.121,
+      "community_score": 13.276
+    }
+  ],
+  "act": [
+    {
+      "id": "acet-token",
+      "alexa": null,
+      "gecko_rank": 1366,
+      "gecko_score": 18.321,
+      "community_score": 6.977
+    },
+    {
+      "id": "achain",
+      "alexa": 1451098,
+      "gecko_rank": 220,
+      "gecko_score": 36.14,
+      "community_score": 37.454
+    }
+  ],
+  "acid": [
+    {
+      "id": "acid",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "ack": [
+    {
+      "id": "acknoledger",
+      "alexa": null,
+      "gecko_rank": 4729,
+      "gecko_score": 2.29,
+      "community_score": 9.499
+    }
+  ],
+  "acm": [
+    {
+      "id": "ac-milan-fan-token",
+      "alexa": null,
+      "gecko_rank": 1373,
+      "gecko_score": 18.272,
+      "community_score": 0
+    },
+    {
+      "id": "actinium",
+      "alexa": 0,
+      "gecko_rank": 2237,
+      "gecko_score": 13.351,
+      "community_score": 19.94
+    }
+  ],
+  "ac": [
+    {
+      "id": "acoconut",
+      "alexa": 769646,
+      "gecko_rank": 2808,
+      "gecko_score": 10.938,
+      "community_score": 7.09
+    }
+  ],
+  "acn": [
+    {
+      "id": "acorn-protocol",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "acq": [
+    {
+      "id": "acquire-fi",
+      "alexa": null,
+      "gecko_rank": 5658,
+      "gecko_score": 1.655,
+      "community_score": 7.523
+    }
+  ],
+  "acr": [
+    {
+      "id": "acreage-coin",
+      "alexa": 0,
+      "gecko_rank": 4240,
+      "gecko_score": 3.693,
+      "community_score": 2.24
+    }
+  ],
+  "acria": [
+    {
+      "id": "acria",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "acx": [
+    {
+      "id": "across-protocol",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0
+    }
+  ],
+  "acsi": [
+    {
+      "id": "acryptosi",
+      "alexa": null,
+      "gecko_rank": 1729,
+      "gecko_score": 16.001,
+      "community_score": 27.562
     }
   ]
 }

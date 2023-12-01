@@ -40,7 +40,7 @@ try {
 	for (const [index, coin] of coins.entries()) {
 		const ids = symbolIdMap[coin.symbol]
 		if (ids !== undefined && ids.some((item) => item.id === coin.id)) {
-			console.log(`${index + 1}/${length} - ${coin.symbol} (${coin.id}) - Skipped. Already exists.`)
+			// console.log(`${index + 1}/${length} - ${coin.symbol} (${coin.id}) - Skipped. Already exists.`)
 			continue
 		}
 		if (ids === undefined) {
