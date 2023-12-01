@@ -1,5 +1,5 @@
 import path from "path"
-import dataJson from "../data/data.json"
+import { last } from "lodash"
 import symbolIdMapJson from "../data/symbol-id-map.json"
 
 const symbolIdMap: Record<
@@ -10,6 +10,11 @@ const symbolIdMap: Record<
 		gecko_rank: number | null
 		gecko_score: number
 		community_score: number
+		image: {
+			thumb: string
+			small: string
+			large: string
+		}
 	}>
 > = symbolIdMapJson
 
@@ -66,6 +71,11 @@ try {
 			gecko_rank: coinData.coingecko_rank,
 			gecko_score: coinData.coingecko_score,
 			community_score: coinData.community_score,
+			image: {
+				thumb: last(new URL(coinData.image.thumb).pathname.split("/"))!,
+				small: last(new URL(coinData.image.small).pathname.split("/"))!,
+				large: last(new URL(coinData.image.large).pathname.split("/"))!,
+			},
 		})
 
 		await Bun.write("data/symbol-id-map.json", JSON.stringify(symbolIdMap, null, 2) + "\n")
