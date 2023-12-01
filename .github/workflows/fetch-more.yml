@@ -17,7 +17,8 @@ jobs:
           bun install
       - name: Fetch
         env:
-          COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
+          COINGECKO_DEMO_API_KEY: ${{ secrets.COINGECKO_DEMO_API_KEY }}
+          COINGECKO_PRO_API_KEY: ${{ secrets.COINGECKO_PRO_API_KEY }}
         run: |
           bun run do-it
       - name: push to main
