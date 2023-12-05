@@ -14775,6 +14775,11 @@
     "name": "DigitalNote"
   },
   {
+    "id": "digitalprice",
+    "symbol": "dp",
+    "name": "DigitalPrice"
+  },
+  {
     "id": "digital-rand",
     "symbol": "dzar",
     "name": "Digital Rand"
@@ -18797,7 +18802,7 @@
   {
     "id": "fina",
     "symbol": "fina",
-    "name": "Fina"
+    "name": "Fina.cash"
   },
   {
     "id": "final-frontier",
@@ -24755,6 +24760,11 @@
     "name": "IlluminatiCoin"
   },
   {
+    "id": "illuvia",
+    "symbol": "illuvia",
+    "name": "illuvia"
+  },
+  {
     "id": "illuvium",
     "symbol": "ilv",
     "name": "Illuvium"
@@ -28305,6 +28315,11 @@
     "name": "LIF3 LSHARE"
   },
   {
+    "id": "life-coin",
+    "symbol": "lfc",
+    "name": "Life Coin"
+  },
+  {
     "id": "life-crypto",
     "symbol": "life",
     "name": "Life Crypto"
@@ -30808,6 +30823,11 @@
     "id": "meme-elon-doge-floki-2",
     "symbol": "memelon",
     "name": "Meme Elon Doge Floki"
+  },
+  {
+    "id": "memeetf",
+    "symbol": "memeetf",
+    "name": "MemeETF"
   },
   {
     "id": "memeflate",
@@ -40103,6 +40123,11 @@
     "id": "qbao",
     "symbol": "qbt",
     "name": "Qbao"
+  },
+  {
+    "id": "qcash",
+    "symbol": "qc",
+    "name": "Qcash"
   },
   {
     "id": "qchain-qdt",
@@ -53208,6 +53233,11 @@
     "id": "white-whale",
     "symbol": "whale",
     "name": "White Whale"
+  },
+  {
+    "id": "whive",
+    "symbol": "whive",
+    "name": "Whive"
   },
   {
     "id": "whole-earth-coin",
