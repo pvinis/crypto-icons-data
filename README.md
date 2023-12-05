@@ -10,6 +10,9 @@ map from symbol to id. could be it matches more than one. in that case do we do 
 
 same for exchanges!
 
+--
+
+If this helped you and you're motivated to send anything, please do, at `pvinisdev.eth` or `0x9eC99B98Fb35aB8bdaB4C37880759816180874De`. I appreciate it.
 
 --
 
