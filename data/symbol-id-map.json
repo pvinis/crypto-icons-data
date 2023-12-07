@@ -67,6 +67,18 @@
         "small": "888tron.png",
         "large": "888tron.png"
       }
+    },
+    {
+      "id": "lucky8",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "lucky8.png",
+        "small": "lucky8.png",
+        "large": "lucky8.png"
+      }
     }
   ],
   "2049": [
@@ -31861,6 +31873,18 @@
         "small": "collective-care.png",
         "large": "collective-care.png"
       }
+    },
+    {
+      "id": "coughing-cat",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "coughing-cat.png",
+        "small": "coughing-cat.png",
+        "large": "coughing-cat.png"
+      }
     }
   ],
   "carb": [
@@ -54865,6 +54889,18 @@
         "small": "eth-stable-mori-finance.jpeg",
         "large": "eth-stable-mori-finance.jpeg"
       }
+    },
+    {
+      "id": "ethscriptions",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "ethscriptions.jpg",
+        "small": "ethscriptions.jpg",
+        "large": "ethscriptions.jpg"
+      }
     }
   ],
   "ethtz": [
@@ -62383,6 +62419,18 @@
         "small": "bayc-fraction-token.jpg",
         "large": "bayc-fraction-token.jpg"
       }
+    },
+    {
+      "id": "ierc-20",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "ierc-20.jpg",
+        "small": "ierc-20.jpg",
+        "large": "ierc-20.jpg"
+      }
     }
   ],
   "gfx": [
@@ -68134,6 +68182,18 @@
         "thumb": "harvest-finance.png",
         "small": "harvest-finance.png",
         "large": "harvest-finance.png"
+      }
+    },
+    {
+      "id": "farmbot",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "farmbot.jpeg",
+        "small": "farmbot.jpeg",
+        "large": "farmbot.jpeg"
       }
     }
   ],
@@ -84446,6 +84506,18 @@
         "thumb": "locus-chain.jpg",
         "small": "locus-chain.jpg",
         "large": "locus-chain.jpg"
+      }
+    },
+    {
+      "id": "locus-finance",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "locus-finance.jpeg",
+        "small": "locus-finance.jpeg",
+        "large": "locus-finance.jpeg"
       }
     }
   ],
@@ -111569,6 +111641,18 @@
         "small": "power.jpg",
         "large": "power.jpg"
       }
+    },
+    {
+      "id": "powercoin",
+      "alexa": 9328938,
+      "gecko_rank": 680,
+      "gecko_score": 24.622,
+      "community_score": 20.502,
+      "image": {
+        "thumb": "powercoin.png",
+        "small": "powercoin.png",
+        "large": "powercoin.png"
+      }
     }
   ],
   "pwfl": [
@@ -134569,6 +134653,18 @@
         "small": "the-employment-commons-work-token.png",
         "large": "the-employment-commons-work-token.png"
       }
+    },
+    {
+      "id": "work-x",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "work-x.png",
+        "small": "work-x.png",
+        "large": "work-x.png"
+      }
     }
   ],
   "neadram": [
@@ -140938,6 +141034,18 @@
         "thumb": "usk.png",
         "small": "usk.png",
         "large": "usk.png"
+      }
+    },
+    {
+      "id": "mimo-capital-ag-us-kuma-interest-bearing-token",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "mimo-capital-ag-us-kuma-interest-bearing-token.png",
+        "small": "mimo-capital-ag-us-kuma-interest-bearing-token.png",
+        "large": "mimo-capital-ag-us-kuma-interest-bearing-token.png"
       }
     }
   ],
@@ -154756,6 +154864,188 @@
         "thumb": "xv.png",
         "small": "xv.png",
         "large": "xv.png"
+      }
+    }
+  ],
+  "crazy": [
+    {
+      "id": "crazy-frog",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "crazy-frog.jpeg",
+        "small": "crazy-frog.jpeg",
+        "large": "crazy-frog.jpeg"
+      }
+    }
+  ],
+  "exnt": [
+    {
+      "id": "exnetwork-token",
+      "alexa": 6396577,
+      "gecko_rank": 2549,
+      "gecko_score": 12.089,
+      "community_score": 5.18,
+      "image": {
+        "thumb": "exnetwork-token.png",
+        "small": "exnetwork-token.png",
+        "large": "exnetwork-token.png"
+      }
+    }
+  ],
+  "hefi": [
+    {
+      "id": "hefi",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "hefi.png",
+        "small": "hefi.png",
+        "large": "hefi.png"
+      }
+    }
+  ],
+  "kls": [
+    {
+      "id": "karlsen",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "karlsen.png",
+        "small": "karlsen.png",
+        "large": "karlsen.png"
+      }
+    }
+  ],
+  "frk": [
+    {
+      "id": "kuma-protocol-fr-kuma-interest-bearing-token",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "kuma-protocol-fr-kuma-interest-bearing-token.png",
+        "small": "kuma-protocol-fr-kuma-interest-bearing-token.png",
+        "large": "kuma-protocol-fr-kuma-interest-bearing-token.png"
+      }
+    }
+  ],
+  "wfrk": [
+    {
+      "id": "kuma-protocol-wrapped-frk",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "kuma-protocol-wrapped-frk.png",
+        "small": "kuma-protocol-wrapped-frk.png",
+        "large": "kuma-protocol-wrapped-frk.png"
+      }
+    }
+  ],
+  "wusk": [
+    {
+      "id": "kuma-protocol-wrapped-usk",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "kuma-protocol-wrapped-usk.png",
+        "small": "kuma-protocol-wrapped-usk.png",
+        "large": "kuma-protocol-wrapped-usk.png"
+      }
+    }
+  ],
+  "stftn": [
+    {
+      "id": "lolik-staked-ftn",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "lolik-staked-ftn.png",
+        "small": "lolik-staked-ftn.png",
+        "large": "lolik-staked-ftn.png"
+      }
+    }
+  ],
+  "not": [
+    {
+      "id": "notcoin",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "notcoin.jpg",
+        "small": "notcoin.jpg",
+        "large": "notcoin.jpg"
+      }
+    }
+  ],
+  "rvs": [
+    {
+      "id": "revswap",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "revswap.png",
+        "small": "revswap.png",
+        "large": "revswap.png"
+      }
+    }
+  ],
+  "spz": [
+    {
+      "id": "spookyz",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "spookyz.png",
+        "small": "spookyz.png",
+        "large": "spookyz.png"
+      }
+    }
+  ],
+  "ura": [
+    {
+      "id": "ura-dex",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "ura-dex.png",
+        "small": "ura-dex.png",
+        "large": "ura-dex.png"
+      }
+    }
+  ],
+  "ziv4": [
+    {
+      "id": "ziv4-labs",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "ziv4-labs.png",
+        "small": "ziv4-labs.png",
+        "large": "ziv4-labs.png"
       }
     }
   ]

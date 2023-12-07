@@ -5685,11 +5685,6 @@
     "name": "Bata"
   },
   {
-    "id": "bathtub-protocol",
-    "symbol": "bath",
-    "name": "Bathtub Protocol"
-  },
-  {
     "id": "battlefly",
     "symbol": "gfly",
     "name": "BattleFly"
@@ -11990,6 +11985,11 @@
     "name": "CougarSwap"
   },
   {
+    "id": "coughing-cat",
+    "symbol": "cct",
+    "name": "Coughing Cat"
+  },
+  {
     "id": "counosx",
     "symbol": "ccxx",
     "name": "CounosX"
@@ -12113,6 +12113,11 @@
     "id": "crazy-bunny-equity-token",
     "symbol": "cbunny",
     "name": "Crazy Bunny Equity"
+  },
+  {
+    "id": "crazy-frog",
+    "symbol": "crazy",
+    "name": "Crazy Frog"
   },
   {
     "id": "crazy-internet-coin",
@@ -17865,6 +17870,11 @@
     "name": "Ethrix"
   },
   {
+    "id": "ethscriptions",
+    "symbol": "eths",
+    "name": "Ethscriptions"
+  },
+  {
     "id": "eth-stable-mori-finance",
     "symbol": "eths",
     "name": "ETH Stable"
@@ -18148,6 +18158,11 @@
     "id": "exmo-coin",
     "symbol": "exm",
     "name": "EXMO Coin"
+  },
+  {
+    "id": "exnetwork-token",
+    "symbol": "exnt",
+    "name": "ExNetwork"
   },
   {
     "id": "exohood",
@@ -18468,6 +18483,11 @@
     "id": "faraland",
     "symbol": "fara",
     "name": "FaraLand"
+  },
+  {
+    "id": "farmbot",
+    "symbol": "farm",
+    "name": "FarmBot"
   },
   {
     "id": "farmerdoge",
@@ -20068,11 +20088,6 @@
     "id": "froge-finance",
     "symbol": "frogex",
     "name": "FrogeX"
-  },
-  {
-    "id": "frogevip",
-    "symbol": "froge",
-    "name": "Froge"
   },
   {
     "id": "froggies-token-2",
@@ -23135,6 +23150,11 @@
     "name": "Hedron"
   },
   {
+    "id": "hefi",
+    "symbol": "hefi",
+    "name": "HeFi"
+  },
+  {
     "id": "hegic",
     "symbol": "hegic",
     "name": "Hegic"
@@ -24723,6 +24743,11 @@
     "id": "idoodles",
     "symbol": "idoodles",
     "name": "IDOODLES"
+  },
+  {
+    "id": "ierc-20",
+    "symbol": "",
+    "name": "IERC-20"
   },
   {
     "id": "iethereum",
@@ -26565,6 +26590,11 @@
     "name": "Karen Pepe"
   },
   {
+    "id": "karlsen",
+    "symbol": "kls",
+    "name": "Karlsen"
+  },
+  {
     "id": "karma-dao",
     "symbol": "karma",
     "name": "Karma DAO"
@@ -27545,6 +27575,21 @@
     "name": "Kumamon Finance"
   },
   {
+    "id": "kuma-protocol-fr-kuma-interest-bearing-token",
+    "symbol": "frk",
+    "name": "KUMA Protocol FR KUMA Interest Bearing Token"
+  },
+  {
+    "id": "kuma-protocol-wrapped-frk",
+    "symbol": "wfrk",
+    "name": "KUMA Protocol Wrapped FRK"
+  },
+  {
+    "id": "kuma-protocol-wrapped-usk",
+    "symbol": "wusk",
+    "name": "KUMA Protocol Wrapped USK"
+  },
+  {
     "id": "kunci-coin",
     "symbol": "kunci",
     "name": "Kunci Coin"
@@ -28397,7 +28442,7 @@
   {
     "id": "life-coin",
     "symbol": "lfc",
-    "name": "Life Coin"
+    "name": "Supernova Shards Life Coin"
   },
   {
     "id": "life-crypto",
@@ -28970,6 +29015,11 @@
     "name": "Locus Chain"
   },
   {
+    "id": "locus-finance",
+    "symbol": "locus",
+    "name": "Locus Finance"
+  },
+  {
     "id": "lodestar",
     "symbol": "lode",
     "name": "Lodestar"
@@ -29003,6 +29053,11 @@
     "id": "lokr",
     "symbol": "lkr",
     "name": "Lokr"
+  },
+  {
+    "id": "lolik-staked-ftn",
+    "symbol": "stftn",
+    "name": "Lolik Staked FTN"
   },
   {
     "id": "lonelyfans",
@@ -29258,6 +29313,11 @@
     "id": "lucky7",
     "symbol": "7",
     "name": "Lucky7"
+  },
+  {
+    "id": "lucky8",
+    "symbol": "888",
+    "name": "Lucky8"
   },
   {
     "id": "luckybird",
@@ -32033,6 +32093,11 @@
     "id": "mimir-token",
     "symbol": "mimir",
     "name": "Mimir"
+  },
+  {
+    "id": "mimo-capital-ag-us-kuma-interest-bearing-token",
+    "symbol": "usk",
+    "name": "KUMA Protocol US KUMA Interest Bearing Token"
   },
   {
     "id": "mimo-parallel-governance-token",
@@ -34843,6 +34908,11 @@
     "id": "notable",
     "symbol": "nbl",
     "name": "Notable"
+  },
+  {
+    "id": "notcoin",
+    "symbol": "not",
+    "name": "Notcoin"
   },
   {
     "id": "note",
@@ -39350,6 +39420,11 @@
     "name": "MaxxChain"
   },
   {
+    "id": "powercoin",
+    "symbol": "pwr",
+    "name": "PWR Coin"
+  },
+  {
     "id": "powerful",
     "symbol": "pwfl",
     "name": "Powerful"
@@ -41668,6 +41743,11 @@
     "id": "revomon-2",
     "symbol": "revo",
     "name": "Revomon"
+  },
+  {
+    "id": "revswap",
+    "symbol": "rvs",
+    "name": "Revswap"
   },
   {
     "id": "revuto",
@@ -45925,6 +46005,11 @@
     "name": "Spookyswap"
   },
   {
+    "id": "spookyz",
+    "symbol": "spz",
+    "name": "SpookyZ"
+  },
+  {
     "id": "spool-dao-token",
     "symbol": "spool",
     "name": "Spool"
@@ -46698,11 +46783,6 @@
     "id": "stfx",
     "symbol": "stfx",
     "name": "STFX"
-  },
-  {
-    "id": "stick-man",
-    "symbol": "stick",
-    "name": "Stick Man"
   },
   {
     "id": "stilton",
@@ -47967,7 +48047,7 @@
   {
     "id": "tao-inu",
     "symbol": "taonu",
-    "name": "TAO Inu"
+    "name": "TAO INU"
   },
   {
     "id": "tap",
@@ -48657,7 +48737,7 @@
   {
     "id": "the-goat-cz",
     "symbol": "czgoat",
-    "name": "THE GOAT CZ"
+    "name": "CZ THE GOAT"
   },
   {
     "id": "the-graph",
@@ -51165,6 +51245,11 @@
     "name": "Uquid Coin"
   },
   {
+    "id": "ura-dex",
+    "symbol": "ura",
+    "name": "Ura"
+  },
+  {
     "id": "uramaki",
     "symbol": "maki",
     "name": "Uramaki"
@@ -52208,11 +52293,6 @@
     "id": "vimmer",
     "symbol": "viz",
     "name": "Vim"
-  },
-  {
-    "id": "vinci-6f85acf0-d549-4759-983c-fc109c5bbd27",
-    "symbol": "vinci",
-    "name": "VINCI"
   },
   {
     "id": "vindax-coin",
@@ -53753,6 +53833,11 @@
     "id": "work-quest-2",
     "symbol": "wqt",
     "name": "Work Quest"
+  },
+  {
+    "id": "work-x",
+    "symbol": "work",
+    "name": "Work X"
   },
   {
     "id": "world-ai",
@@ -56283,6 +56368,11 @@
     "id": "zipswap",
     "symbol": "zip",
     "name": "ZipSwap"
+  },
+  {
+    "id": "ziv4-labs",
+    "symbol": "ziv4",
+    "name": "Ziv4 Labs"
   },
   {
     "id": "zizy",
