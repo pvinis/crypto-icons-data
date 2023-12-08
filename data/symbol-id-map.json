@@ -8875,6 +8875,18 @@
         "small": "aeur.jpg",
         "large": "aeur.jpg"
       }
+    },
+    {
+      "id": "anchored-coins-eur",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "anchored-coins-eur.png",
+        "small": "anchored-coins-eur.png",
+        "large": "anchored-coins-eur.png"
+      }
     }
   ],
   "aevum": [
@@ -40543,6 +40555,18 @@
         "small": "crypto-classic.jpg",
         "large": "crypto-classic.jpg"
       }
+    },
+    {
+      "id": "crazyrabbit",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "crazyrabbit.png",
+        "small": "crazyrabbit.png",
+        "large": "crazyrabbit.png"
+      }
     }
   ],
   "cch": [
@@ -52844,6 +52868,18 @@
         "thumb": "energi-dollar.png",
         "small": "energi-dollar.png",
         "large": "energi-dollar.png"
+      }
+    },
+    {
+      "id": "usde-2",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "usde-2.jpeg",
+        "small": "usde-2.jpeg",
+        "large": "usde-2.jpeg"
       }
     }
   ],
@@ -90476,6 +90512,18 @@
         "thumb": "meshswap-protocol.jpeg",
         "small": "meshswap-protocol.jpeg",
         "large": "meshswap-protocol.jpeg"
+      }
+    },
+    {
+      "id": "meshbox",
+      "alexa": 0,
+      "gecko_rank": 5145,
+      "gecko_score": 2.009,
+      "community_score": 8.221,
+      "image": {
+        "thumb": "meshbox.jpg",
+        "small": "meshbox.jpg",
+        "large": "meshbox.jpg"
       }
     }
   ],
@@ -155046,6 +155094,202 @@
         "thumb": "ziv4-labs.png",
         "small": "ziv4-labs.png",
         "large": "ziv4-labs.png"
+      }
+    }
+  ],
+  "nude": [
+    {
+      "id": "0xnude",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "0xnude.png",
+        "small": "0xnude.png",
+        "large": "0xnude.png"
+      }
+    }
+  ],
+  "aeusd": [
+    {
+      "id": "aeusd",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "aeusd.png",
+        "small": "aeusd.png",
+        "large": "aeusd.png"
+      }
+    }
+  ],
+  "achf": [
+    {
+      "id": "anchored-coins-chf",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "anchored-coins-chf.png",
+        "small": "anchored-coins-chf.png",
+        "large": "anchored-coins-chf.png"
+      }
+    }
+  ],
+  "catbingolo": [
+    {
+      "id": "bingo-2",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "bingo-2.jpg",
+        "small": "bingo-2.jpg",
+        "large": "bingo-2.jpg"
+      }
+    }
+  ],
+  "bxdx": [
+    {
+      "id": "bitx-dex-ordinals",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "bitx-dex-ordinals.png",
+        "small": "bitx-dex-ordinals.png",
+        "large": "bitx-dex-ordinals.png"
+      }
+    }
+  ],
+  "clicker": [
+    {
+      "id": "cryptoclicker-game-token",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "cryptoclicker-game-token.png",
+        "small": "cryptoclicker-game-token.png",
+        "large": "cryptoclicker-game-token.png"
+      }
+    }
+  ],
+  "dobi": [
+    {
+      "id": "dobi",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "dobi.png",
+        "small": "dobi.png",
+        "large": "dobi.png"
+      }
+    }
+  ],
+  "music": [
+    {
+      "id": "gala-music",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "gala-music.jpeg",
+        "small": "gala-music.jpeg",
+        "large": "gala-music.jpeg"
+      }
+    }
+  ],
+  "gzt": [
+    {
+      "id": "golden-zen-token",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "golden-zen-token.jpeg",
+        "small": "golden-zen-token.jpeg",
+        "large": "golden-zen-token.jpeg"
+      }
+    }
+  ],
+  "ordibot": [
+    {
+      "id": "ordibot",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "ordibot.png",
+        "small": "ordibot.png",
+        "large": "ordibot.png"
+      }
+    }
+  ],
+  "oib": [
+    {
+      "id": "ordinals-inscription-bot",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "ordinals-inscription-bot.png",
+        "small": "ordinals-inscription-bot.png",
+        "large": "ordinals-inscription-bot.png"
+      }
+    }
+  ],
+  "sols": [
+    {
+      "id": "sols",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "sols.png",
+        "small": "sols.png",
+        "large": "sols.png"
+      }
+    }
+  ],
+  "unit": [
+    {
+      "id": "uni-terminal",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "uni-terminal.png",
+        "small": "uni-terminal.png",
+        "large": "uni-terminal.png"
+      }
+    }
+  ],
+  "vanry": [
+    {
+      "id": "vanar-chain",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "vanar-chain.png",
+        "small": "vanar-chain.png",
+        "large": "vanar-chain.png"
       }
     }
   ]

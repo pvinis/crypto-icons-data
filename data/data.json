@@ -115,6 +115,11 @@
     "name": "0xMonero"
   },
   {
+    "id": "0xnude",
+    "symbol": "nude",
+    "name": "0xNude"
+  },
+  {
     "id": "0xs",
     "symbol": "$0xs",
     "name": "0xS"
@@ -1455,9 +1460,9 @@
     "name": "Aether Games"
   },
   {
-    "id": "aeur",
-    "symbol": "aeur",
-    "name": "AEUR"
+    "id": "aeusd",
+    "symbol": "aeusd",
+    "name": "aeUSD"
   },
   {
     "id": "aevum-ore",
@@ -2778,6 +2783,16 @@
     "id": "anarchy",
     "symbol": "anarchy",
     "name": "Anarchy"
+  },
+  {
+    "id": "anchored-coins-chf",
+    "symbol": "achf",
+    "name": "Anchored Coins ACHF"
+  },
+  {
+    "id": "anchored-coins-eur",
+    "symbol": "aeur",
+    "name": "Anchored Coins AEUR"
   },
   {
     "id": "anchor-protocol",
@@ -5290,11 +5305,6 @@
     "name": "BALL Coin"
   },
   {
-    "id": "balloonsville-air",
-    "symbol": "air",
-    "name": "Balloonsville AIR"
-  },
-  {
     "id": "ballswap",
     "symbol": "bsp",
     "name": "BallSwap"
@@ -5553,11 +5563,6 @@
     "id": "based-money-finance",
     "symbol": "based",
     "name": "Based Money Finance"
-  },
-  {
-    "id": "basedpepe",
-    "symbol": "bpepe",
-    "name": "BasedPepe"
   },
   {
     "id": "based-rate",
@@ -6585,6 +6590,11 @@
     "name": "Binemon"
   },
   {
+    "id": "bingo-2",
+    "symbol": "catbingolo",
+    "name": "Bingo"
+  },
+  {
     "id": "binstarter",
     "symbol": "bsr",
     "name": "BinStarter"
@@ -7188,6 +7198,11 @@
     "id": "bitx",
     "symbol": "bitx",
     "name": "BitX"
+  },
+  {
+    "id": "bitx-dex-ordinals",
+    "symbol": "bxdx",
+    "name": "BitX DEX (Ordinals)"
   },
   {
     "id": "bitxor",
@@ -12130,6 +12145,11 @@
     "name": "CRAZYPEPE"
   },
   {
+    "id": "crazyrabbit",
+    "symbol": "crc",
+    "name": "CrazyRabbit"
+  },
+  {
     "id": "crazy-tiger",
     "symbol": "crazytiger",
     "name": "Crazy Tiger"
@@ -12593,6 +12613,11 @@
     "id": "crypto-classic",
     "symbol": "crc",
     "name": "Crypto Classic"
+  },
+  {
+    "id": "cryptoclicker-game-token",
+    "symbol": "clicker",
+    "name": "CryptoClicker Game Token"
   },
   {
     "id": "cryptocoinhash",
@@ -15128,6 +15153,11 @@
     "id": "dnaxcat",
     "symbol": "dxct",
     "name": "DNAxCAT"
+  },
+  {
+    "id": "dobi",
+    "symbol": "dobi",
+    "name": "DOBI"
   },
   {
     "id": "dock",
@@ -20450,6 +20480,11 @@
     "name": "Galactic Arena: The NFTverse"
   },
   {
+    "id": "gala-music",
+    "symbol": "music",
+    "name": "Gala Music"
+  },
+  {
     "id": "galatasaray-fan-token",
     "symbol": "gal",
     "name": "Galatasaray Fan Token"
@@ -21280,11 +21315,6 @@
     "name": "Ginza Network"
   },
   {
-    "id": "girlfriend",
-    "symbol": "$gf",
-    "name": "Girlfriend"
-  },
-  {
     "id": "gitcoin",
     "symbol": "gtc",
     "name": "Gitcoin"
@@ -21758,6 +21788,11 @@
     "id": "golden-token",
     "symbol": "gold",
     "name": "Golden"
+  },
+  {
+    "id": "golden-zen-token",
+    "symbol": "gzt",
+    "name": "Golden Zen Token"
   },
   {
     "id": "goldex-token",
@@ -31135,6 +31170,11 @@
     "name": "Merry Christmas Token"
   },
   {
+    "id": "meshbox",
+    "symbol": "mesh",
+    "name": "MeshBox"
+  },
+  {
     "id": "meshswap-protocol",
     "symbol": "mesh",
     "name": "Meshswap Protocol"
@@ -36340,6 +36380,11 @@
     "name": "Orders.Exchange"
   },
   {
+    "id": "ordibot",
+    "symbol": "ordibot",
+    "name": "OrdiBot"
+  },
+  {
     "id": "ordinal-btc",
     "symbol": "obtc",
     "name": "Ordinal BTC"
@@ -36363,6 +36408,11 @@
     "id": "ordinals-finance",
     "symbol": "ofi",
     "name": "Ordinals Finance"
+  },
+  {
+    "id": "ordinals-inscription-bot",
+    "symbol": "oib",
+    "name": "Ordinals Inscription Bot"
   },
   {
     "id": "ordinex",
@@ -40502,7 +40552,7 @@
   {
     "id": "qubic-network",
     "symbol": "qubic",
-    "name": "Qubic Network"
+    "name": "Qubic"
   },
   {
     "id": "qubit",
@@ -45263,6 +45313,11 @@
     "id": "solrise-finance",
     "symbol": "slrs",
     "name": "Solrise Finance"
+  },
+  {
+    "id": "sols",
+    "symbol": "sols",
+    "name": "sols"
   },
   {
     "id": "solster",
@@ -50235,11 +50290,6 @@
     "name": "TrustNFT"
   },
   {
-    "id": "trustpad",
-    "symbol": "tpad",
-    "name": "TrustPad"
-  },
-  {
     "id": "trustpad-2-0",
     "symbol": "tpad",
     "name": "TrustPad"
@@ -50960,6 +51010,11 @@
     "name": "United"
   },
   {
+    "id": "uni-terminal",
+    "symbol": "unit",
+    "name": "Uni Terminal"
+  },
+  {
     "id": "unit-protocol-duck",
     "symbol": "duck",
     "name": "Unit Protocol"
@@ -51365,6 +51420,11 @@
     "name": "USDD"
   },
   {
+    "id": "usde-2",
+    "symbol": "usde",
+    "name": "USDE (ERD)"
+  },
+  {
     "id": "usdebt",
     "symbol": "usdebt",
     "name": "USDEBT"
@@ -51603,6 +51663,11 @@
     "id": "value-liquidity",
     "symbol": "value",
     "name": "Value DeFi"
+  },
+  {
+    "id": "vanar-chain",
+    "symbol": "vanry",
+    "name": "Vanar Chain"
   },
   {
     "id": "vana-world",
