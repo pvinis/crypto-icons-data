@@ -50,11 +50,6 @@
     "name": "0xAnon"
   },
   {
-    "id": "0xauto-io-contract-auto-deployer",
-    "symbol": "0xa",
-    "name": "0xAuto.io : Contract Auto Deployer"
-  },
-  {
     "id": "0xblack",
     "symbol": "0xb",
     "name": "0xBlack"
@@ -1575,6 +1570,11 @@
     "name": "Agenor"
   },
   {
+    "id": "age-of-apes",
+    "symbol": "apes",
+    "name": "AGE OF APES"
+  },
+  {
     "id": "ageofgods",
     "symbol": "aog",
     "name": "AgeOfGods"
@@ -2975,6 +2975,11 @@
     "name": "Antfarm Token"
   },
   {
+    "id": "antibot",
+    "symbol": "atb",
+    "name": "AntiBot"
+  },
+  {
     "id": "antimatter",
     "symbol": "matter",
     "name": "AntiMatter"
@@ -3403,6 +3408,11 @@
     "id": "arc",
     "symbol": "arc",
     "name": "Arc"
+  },
+  {
+    "id": "arcade-arcoin",
+    "symbol": "coin",
+    "name": "Arcade Arcoin"
   },
   {
     "id": "arcade-protocol",
@@ -4578,11 +4588,6 @@
     "id": "auxilium",
     "symbol": "aux",
     "name": "Auxilium"
-  },
-  {
-    "id": "auxo",
-    "symbol": "auxo",
-    "name": "Auxo"
   },
   {
     "id": "avadex-token",
@@ -8085,6 +8090,11 @@
     "name": "BonkEarn"
   },
   {
+    "id": "bonk-inu",
+    "symbol": "bonki",
+    "name": "BONK Inu"
+  },
+  {
     "id": "bonsai3",
     "symbol": "seed",
     "name": "Bonsai3"
@@ -9210,9 +9220,9 @@
     "name": "Bytom"
   },
   {
-    "id": "bytz",
-    "symbol": "bytz",
-    "name": "BYTZ"
+    "id": "bzedge",
+    "symbol": "bze",
+    "name": "BeeZee"
   },
   {
     "id": "bzetcoin",
@@ -10153,6 +10163,11 @@
     "id": "chainers",
     "symbol": "chu",
     "name": "Chainers"
+  },
+  {
+    "id": "chainex",
+    "symbol": "cex",
+    "name": "ChainEx"
   },
   {
     "id": "chainflip",
@@ -11220,6 +11235,11 @@
     "name": "Stem Cell Coin"
   },
   {
+    "id": "coinecta",
+    "symbol": "cnct",
+    "name": "Coinecta"
+  },
+  {
     "id": "coin-edelweis",
     "symbol": "edel",
     "name": "Coin Edelweis"
@@ -11833,6 +11853,11 @@
     "id": "copycat-finance",
     "symbol": "copycat",
     "name": "Copycat Finance"
+  },
+  {
+    "id": "coq-inu",
+    "symbol": "coq",
+    "name": "Coq Inu"
   },
   {
     "id": "coral-swap",
@@ -12618,6 +12643,11 @@
     "id": "cryptoclicker-game-token",
     "symbol": "clicker",
     "name": "CryptoClicker Game Token"
+  },
+  {
+    "id": "cryptoclicker-supper-token",
+    "symbol": "supper",
+    "name": "CryptoClicker SUPPER Token"
   },
   {
     "id": "cryptocoinhash",
@@ -14135,6 +14165,11 @@
     "name": "DEFY"
   },
   {
+    "id": "dega",
+    "symbol": "dega",
+    "name": "Dega"
+  },
+  {
     "id": "degate",
     "symbol": "dg",
     "name": "DeGate"
@@ -15063,11 +15098,6 @@
     "id": "disney",
     "symbol": "dis",
     "name": "Disney"
-  },
-  {
-    "id": "distributed-autonomous-or",
-    "symbol": "dao",
-    "name": "Distributed Autonomous Organization"
   },
   {
     "id": "district0x",
@@ -19120,6 +19150,11 @@
     "name": "Fitmint"
   },
   {
+    "id": "fitzen",
+    "symbol": "fitz",
+    "name": "FitZen"
+  },
+  {
     "id": "fix00",
     "symbol": "fix00",
     "name": "Fix00"
@@ -19818,6 +19853,11 @@
     "id": "fortress",
     "symbol": "fts",
     "name": "Fortress Loans"
+  },
+  {
+    "id": "fortunafi-tokenized-short-term-u-s-treasury-bills-for-non-us-residents",
+    "symbol": "ifbill",
+    "name": "Fortunafi Tokenized Short-term U.S. Treasury Bills for Non US Residents"
   },
   {
     "id": "fortuna-sittard-fan-token",
@@ -21315,6 +21355,11 @@
     "name": "Ginza Network"
   },
   {
+    "id": "girlfriend",
+    "symbol": "$gf",
+    "name": "Girlfriend"
+  },
+  {
     "id": "gitcoin",
     "symbol": "gtc",
     "name": "Gitcoin"
@@ -22085,6 +22130,11 @@
     "name": "Grai"
   },
   {
+    "id": "grail-inu",
+    "symbol": "igrail",
+    "name": "Grail Inu"
+  },
+  {
     "id": "granary",
     "symbol": "grain",
     "name": "Granary"
@@ -22678,6 +22728,11 @@
     "id": "hades",
     "symbol": "hades",
     "name": "Hades"
+  },
+  {
+    "id": "haedal-staked-sui",
+    "symbol": "hasui",
+    "name": "Haedal Staked SUI"
   },
   {
     "id": "haha",
@@ -26990,6 +27045,11 @@
     "name": "Kingdom Karnage"
   },
   {
+    "id": "kingdom-of-ants-ant-coins",
+    "symbol": "antc",
+    "name": "Kingdom of ANTs ANT Coins"
+  },
+  {
     "id": "kingdom-quest",
     "symbol": "kgc",
     "name": "Kingdom Quest"
@@ -27635,6 +27695,11 @@
     "name": "Kunji Finance"
   },
   {
+    "id": "kunkun-coin",
+    "symbol": "kunkun",
+    "name": "KUNKUN Coin"
+  },
+  {
     "id": "kupay",
     "symbol": "kpy",
     "name": "Kupay"
@@ -28160,6 +28225,11 @@
     "name": "Legion Network"
   },
   {
+    "id": "legion-ventures",
+    "symbol": "$legion",
+    "name": "Legion Ventures"
+  },
+  {
     "id": "lego-coin-v2",
     "symbol": "lego",
     "name": "Lego Coin V2"
@@ -28485,6 +28555,11 @@
     "name": "Life Crypto"
   },
   {
+    "id": "liferestart",
+    "symbol": "efil",
+    "name": "LifeRestart (Ordinals)"
+  },
+  {
     "id": "life-token-v2",
     "symbol": "ltnv2",
     "name": "Life v2"
@@ -28748,6 +28823,11 @@
     "id": "liquidlayer",
     "symbol": "lila",
     "name": "LiquidLayer"
+  },
+  {
+    "id": "liquid-loans",
+    "symbol": "loan",
+    "name": "Liquid Loans"
   },
   {
     "id": "liquid-mercury",
@@ -29110,6 +29190,11 @@
     "name": "Long Bitcoin"
   },
   {
+    "id": "longchenchen",
+    "symbol": "long",
+    "name": "Longchenchen"
+  },
+  {
     "id": "long-eth",
     "symbol": "long",
     "name": "LONG (ETH)"
@@ -29448,6 +29533,26 @@
     "id": "lumi-credits",
     "symbol": "lumi",
     "name": "LUMI Credits"
+  },
+  {
+    "id": "lumi-finance",
+    "symbol": "lua",
+    "name": "Lumi Finance"
+  },
+  {
+    "id": "lumi-finance-governance-token",
+    "symbol": "luag",
+    "name": "Lumi Finance Governance Token"
+  },
+  {
+    "id": "lumi-finance-lua-option",
+    "symbol": "luaop",
+    "name": "Lumi Finance LUA Option"
+  },
+  {
+    "id": "lumi-finance-luausd",
+    "symbol": "luausd",
+    "name": "Lumi Finance LUAUSD"
   },
   {
     "id": "lumiiitoken",
@@ -31005,6 +31110,11 @@
     "name": "MemeETF"
   },
   {
+    "id": "meme-etf",
+    "symbol": "memeetf",
+    "name": "Meme ETF"
+  },
+  {
     "id": "memeflate",
     "symbol": "mflate",
     "name": "Memeflate"
@@ -32010,6 +32120,11 @@
     "name": "Milady Vault (NFTX)"
   },
   {
+    "id": "milei",
+    "symbol": "milei",
+    "name": "MILEI"
+  },
+  {
     "id": "milestone-millions",
     "symbol": "msmil",
     "name": "Milestone Millions"
@@ -32803,6 +32918,11 @@
     "id": "monke-2",
     "symbol": "monke",
     "name": "Monke"
+  },
+  {
+    "id": "monke-coin",
+    "symbol": "$monke",
+    "name": "Monke coin"
   },
   {
     "id": "monked",
@@ -35630,6 +35750,11 @@
     "name": "Okuru"
   },
   {
+    "id": "okx-beth",
+    "symbol": "beth",
+    "name": "OKX BETH"
+  },
+  {
     "id": "okx-staked-dot2",
     "symbol": "okdot2",
     "name": "OKX Staked DOT2"
@@ -35658,11 +35783,6 @@
     "id": "oloid",
     "symbol": "oloid",
     "name": "OLOID"
-  },
-  {
-    "id": "olympulsex",
-    "symbol": "sex",
-    "name": "OlympulseX"
   },
   {
     "id": "olympus",
@@ -39445,6 +39565,11 @@
     "name": "Potfolio"
   },
   {
+    "id": "potion-exchange",
+    "symbol": "ptn",
+    "name": "Potion Exchange"
+  },
+  {
     "id": "potter-predator",
     "symbol": "voldemort",
     "name": "Potter Predator"
@@ -39930,6 +40055,11 @@
     "name": "pSTAKE Staked BNB"
   },
   {
+    "id": "pstake-staked-osmo",
+    "symbol": "stkosmo",
+    "name": "pSTAKE Staked OSMO"
+  },
+  {
     "id": "psyche",
     "symbol": "usd1",
     "name": "Psyche"
@@ -40125,6 +40255,11 @@
     "name": "PUMLx"
   },
   {
+    "id": "pump-it-up",
+    "symbol": "pumpit",
+    "name": "Pump It Up"
+  },
+  {
     "id": "pumpkin",
     "symbol": "pump",
     "name": "Pumpkin"
@@ -40193,11 +40328,6 @@
     "id": "punk-x",
     "symbol": "punk",
     "name": "Punk X"
-  },
-  {
-    "id": "pupazzi-punk-brise-of-sun",
-    "symbol": "pps",
-    "name": "Pupazzi Punk Brise Of Sun"
   },
   {
     "id": "pup-doge",
@@ -40581,7 +40711,7 @@
   },
   {
     "id": "quick-intel",
-    "symbol": "quicki",
+    "symbol": "qkntl",
     "name": "Quick Intel"
   },
   {
@@ -42180,6 +42310,11 @@
     "name": "Rocky"
   },
   {
+    "id": "rocky-the-dog",
+    "symbol": "rocky",
+    "name": "Rocky the dog"
+  },
+  {
     "id": "roco-finance",
     "symbol": "roco",
     "name": "Roco Finance"
@@ -42565,6 +42700,11 @@
     "name": "Sable Coin"
   },
   {
+    "id": "sacabam",
+    "symbol": "scb",
+    "name": "Sacabam"
+  },
+  {
     "id": "sacabambaspis",
     "symbol": "saca",
     "name": "Sacabambaspis"
@@ -42755,11 +42895,6 @@
     "name": "SAFUU"
   },
   {
-    "id": "safuugo",
-    "symbol": "sgo",
-    "name": "SafuuGO"
-  },
-  {
     "id": "sai",
     "symbol": "sai",
     "name": "Sai"
@@ -42938,6 +43073,11 @@
     "id": "santa-coin-2",
     "symbol": "santa",
     "name": "Santa Coin"
+  },
+  {
+    "id": "santa-grok",
+    "symbol": "santagrok",
+    "name": "Santa Grok"
   },
   {
     "id": "santa-inu",
@@ -43368,6 +43508,11 @@
     "id": "sdrive-app",
     "symbol": "scoin",
     "name": "Sdrive.app"
+  },
+  {
+    "id": "seamless-protocol",
+    "symbol": "seam",
+    "name": "Seamless Protocol"
   },
   {
     "id": "seamlessswap-token",
@@ -47180,6 +47325,11 @@
     "name": "SubDAO"
   },
   {
+    "id": "subi-network",
+    "symbol": "subi",
+    "name": "Subi Network"
+  },
+  {
     "id": "subsocial",
     "symbol": "sub",
     "name": "Subsocial"
@@ -48870,6 +49020,11 @@
     "name": "Theos"
   },
   {
+    "id": "the-other-party",
+    "symbol": "pod",
+    "name": "The Other Party"
+  },
+  {
     "id": "the-people-coin",
     "symbol": "peep$",
     "name": "The People’s Coin"
@@ -49855,11 +50010,6 @@
     "name": "Trade Bionic"
   },
   {
-    "id": "tradeflow",
-    "symbol": "tflow",
-    "name": "TradeFlow"
-  },
-  {
     "id": "trade-genius-ai",
     "symbol": "aigenius",
     "name": "Trade Genius AI"
@@ -50303,6 +50453,11 @@
     "id": "trustswap-pulsechain",
     "symbol": "swap",
     "name": "Trustswap (Pulsechain)"
+  },
+  {
+    "id": "trust-trading-group",
+    "symbol": "ttg",
+    "name": "Trust Trading Group"
   },
   {
     "id": "trustverse",
@@ -50973,6 +51128,11 @@
     "id": "unique-one",
     "symbol": "rare",
     "name": "Unique One"
+  },
+  {
+    "id": "unique-utility-token",
+    "symbol": "unqt",
+    "name": "Unique Utility"
   },
   {
     "id": "unisocks",
@@ -52520,6 +52680,11 @@
     "name": "ViteX Coin"
   },
   {
+    "id": "vitra-studios",
+    "symbol": "vitra",
+    "name": "Vitra Studios"
+  },
+  {
     "id": "vitteey",
     "symbol": "vity",
     "name": "Vitteey"
@@ -53828,6 +53993,11 @@
     "id": "wonderland",
     "symbol": "time",
     "name": "Wonderland TIME"
+  },
+  {
+    "id": "wonderland-capital",
+    "symbol": "alice",
+    "name": "Wonderland Capital"
   },
   {
     "id": "wonderly-finance",
@@ -55568,6 +55738,11 @@
     "id": "yearntogether",
     "symbol": "yearn",
     "name": "YearnTogether"
+  },
+  {
+    "id": "yearn-yprisma",
+    "symbol": "yprisma",
+    "name": "Yearn yPRISMA"
   },
   {
     "id": "yeet-dao",
