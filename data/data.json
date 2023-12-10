@@ -4242,7 +4242,7 @@
   {
     "id": "athenadao-token",
     "symbol": "ath",
-    "name": "AthenaDAO Token"
+    "name": "AthenaDAO"
   },
   {
     "id": "athena-finance",
@@ -5053,11 +5053,6 @@
     "id": "baby-richard-heart",
     "symbol": "$brich",
     "name": "Baby Richard Heart"
-  },
-  {
-    "id": "baby-saitama",
-    "symbol": "babysaitama",
-    "name": "Baby Saitama"
   },
   {
     "id": "baby-samo-coin",
@@ -6240,9 +6235,9 @@
     "name": "Bficoin"
   },
   {
-    "id": "bfx-finance",
-    "symbol": "bfx",
-    "name": "BFX Finance"
+    "id": "bfk-warzone",
+    "symbol": "bfk",
+    "name": "BFK WARZONE"
   },
   {
     "id": "bg-trade",
@@ -9200,6 +9195,11 @@
     "name": "Bypass"
   },
   {
+    "id": "byte",
+    "symbol": "byte",
+    "name": "Byte"
+  },
+  {
     "id": "byteball",
     "symbol": "gbyte",
     "name": "Obyte"
@@ -11340,11 +11340,6 @@
     "name": "Coinracer"
   },
   {
-    "id": "coinradr",
-    "symbol": "radr",
-    "name": "CoinRadr"
-  },
-  {
     "id": "coinsale-token",
     "symbol": "coinsale",
     "name": "CoinSale Token"
@@ -11738,6 +11733,11 @@
     "id": "conun",
     "symbol": "con",
     "name": "CONUN"
+  },
+  {
+    "id": "converge-bot",
+    "symbol": "converge",
+    "name": "Converge Bot"
   },
   {
     "id": "convergence",
@@ -13270,6 +13270,11 @@
     "name": "Cykura"
   },
   {
+    "id": "cygnusdao",
+    "symbol": "cyg",
+    "name": "CygnusDAO"
+  },
+  {
     "id": "cypherium",
     "symbol": "cph",
     "name": "Cypherium"
@@ -13633,11 +13638,6 @@
     "id": "dawg-coin",
     "symbol": "dawg",
     "name": "Dawg Coin"
-  },
-  {
-    "id": "dawin-token",
-    "symbol": "dwt",
-    "name": "DaWin Token"
   },
   {
     "id": "dawn-protocol",
@@ -18775,11 +18775,6 @@
     "name": "Ferrum Network"
   },
   {
-    "id": "fetch-1dbdbfe5-2eb9-46c9-81dc-ecca4fa884a7",
-    "symbol": "fetch",
-    "name": "Fetch"
-  },
-  {
     "id": "fetch-ai",
     "symbol": "fet",
     "name": "Fetch.ai"
@@ -21355,11 +21350,6 @@
     "name": "Ginza Network"
   },
   {
-    "id": "girlfriend",
-    "symbol": "$gf",
-    "name": "Girlfriend"
-  },
-  {
     "id": "gitcoin",
     "symbol": "gtc",
     "name": "Gitcoin"
@@ -22485,6 +22475,11 @@
     "name": "Grok X"
   },
   {
+    "id": "grok-x-ai",
+    "symbol": "grok x ai",
+    "name": "Grok X Ai"
+  },
+  {
     "id": "grom",
     "symbol": "gr",
     "name": "GROM"
@@ -23573,6 +23568,11 @@
     "id": "higazers",
     "symbol": "higazers",
     "name": "hiGAZERS"
+  },
+  {
+    "id": "higher-imo",
+    "symbol": "higher",
+    "name": "HIgher IMO"
   },
   {
     "id": "high-performance-blockchain",
@@ -25608,6 +25608,26 @@
     "id": "iotexshiba",
     "symbol": "ioshib",
     "name": "IoTexShiba"
+  },
+  {
+    "id": "iotube-bridged-geod-iotex",
+    "symbol": "geod",
+    "name": "ioTube Bridged GEOD (IoTeX)"
+  },
+  {
+    "id": "iotube-bridged-wifi-iotex",
+    "symbol": "wifi",
+    "name": "ioTube Bridged WIFI (IoTeX)"
+  },
+  {
+    "id": "iotube-bridged-wnt-iotex",
+    "symbol": "wnt",
+    "name": "ioTube Bridged WNT (IoTeX)"
+  },
+  {
+    "id": "iotube-bridged-xnet-iotex",
+    "symbol": "xnet",
+    "name": "ioTube Bridged XNET (IoTeX)"
   },
   {
     "id": "iousdc",
@@ -29865,6 +29885,11 @@
     "name": "Mad USD"
   },
   {
+    "id": "mad-viking-games-token",
+    "symbol": "mvg",
+    "name": "Mad Viking Games Token"
+  },
+  {
     "id": "madworld",
     "symbol": "umad",
     "name": "MADworld"
@@ -31165,6 +31190,11 @@
     "name": "MemeStation"
   },
   {
+    "id": "memes-vs-undead",
+    "symbol": "mvu",
+    "name": "Memes vs Undead"
+  },
+  {
     "id": "memetic",
     "symbol": "meme",
     "name": "Memetic"
@@ -31498,11 +31528,6 @@
     "id": "metagaming-guild",
     "symbol": "mgg",
     "name": "MetaGaming Guild"
-  },
-  {
-    "id": "metagamz",
-    "symbol": "eiv",
-    "name": "Earniverse"
   },
   {
     "id": "metagods",
@@ -32365,11 +32390,6 @@
     "name": "Mini"
   },
   {
-    "id": "minions-finance",
-    "symbol": "minions",
-    "name": "Minions Finance"
-  },
-  {
     "id": "minnapad",
     "symbol": "minna",
     "name": "Minnapad"
@@ -32573,6 +32593,11 @@
     "id": "mms-coin",
     "symbol": "mmsc",
     "name": "MMS Coin"
+  },
+  {
+    "id": "mmss",
+    "symbol": "mmss",
+    "name": "MMSS (Ordinals)"
   },
   {
     "id": "mn-bridge",
@@ -34160,11 +34185,6 @@
     "name": "Neon"
   },
   {
-    "id": "neon-coin",
-    "symbol": "neon",
-    "name": "Neon Coin"
-  },
-  {
     "id": "neon-exchange",
     "symbol": "nex",
     "name": "Nash"
@@ -34908,11 +34928,6 @@
     "id": "nkyc-token",
     "symbol": "nkyc",
     "name": "NKYC Token"
-  },
-  {
-    "id": "noah-s-ark-coin",
-    "symbol": "nac",
-    "name": "Noah's Ark Coin"
   },
   {
     "id": "noahswap",
@@ -36680,11 +36695,6 @@
     "name": "OSK"
   },
   {
-    "id": "osl-ai",
-    "symbol": "osl",
-    "name": "OSL AI"
-  },
-  {
     "id": "osmo-bot",
     "symbol": "osmo",
     "name": "Osmo Bot"
@@ -37098,11 +37108,6 @@
     "id": "panoverse",
     "symbol": "pano",
     "name": "PanoVerse"
-  },
-  {
-    "id": "pantheon-x",
-    "symbol": "xpn",
-    "name": "PANTHEON X"
   },
   {
     "id": "panther",
@@ -38935,6 +38940,11 @@
     "name": "pNetwork"
   },
   {
+    "id": "pnpcoin",
+    "symbol": "pnpc",
+    "name": "PNPCoin"
+  },
+  {
     "id": "poc-blockchain",
     "symbol": "poc",
     "name": "POC Blockchain"
@@ -40063,11 +40073,6 @@
     "id": "psyche",
     "symbol": "usd1",
     "name": "Psyche"
-  },
-  {
-    "id": "psycho",
-    "symbol": "psycho",
-    "name": "Psycho"
   },
   {
     "id": "psyop",
@@ -43560,6 +43565,11 @@
     "name": "Secretum"
   },
   {
+    "id": "sect-bot",
+    "symbol": "sect",
+    "name": "SECT BOT"
+  },
+  {
     "id": "sector",
     "symbol": "sect",
     "name": "Sector"
@@ -43598,6 +43608,11 @@
     "id": "seedlaunch",
     "symbol": "slt",
     "name": "SeedLaunch"
+  },
+  {
+    "id": "seed-photo",
+    "symbol": "seed",
+    "name": "Seed.Photo"
   },
   {
     "id": "seeds",
@@ -43753,11 +43768,6 @@
     "id": "serbian-dancing-lady",
     "symbol": "сербскаяле",
     "name": "SERBIAN DANCING LADY"
-  },
-  {
-    "id": "serey-coin",
-    "symbol": "sry",
-    "name": "Serey Coin"
   },
   {
     "id": "serum",
@@ -48270,6 +48280,11 @@
     "name": "Tap Fantasy MC"
   },
   {
+    "id": "tapp-coin",
+    "symbol": "tpx",
+    "name": "Tapp Coin"
+  },
+  {
     "id": "tarality",
     "symbol": "taral",
     "name": "Tarality"
@@ -49128,11 +49143,6 @@
     "id": "thetan-arena",
     "symbol": "thg",
     "name": "Thetan Arena"
-  },
-  {
-    "id": "thetan-coin",
-    "symbol": "thc",
-    "name": "Thetan Coin"
   },
   {
     "id": "thetanuts-finance",
