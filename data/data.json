@@ -2970,11 +2970,6 @@
     "name": "Antfarm Governance Token"
   },
   {
-    "id": "antfarm-token",
-    "symbol": "atf",
-    "name": "Antfarm Token"
-  },
-  {
     "id": "antibot",
     "symbol": "atb",
     "name": "AntiBot"
@@ -43410,11 +43405,6 @@
     "name": "SCOneX"
   },
   {
-    "id": "scooby",
-    "symbol": "scooby",
-    "name": "SCOOBY"
-  },
-  {
     "id": "scooby-doo",
     "symbol": "sodo",
     "name": "Scooby Doo"
@@ -55718,11 +55708,6 @@
     "id": "ycash",
     "symbol": "yec",
     "name": "Ycash"
-  },
-  {
-    "id": "y-coin",
-    "symbol": "yco",
-    "name": "Y Coin"
   },
   {
     "id": "ydragon",
