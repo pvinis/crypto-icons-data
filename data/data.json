@@ -3075,11 +3075,6 @@
     "name": "Ape In Records"
   },
   {
-    "id": "apemove",
-    "symbol": "ape",
-    "name": "APEmove"
-  },
-  {
     "id": "apenft",
     "symbol": "nft",
     "name": "APENFT"
@@ -3091,8 +3086,8 @@
   },
   {
     "id": "apeswap-finance",
-    "symbol": "banana",
-    "name": "ApeSwap"
+    "symbol": "abond",
+    "name": "ApeBond"
   },
   {
     "id": "apexcoin-global",
@@ -3783,11 +3778,6 @@
     "id": "artemis-vision",
     "symbol": "arv",
     "name": "Artemis Vision"
-  },
-  {
-    "id": "arteq-nft-investment-fund",
-    "symbol": "arteq",
-    "name": "artèQ NFT Investment Fund"
   },
   {
     "id": "artery",
@@ -9516,7 +9506,7 @@
   },
   {
     "id": "carbon",
-    "symbol": "crbn",
+    "symbol": "carbon",
     "name": "Carbon"
   },
   {
@@ -11712,7 +11702,7 @@
   {
     "id": "contract-dev-ai",
     "symbol": "0xdev",
-    "name": "Contract Dev AI"
+    "name": "DEVAI"
   },
   {
     "id": "contractus",
@@ -11986,8 +11976,8 @@
   },
   {
     "id": "cosmic-universe-magic-token",
-    "symbol": "magic",
-    "name": "Cosmic Universe Magic"
+    "symbol": "magick",
+    "name": "Cosmic Universe Magick"
   },
   {
     "id": "cosmos",
@@ -14665,6 +14655,11 @@
     "name": "DexTools"
   },
   {
+    "id": "dextoro",
+    "symbol": "dtoro",
+    "name": "DexToro"
+  },
+  {
     "id": "dex-trade-coin",
     "symbol": "dxc",
     "name": "Dex-Trade Coin"
@@ -14852,7 +14847,7 @@
   {
     "id": "digitalbits",
     "symbol": "xdb",
-    "name": "DigitalBits"
+    "name": "XDB CHAIN"
   },
   {
     "id": "digitalcoin",
@@ -17158,6 +17153,11 @@
     "id": "endpoint-cex-fan-token",
     "symbol": "endcex",
     "name": "Endpoint Cex Fan Token"
+  },
+  {
+    "id": "endurance",
+    "symbol": "ace",
+    "name": "Endurance"
   },
   {
     "id": "eneftiverse",
@@ -21578,6 +21578,11 @@
     "id": "gmlp",
     "symbol": "gmlp",
     "name": "GMLP"
+  },
+  {
+    "id": "gm-machine",
+    "symbol": "gm",
+    "name": "GM Machine"
   },
   {
     "id": "gmt-token",
@@ -28912,6 +28917,11 @@
   {
     "id": "liquidus",
     "symbol": "liq",
+    "name": "Liquidus (Old)"
+  },
+  {
+    "id": "liquidus-2",
+    "symbol": "liq",
     "name": "Liquidus"
   },
   {
@@ -30013,6 +30023,11 @@
     "id": "magnetgold",
     "symbol": "mtg",
     "name": "MagnetGold"
+  },
+  {
+    "id": "magnum-2",
+    "symbol": "mag",
+    "name": "Magnum"
   },
   {
     "id": "magpie",
@@ -37360,11 +37375,6 @@
     "name": "Pavia"
   },
   {
-    "id": "paw",
-    "symbol": "paw",
-    "name": "Paw"
-  },
-  {
     "id": "paw-2",
     "symbol": "paw",
     "name": "PAW"
@@ -40615,6 +40625,11 @@
     "name": "Quant"
   },
   {
+    "id": "quantoz-eurd",
+    "symbol": "eurd",
+    "name": "Quantoz EURD"
+  },
+  {
     "id": "quantstamp",
     "symbol": "qsp",
     "name": "Quantstamp"
@@ -41908,11 +41923,6 @@
     "id": "revolutiongames",
     "symbol": "rvlng",
     "name": "RevolutionGames"
-  },
-  {
-    "id": "revolution-populi",
-    "symbol": "rvp",
-    "name": "Revolution Populi"
   },
   {
     "id": "revolve-games",
@@ -54458,11 +54468,6 @@
     "id": "wrapped-klay",
     "symbol": "wklay",
     "name": "Wrapped KLAY"
-  },
-  {
-    "id": "wrapped-leo",
-    "symbol": "wleo",
-    "name": "Wrapped LEO"
   },
   {
     "id": "wrapped-lunagens",
