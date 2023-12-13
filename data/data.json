@@ -2400,11 +2400,6 @@
     "name": "All In"
   },
   {
-    "id": "all-in-ai",
-    "symbol": "aiai",
-    "name": "ALLINAI"
-  },
-  {
     "id": "all-in-coin",
     "symbol": "allin",
     "name": "All In Coin"
@@ -2840,6 +2835,11 @@
     "name": "Angry Bulls Club"
   },
   {
+    "id": "angry-doge",
+    "symbol": "anfd",
+    "name": "Angry Doge"
+  },
+  {
     "id": "anima",
     "symbol": "anima",
     "name": "ANIMA"
@@ -3086,8 +3086,8 @@
   },
   {
     "id": "apeswap-finance",
-    "symbol": "abond",
-    "name": "ApeBond"
+    "symbol": "banana",
+    "name": "ApeSwap"
   },
   {
     "id": "apexcoin-global",
@@ -4323,6 +4323,11 @@
     "id": "atpay",
     "symbol": "atpay",
     "name": "AtPay"
+  },
+  {
+    "id": "atrno",
+    "symbol": "atrno",
+    "name": "ATRNO"
   },
   {
     "id": "atrofarm",
@@ -7110,11 +7115,6 @@
     "name": "BitShiba"
   },
   {
-    "id": "bitsniper",
-    "symbol": "bullet",
-    "name": "BitSniper"
-  },
-  {
     "id": "bitsong",
     "symbol": "btsg",
     "name": "BitSong"
@@ -7123,6 +7123,11 @@
     "id": "bitspawn",
     "symbol": "spwn",
     "name": "Bitspawn"
+  },
+  {
+    "id": "bitstable-finance",
+    "symbol": "$bssb",
+    "name": "BitStable Finance"
   },
   {
     "id": "bit-store-coin",
@@ -8338,6 +8343,11 @@
     "id": "brazil-fan-token",
     "symbol": "bft",
     "name": "Brazil National Football Team Fan Token"
+  },
+  {
+    "id": "brc-on-the-erc",
+    "symbol": "brc20",
+    "name": "BRC on the ERC"
   },
   {
     "id": "brcp-token",
@@ -12643,6 +12653,11 @@
     "id": "crypto-com-chain",
     "symbol": "cro",
     "name": "Cronos"
+  },
+  {
+    "id": "crypto-com-staked-eth",
+    "symbol": "cdceth",
+    "name": "Crypto.com Staked ETH"
   },
   {
     "id": "crypto-development-services",
@@ -17157,7 +17172,7 @@
   {
     "id": "endurance",
     "symbol": "ace",
-    "name": "Endurance"
+    "name": "Fusionist"
   },
   {
     "id": "eneftiverse",
@@ -17778,6 +17793,11 @@
     "id": "ethereum-push-notification-service",
     "symbol": "push",
     "name": "Push Protocol"
+  },
+  {
+    "id": "ethereum-reserve-dollar-usde",
+    "symbol": "usde",
+    "name": "Ethereum Reserve Dollar USDE"
   },
   {
     "id": "ethereum-volatility-index-token",
@@ -18553,11 +18573,6 @@
     "id": "farmer-friends",
     "symbol": "frens",
     "name": "Farmer Friends"
-  },
-  {
-    "id": "farmer-moe",
-    "symbol": "$moe",
-    "name": "Farmer Moe"
   },
   {
     "id": "farmers-only",
@@ -19668,6 +19683,11 @@
     "id": "foho-coin",
     "symbol": "foho",
     "name": "Foho Coin"
+  },
+  {
+    "id": "fold",
+    "symbol": "$fld",
+    "name": "Fold"
   },
   {
     "id": "follow-token",
@@ -21745,6 +21765,11 @@
     "name": "GoGoPool"
   },
   {
+    "id": "gogopool-ggavax",
+    "symbol": "ggavax",
+    "name": "GoGoPool ggAVAX"
+  },
+  {
     "id": "gojo-bsc",
     "symbol": "gojobsc",
     "name": "Gojo BSC"
@@ -22620,6 +22645,11 @@
     "name": "GUSD Token (Gaura)"
   },
   {
+    "id": "guys",
+    "symbol": "hole",
+    "name": "Hole Guys"
+  },
+  {
     "id": "guzzler",
     "symbol": "gzlr",
     "name": "Guzzler"
@@ -22898,6 +22928,11 @@
     "id": "haram",
     "symbol": "$haram",
     "name": "Haram"
+  },
+  {
+    "id": "harambe",
+    "symbol": "harambe",
+    "name": "Harambe"
   },
   {
     "id": "harambe-wisdom",
@@ -24575,11 +24610,6 @@
     "name": "Element"
   },
   {
-    "id": "hypetoken",
-    "symbol": "$hype",
-    "name": "HypeToken"
-  },
-  {
     "id": "hypr-network",
     "symbol": "hypr",
     "name": "Hypr Network"
@@ -26118,11 +26148,6 @@
     "id": "jennyco",
     "symbol": "jco",
     "name": "JennyCo"
-  },
-  {
-    "id": "jerryinu",
-    "symbol": "jerryinu",
-    "name": "JerryInu"
   },
   {
     "id": "jerry-inu",
@@ -30025,6 +30050,11 @@
     "name": "MagnetGold"
   },
   {
+    "id": "magnetic",
+    "symbol": "mag",
+    "name": "Magnetic"
+  },
+  {
     "id": "magnum-2",
     "symbol": "mag",
     "name": "Magnum"
@@ -32328,6 +32358,11 @@
     "id": "mind-games-cortex",
     "symbol": "crx",
     "name": "MIND Games CORTEX"
+  },
+  {
+    "id": "mind-language",
+    "symbol": "mnd",
+    "name": "Mind"
   },
   {
     "id": "mind-matrix",
@@ -34640,6 +34675,11 @@
     "name": "NFTCloud"
   },
   {
+    "id": "nft-combining",
+    "symbol": "nftc",
+    "name": "NFT Combining"
+  },
+  {
     "id": "nftdao",
     "symbol": "nao",
     "name": "NFTDAO"
@@ -34825,6 +34865,11 @@
     "name": "NinaPumps"
   },
   {
+    "id": "ninja-protocol",
+    "symbol": "ninja",
+    "name": "Ninja Protocol"
+  },
+  {
     "id": "ninja-squad",
     "symbol": "nst",
     "name": "Ninja Squad"
@@ -34991,8 +35036,8 @@
   },
   {
     "id": "noisegpt",
-    "symbol": "noisegpt",
-    "name": "noiseGPT"
+    "symbol": "enqai",
+    "name": "enqAI"
   },
   {
     "id": "nole-inu",
@@ -37323,6 +37368,11 @@
     "id": "particle-technology",
     "symbol": "part",
     "name": "Particle Technology"
+  },
+  {
+    "id": "party",
+    "symbol": "party",
+    "name": "PARTY"
   },
   {
     "id": "party-dice",
@@ -43390,11 +43440,6 @@
     "name": "SchwiftAI"
   },
   {
-    "id": "sci-coin-2",
-    "symbol": "sci+",
-    "name": "SCI Coin"
-  },
-  {
     "id": "scientia",
     "symbol": "scie",
     "name": "Scientia"
@@ -47195,6 +47240,11 @@
     "name": "Stride Staked Comdex"
   },
   {
+    "id": "stride-staked-dydx",
+    "symbol": "stdydx",
+    "name": "Stride Staked DYDX"
+  },
+  {
     "id": "stride-staked-evmos",
     "symbol": "stevmos",
     "name": "Stride Staked Evmos"
@@ -49165,6 +49215,11 @@
     "name": "The Tokenized Bitcoin"
   },
   {
+    "id": "the-unbound",
+    "symbol": "un",
+    "name": "The Unbound"
+  },
+  {
     "id": "the-unfettered-souls",
     "symbol": "souls",
     "name": "The Unfettered Souls"
@@ -49833,6 +49888,11 @@
     "id": "tornado-cash",
     "symbol": "torn",
     "name": "Tornado Cash"
+  },
+  {
+    "id": "torque",
+    "symbol": "torq",
+    "name": "Torque"
   },
   {
     "id": "tortol",
@@ -54425,6 +54485,11 @@
     "name": "Wrapped Flow"
   },
   {
+    "id": "wrapped-fuse",
+    "symbol": "wfuse",
+    "name": "Wrapped FUSE"
+  },
+  {
     "id": "wrapped-hbar",
     "symbol": "whbar",
     "name": "Wrapped HBAR (SaucerSwap)"
@@ -56050,6 +56115,11 @@
     "name": "Youwho"
   },
   {
+    "id": "yoyo-market",
+    "symbol": "yoyo",
+    "name": "Yoyo Market"
+  },
+  {
     "id": "yuan-chain-coin",
     "symbol": "ycc",
     "name": "Yuan Chain Coin"
@@ -56463,11 +56533,6 @@
     "id": "zethan",
     "symbol": "zeth",
     "name": "Zethan"
-  },
-  {
-    "id": "zetos",
-    "symbol": "zes",
-    "name": "Zetos"
   },
   {
     "id": "zetrix",

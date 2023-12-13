@@ -52977,6 +52977,18 @@
         "small": "usde-2.jpeg",
         "large": "usde-2.jpeg"
       }
+    },
+    {
+      "id": "ethereum-reserve-dollar-usde",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "ethereum-reserve-dollar-usde.png",
+        "small": "ethereum-reserve-dollar-usde.png",
+        "large": "ethereum-reserve-dollar-usde.png"
+      }
     }
   ],
   "tsl": [
@@ -86843,6 +86855,18 @@
         "small": "magnum-2.png",
         "large": "magnum-2.png"
       }
+    },
+    {
+      "id": "magnetic",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "magnetic.png",
+        "small": "magnetic.png",
+        "large": "magnetic.png"
+      }
     }
   ],
   "mtg": [
@@ -95768,6 +95792,18 @@
         "thumb": "mound-token.png",
         "small": "mound-token.png",
         "large": "mound-token.png"
+      }
+    },
+    {
+      "id": "mind-language",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "mind-language.png",
+        "small": "mind-language.png",
+        "large": "mind-language.png"
       }
     }
   ],
@@ -111356,6 +111392,18 @@
         "thumb": "pool-partyyy.jpg",
         "small": "pool-partyyy.jpg",
         "large": "pool-partyyy.jpg"
+      }
+    },
+    {
+      "id": "party",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "party.png",
+        "small": "party.png",
+        "large": "party.png"
       }
     }
   ],
@@ -156214,6 +156262,230 @@
         "thumb": "quantoz-eurd.png",
         "small": "quantoz-eurd.png",
         "large": "quantoz-eurd.png"
+      }
+    }
+  ],
+  "atrno": [
+    {
+      "id": "atrno",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "atrno.png",
+        "small": "atrno.png",
+        "large": "atrno.png"
+      }
+    }
+  ],
+  "$bssb": [
+    {
+      "id": "bitstable-finance",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "bitstable-finance.png",
+        "small": "bitstable-finance.png",
+        "large": "bitstable-finance.png"
+      }
+    }
+  ],
+  "brc20": [
+    {
+      "id": "brc-on-the-erc",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "brc-on-the-erc.jpg",
+        "small": "brc-on-the-erc.jpg",
+        "large": "brc-on-the-erc.jpg"
+      }
+    }
+  ],
+  "cdceth": [
+    {
+      "id": "crypto-com-staked-eth",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "crypto-com-staked-eth.png",
+        "small": "crypto-com-staked-eth.png",
+        "large": "crypto-com-staked-eth.png"
+      }
+    }
+  ],
+  "$fld": [
+    {
+      "id": "fold",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "fold.png",
+        "small": "fold.png",
+        "large": "fold.png"
+      }
+    }
+  ],
+  "ggavax": [
+    {
+      "id": "gogopool-ggavax",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "gogopool-ggavax.png",
+        "small": "gogopool-ggavax.png",
+        "large": "gogopool-ggavax.png"
+      }
+    }
+  ],
+  "hole": [
+    {
+      "id": "guys",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "guys.png",
+        "small": "guys.png",
+        "large": "guys.png"
+      }
+    }
+  ],
+  "harambe": [
+    {
+      "id": "harambe",
+      "alexa": null,
+      "gecko_rank": 4029,
+      "gecko_score": 4.562,
+      "community_score": 4.458,
+      "image": {
+        "thumb": "harambe.jpg",
+        "small": "harambe.jpg",
+        "large": "harambe.jpg"
+      }
+    }
+  ],
+  "nftc": [
+    {
+      "id": "nft-combining",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "nft-combining.png",
+        "small": "nft-combining.png",
+        "large": "nft-combining.png"
+      }
+    }
+  ],
+  "ninja": [
+    {
+      "id": "ninja-protocol",
+      "alexa": null,
+      "gecko_rank": 5154,
+      "gecko_score": 1.995,
+      "community_score": 8.16,
+      "image": {
+        "thumb": "ninja-protocol.PNG",
+        "small": "ninja-protocol.PNG",
+        "large": "ninja-protocol.PNG"
+      }
+    }
+  ],
+  "enqai": [
+    {
+      "id": "noisegpt",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "noisegpt.png",
+        "small": "noisegpt.png",
+        "large": "noisegpt.png"
+      }
+    }
+  ],
+  "stdydx": [
+    {
+      "id": "stride-staked-dydx",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "stride-staked-dydx.png",
+        "small": "stride-staked-dydx.png",
+        "large": "stride-staked-dydx.png"
+      }
+    }
+  ],
+  "un": [
+    {
+      "id": "the-unbound",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "the-unbound.png",
+        "small": "the-unbound.png",
+        "large": "the-unbound.png"
+      }
+    }
+  ],
+  "torq": [
+    {
+      "id": "torque",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "torque.png",
+        "small": "torque.png",
+        "large": "torque.png"
+      }
+    }
+  ],
+  "wfuse": [
+    {
+      "id": "wrapped-fuse",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "wrapped-fuse.png",
+        "small": "wrapped-fuse.png",
+        "large": "wrapped-fuse.png"
+      }
+    }
+  ],
+  "yoyo": [
+    {
+      "id": "yoyo-market",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "yoyo-market.png",
+        "small": "yoyo-market.png",
+        "large": "yoyo-market.png"
       }
     }
   ]
