@@ -11689,6 +11689,18 @@
         "small": "ally.jpg",
         "large": "ally.jpg"
       }
+    },
+    {
+      "id": "ailayer",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "ailayer.png",
+        "small": "ailayer.png",
+        "large": "ailayer.png"
+      }
     }
   ],
   "almr": [
@@ -24821,6 +24833,18 @@
         "small": "bitcore.png",
         "large": "bitcore.png"
       }
+    },
+    {
+      "id": "bitnex-ai",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "bitnex-ai.png",
+        "small": "bitnex-ai.png",
+        "large": "bitnex-ai.png"
+      }
     }
   ],
   "petal": [
@@ -37831,6 +37855,18 @@
         "small": "compound-meta.png",
         "large": "compound-meta.png"
       }
+    },
+    {
+      "id": "coma-online",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "coma-online.png",
+        "small": "coma-online.png",
+        "large": "coma-online.png"
+      }
     }
   ],
   "csushi": [
@@ -38534,6 +38570,18 @@
         "thumb": "cook.jpg",
         "small": "cook.jpg",
         "large": "cook.jpg"
+      }
+    },
+    {
+      "id": "cook-2",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "cook-2.png",
+        "small": "cook-2.png",
+        "large": "cook-2.png"
       }
     }
   ],
@@ -53024,6 +53072,18 @@
         "thumb": "ethereum-reserve-dollar-usde.png",
         "small": "ethereum-reserve-dollar-usde.png",
         "large": "ethereum-reserve-dollar-usde.png"
+      }
+    },
+    {
+      "id": "ethena-usde",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "ethena-usde.png",
+        "small": "ethena-usde.png",
+        "large": "ethena-usde.png"
       }
     }
   ],
@@ -156690,6 +156750,230 @@
         "thumb": "cyop-2.jpg",
         "small": "cyop-2.jpg",
         "large": "cyop-2.jpg"
+      }
+    }
+  ],
+  "aifi": [
+    {
+      "id": "aifi-protocol",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "aifi-protocol.png",
+        "small": "aifi-protocol.png",
+        "large": "aifi-protocol.png"
+      }
+    }
+  ],
+  "atomarc20": [
+    {
+      "id": "atomicals",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "atomicals.png",
+        "small": "atomicals.png",
+        "large": "atomicals.png"
+      }
+    }
+  ],
+  "acg": [
+    {
+      "id": "aurum-gold",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "aurum-gold.png",
+        "small": "aurum-gold.png",
+        "large": "aurum-gold.png"
+      }
+    }
+  ],
+  "bonkcola": [
+    {
+      "id": "bonkcola",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "bonkcola.png",
+        "small": "bonkcola.png",
+        "large": "bonkcola.png"
+      }
+    }
+  ],
+  "cekke": [
+    {
+      "id": "cekke-cronje",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "cekke-cronje.png",
+        "small": "cekke-cronje.png",
+        "large": "cekke-cronje.png"
+      }
+    }
+  ],
+  "cryptoai": [
+    {
+      "id": "cryptoai-2",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "cryptoai-2.jpeg",
+        "small": "cryptoai-2.jpeg",
+        "large": "cryptoai-2.jpeg"
+      }
+    }
+  ],
+  "dint": [
+    {
+      "id": "dinartether",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "dinartether.jpg",
+        "small": "dinartether.jpg",
+        "large": "dinartether.jpg"
+      }
+    }
+  ],
+  "apxeth": [
+    {
+      "id": "dinero-apxeth",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "dinero-apxeth.png",
+        "small": "dinero-apxeth.png",
+        "large": "dinero-apxeth.png"
+      }
+    }
+  ],
+  "pxeth": [
+    {
+      "id": "dinero-staked-eth",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "dinero-staked-eth.png",
+        "small": "dinero-staked-eth.png",
+        "large": "dinero-staked-eth.png"
+      }
+    }
+  ],
+  "wif": [
+    {
+      "id": "dogwifcoin",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "dogwifcoin.jpg",
+        "small": "dogwifcoin.jpg",
+        "large": "dogwifcoin.jpg"
+      }
+    }
+  ],
+  "dolz": [
+    {
+      "id": "dolz-io",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "dolz-io.png",
+        "small": "dolz-io.png",
+        "large": "dolz-io.png"
+      }
+    }
+  ],
+  "droggy": [
+    {
+      "id": "droggy",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "droggy.png",
+        "small": "droggy.png",
+        "large": "droggy.png"
+      }
+    }
+  ],
+  "elonmars": [
+    {
+      "id": "elon-mars",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "elon-mars.jpg",
+        "small": "elon-mars.jpg",
+        "large": "elon-mars.jpg"
+      }
+    }
+  ],
+  "emr": [
+    {
+      "id": "emorya-finance",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "emorya-finance.png",
+        "small": "emorya-finance.png",
+        "large": "emorya-finance.png"
+      }
+    }
+  ],
+  "xyn": [
+    {
+      "id": "exynos-protocol",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "exynos-protocol.jpg",
+        "small": "exynos-protocol.jpg",
+        "large": "exynos-protocol.jpg"
+      }
+    }
+  ],
+  "$fmc": [
+    {
+      "id": "fame-ai",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "fame-ai.png",
+        "small": "fame-ai.png",
+        "large": "fame-ai.png"
       }
     }
   ]
