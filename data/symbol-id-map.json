@@ -156976,5 +156976,47 @@
         "large": "fame-ai.png"
       }
     }
+  ],
+  "arma": [
+    {
+      "id": "aarma",
+      "alexa": null,
+      "gecko_rank": 5609,
+      "gecko_score": 1.686,
+      "community_score": 7.661,
+      "image": {
+        "thumb": "aarma.png",
+        "small": "aarma.png",
+        "large": "aarma.png"
+      }
+    }
+  ],
+  "$cleo": [
+    {
+      "id": "cleo-tech",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "cleo-tech.jpeg",
+        "small": "cleo-tech.jpeg",
+        "large": "cleo-tech.jpeg"
+      }
+    }
+  ],
+  "foxes": [
+    {
+      "id": "famous-fox-federation-floor-index",
+      "alexa": null,
+      "gecko_rank": null,
+      "gecko_score": 0,
+      "community_score": 0,
+      "image": {
+        "thumb": "famous-fox-federation-floor-index.png",
+        "small": "famous-fox-federation-floor-index.png",
+        "large": "famous-fox-federation-floor-index.png"
+      }
+    }
   ]
 }

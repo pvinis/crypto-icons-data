@@ -455,6 +455,11 @@
     "name": "Aardvark"
   },
   {
+    "id": "aarma",
+    "symbol": "arma",
+    "name": "Aarma"
+  },
+  {
     "id": "aave",
     "symbol": "aave",
     "name": "Aave"
@@ -8850,11 +8855,6 @@
     "name": "BRN Metaverse"
   },
   {
-    "id": "broccoli",
-    "symbol": "bro",
-    "name": "Broccoli"
-  },
-  {
     "id": "brokkr",
     "symbol": "bro",
     "name": "Brokkr"
@@ -11028,6 +11028,11 @@
     "id": "clecoin",
     "symbol": "cle",
     "name": "CLECOIN"
+  },
+  {
+    "id": "cleo-tech",
+    "symbol": "$cleo",
+    "name": "Cleo Tech"
   },
   {
     "id": "clever-token",
@@ -19542,7 +19547,7 @@
   {
     "id": "flooring-lab-credit",
     "symbol": "flc",
-    "name": "Flooring Lab Credit"
+    "name": "Floor Protocol"
   },
   {
     "id": "flooring-protocol-azuki",
@@ -24440,11 +24445,6 @@
     "name": "HTMLCOIN"
   },
   {
-    "id": "htmoon",
-    "symbol": "htmoon",
-    "name": "HTMoon"
-  },
-  {
     "id": "hubble",
     "symbol": "hbb",
     "name": "Hubble"
@@ -26833,11 +26833,6 @@
     "id": "kalisten",
     "symbol": "ks",
     "name": "Kalisten"
-  },
-  {
-    "id": "kalkulus",
-    "symbol": "klks",
-    "name": "Kalkulus"
   },
   {
     "id": "kalmar",
@@ -32665,11 +32660,6 @@
     "name": "Mind Matrix"
   },
   {
-    "id": "mindol",
-    "symbol": "min",
-    "name": "MINDOL"
-  },
-  {
     "id": "minds",
     "symbol": "minds",
     "name": "Minds"
@@ -32923,11 +32913,6 @@
     "id": "mmf-money",
     "symbol": "burrow",
     "name": "MMF Money"
-  },
-  {
-    "id": "mmg-token",
-    "symbol": "mmg",
-    "name": "Mad Monkey Guild"
   },
   {
     "id": "mmocoin",
@@ -37150,11 +37135,6 @@
     "name": "Outter Finance"
   },
   {
-    "id": "overlay-protocol",
-    "symbol": "ovl",
-    "name": "Overlay Protocol"
-  },
-  {
     "id": "overnight-dai",
     "symbol": "dai+",
     "name": "Overnight.fi DAI+"
@@ -39978,6 +39958,11 @@
     "id": "power",
     "symbol": "pwr",
     "name": "MaxxChain"
+  },
+  {
+    "id": "powercity-watt",
+    "symbol": "watt",
+    "name": "POWERCITY WATT"
   },
   {
     "id": "powercoin",
@@ -43310,11 +43295,6 @@
     "name": "Saiko - The Revival"
   },
   {
-    "id": "sail",
-    "symbol": "sail",
-    "name": "SAIL"
-  },
-  {
     "id": "sail-2",
     "symbol": "sail",
     "name": "SAIL"
@@ -43325,9 +43305,14 @@
     "name": "Saintbot"
   },
   {
+    "id": "saitachain-coin-2",
+    "symbol": "stc",
+    "name": "SaitaChain Coin"
+  },
+  {
     "id": "saitama-inu",
-    "symbol": "saitama",
-    "name": "Saitama"
+    "symbol": "stc",
+    "name": "SaitaChain Coin"
   },
   {
     "id": "saitarealty",
@@ -48718,6 +48703,11 @@
     "id": "tao-inu",
     "symbol": "taonu",
     "name": "TAO INU"
+  },
+  {
+    "id": "taopad",
+    "symbol": "tpad",
+    "name": "TaoPad"
   },
   {
     "id": "tap",
