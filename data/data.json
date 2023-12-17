@@ -315,6 +315,11 @@
     "name": "3xcalibur Ecosystem Token"
   },
   {
+    "id": "4096",
+    "symbol": "4096",
+    "name": "4096"
+  },
+  {
     "id": "42-coin",
     "symbol": "42",
     "name": "42-coin"
@@ -1290,6 +1295,11 @@
     "name": "AdaSwap"
   },
   {
+    "id": "ada-the-dog",
+    "symbol": "ada",
+    "name": "ADA the Dog"
+  },
+  {
     "id": "adax",
     "symbol": "adax",
     "name": "ADAX"
@@ -1695,6 +1705,11 @@
     "name": "AiAkita"
   },
   {
+    "id": "ai-analysis-token",
+    "symbol": "aiat",
+    "name": "AI Analysis Token"
+  },
+  {
     "id": "aibot",
     "symbol": "aibot",
     "name": "Aibot"
@@ -1900,6 +1915,11 @@
     "name": "AiShiba"
   },
   {
+    "id": "aisignal",
+    "symbol": "aisig",
+    "name": "AISignal"
+  },
+  {
     "id": "aisociety",
     "symbol": "ais",
     "name": "AISociety"
@@ -1955,6 +1975,11 @@
     "name": "Ajuna Network"
   },
   {
+    "id": "akamaru",
+    "symbol": "aku",
+    "name": "Akamaru"
+  },
+  {
     "id": "akash-network",
     "symbol": "akt",
     "name": "Akash Network"
@@ -1967,7 +1992,7 @@
   {
     "id": "aki-protocol",
     "symbol": "aki",
-    "name": "Aki Protocol"
+    "name": "Aki Protocol Token"
   },
   {
     "id": "akita-inu",
@@ -2820,6 +2845,11 @@
     "name": "Anagata"
   },
   {
+    "id": "analysoor",
+    "symbol": "zero",
+    "name": "Analysoor"
+  },
+  {
     "id": "anarchy",
     "symbol": "anarchy",
     "name": "Anarchy"
@@ -2983,6 +3013,11 @@
     "id": "anon-web3",
     "symbol": "aw3",
     "name": "Anon Web3"
+  },
+  {
+    "id": "anonym-chain",
+    "symbol": "anc",
+    "name": "Anonym Chain"
   },
   {
     "id": "anonzk",
@@ -4660,6 +4695,11 @@
     "name": "Avalaunch"
   },
   {
+    "id": "avante",
+    "symbol": "axt",
+    "name": "Avante"
+  },
+  {
     "id": "avaocado-dao",
     "symbol": "avg",
     "name": "Avocado DAO"
@@ -4688,6 +4728,11 @@
     "id": "avaxtars",
     "symbol": "avxt",
     "name": "Avaxtars"
+  },
+  {
+    "id": "avbot",
+    "symbol": "avbot",
+    "name": "AVBOT"
   },
   {
     "id": "aventis-metaverse",
@@ -5895,6 +5940,11 @@
     "name": "Bear"
   },
   {
+    "id": "bear-2",
+    "symbol": "bear",
+    "name": "Bear"
+  },
+  {
     "id": "bearai",
     "symbol": "bai",
     "name": "BearAI"
@@ -6873,6 +6923,11 @@
     "id": "bitcoin-br",
     "symbol": "btcbr",
     "name": "Bitcoin BR"
+  },
+  {
+    "id": "bitcoin-candy",
+    "symbol": "cdy",
+    "name": "Bitcoin Candy"
   },
   {
     "id": "bitcoin-cash",
@@ -8143,6 +8198,11 @@
     "id": "bonk",
     "symbol": "bonk",
     "name": "Bonk"
+  },
+  {
+    "id": "bonk2-0",
+    "symbol": "bonk2.0",
+    "name": "Bonk2.0"
   },
   {
     "id": "bonkcola",
@@ -9828,6 +9888,11 @@
     "id": "catcoin-bsc",
     "symbol": "cat",
     "name": "Catcoin BSC"
+  },
+  {
+    "id": "catcoin-cash",
+    "symbol": "cat",
+    "name": "Catcoin"
   },
   {
     "id": "catcoin-token",
@@ -15965,6 +16030,11 @@
     "name": "DoveSwap"
   },
   {
+    "id": "dovi",
+    "symbol": "dovi",
+    "name": "DOVI"
+  },
+  {
     "id": "dovu",
     "symbol": "dov",
     "name": "Dovu [OLD]"
@@ -16810,6 +16880,11 @@
     "name": "Edoverse Zeni"
   },
   {
+    "id": "edrivetoken",
+    "symbol": "edt",
+    "name": "EDriveToken"
+  },
+  {
     "id": "edu-coin",
     "symbol": "edu",
     "name": "Open Campus"
@@ -16983,6 +17058,11 @@
     "id": "electronic-usd",
     "symbol": "eusd",
     "name": "Electronic USD"
+  },
+  {
+    "id": "elemental-story",
+    "symbol": "pgt",
+    "name": "Elemental Story"
   },
   {
     "id": "element-black",
@@ -17555,6 +17635,11 @@
     "name": "Epillo"
   },
   {
+    "id": "epoch-island",
+    "symbol": "epoch",
+    "name": "Epoch Island"
+  },
+  {
     "id": "eq9",
     "symbol": "eq9",
     "name": "Equals9"
@@ -17848,6 +17933,11 @@
     "id": "ethdown",
     "symbol": "ethdown",
     "name": "ETHDOWN"
+  },
+  {
+    "id": "ethena-staked-usde",
+    "symbol": "susde",
+    "name": "Ethena Staked USDe"
   },
   {
     "id": "ethena-usde",
@@ -22698,6 +22788,11 @@
     "id": "grok-elo",
     "symbol": "gelo",
     "name": "Grok Elo"
+  },
+  {
+    "id": "grokgrow",
+    "symbol": "grokgrow",
+    "name": "GrokGrow"
   },
   {
     "id": "grokky",
@@ -27980,11 +28075,6 @@
     "name": "KUNKUN Coin"
   },
   {
-    "id": "kupay",
-    "symbol": "kpy",
-    "name": "Kupay"
-  },
-  {
     "id": "kurobi",
     "symbol": "kuro",
     "name": "Kurobi"
@@ -31965,6 +32055,11 @@
     "name": "Meta Merge Mana"
   },
   {
+    "id": "met-a-meta-metameme",
+    "symbol": "metameme",
+    "name": "met a meta metameme"
+  },
+  {
     "id": "meta-mine",
     "symbol": "mtmn",
     "name": "META MINE"
@@ -34495,6 +34590,11 @@
     "name": "NEMO"
   },
   {
+    "id": "nengcoin",
+    "symbol": "neng",
+    "name": "Nengcoin"
+  },
+  {
     "id": "neo",
     "symbol": "neo",
     "name": "NEO"
@@ -36870,6 +36970,11 @@
     "name": "Orclands Metaverse"
   },
   {
+    "id": "ordbridge",
+    "symbol": "wbrge",
+    "name": "OrdBridge"
+  },
+  {
     "id": "orders-exchange",
     "symbol": "rdex",
     "name": "Orders.Exchange"
@@ -37163,11 +37268,6 @@
     "id": "owloper",
     "symbol": "owl",
     "name": "Owloper Owl"
-  },
-  {
-    "id": "ownly",
-    "symbol": "own",
-    "name": "Ownly"
   },
   {
     "id": "own-token",
@@ -39358,6 +39458,11 @@
     "id": "pointpay",
     "symbol": "pxp",
     "name": "PointPay"
+  },
+  {
+    "id": "points",
+    "symbol": "points",
+    "name": "Points"
   },
   {
     "id": "poison-finance",
@@ -41940,6 +42045,11 @@
     "name": "Red Pepe"
   },
   {
+    "id": "red-pepe-2",
+    "symbol": "rpepe",
+    "name": "Red Pepe"
+  },
+  {
     "id": "red-pulse",
     "symbol": "phb",
     "name": "Phoenix Global [OLD]"
@@ -42213,6 +42323,11 @@
     "id": "retro-finance",
     "symbol": "retro",
     "name": "Retro Finance"
+  },
+  {
+    "id": "retro-finance-oretro",
+    "symbol": "oretro",
+    "name": "Retro Finance oRETRO"
   },
   {
     "id": "reunit-wallet",
@@ -47880,6 +47995,11 @@
     "name": "SUKU"
   },
   {
+    "id": "sumcoin",
+    "symbol": "sum",
+    "name": "Sumcoin"
+  },
+  {
     "id": "sumer-money-subtc",
     "symbol": "subtc",
     "name": "Sumer.Money suBTC"
@@ -51190,6 +51310,11 @@
     "name": "tzBTC"
   },
   {
+    "id": "ubd-network",
+    "symbol": "ubdn",
+    "name": "UBD Network"
+  },
+  {
     "id": "ubeswap",
     "symbol": "ube",
     "name": "Ubeswap"
@@ -53010,6 +53135,11 @@
     "name": "Vim"
   },
   {
+    "id": "vimverse",
+    "symbol": "vim",
+    "name": "Vimverse"
+  },
+  {
     "id": "vindax-coin",
     "symbol": "vd",
     "name": "VinDax Coin"
@@ -53997,6 +54127,11 @@
   {
     "id": "wen-2",
     "symbol": "$wen",
+    "name": "WEN"
+  },
+  {
+    "id": "wen-3",
+    "symbol": "wen",
     "name": "WEN"
   },
   {
@@ -55938,11 +56073,6 @@
     "id": "xpolar",
     "symbol": "xpolar",
     "name": "XPOLAR"
-  },
-  {
-    "id": "x-project",
-    "symbol": "x-token",
-    "name": "X Project"
   },
   {
     "id": "x-protocol",
