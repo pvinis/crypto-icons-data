@@ -4090,6 +4090,11 @@
     "name": "Asko"
   },
   {
+    "id": "asmatch",
+    "symbol": "asm",
+    "name": "AsMatch"
+  },
+  {
     "id": "as-monaco-fan-token",
     "symbol": "asm",
     "name": "AS Monaco Fan Token"
@@ -4776,6 +4781,11 @@
   },
   {
     "id": "avatly",
+    "symbol": "ava",
+    "name": "Avatly (Old)"
+  },
+  {
+    "id": "avatly-2",
     "symbol": "ava",
     "name": "Avatly"
   },
@@ -9418,6 +9428,11 @@
     "id": "burn",
     "symbol": "burn",
     "name": "BURN"
+  },
+  {
+    "id": "burners",
+    "symbol": "brnr",
+    "name": "Burners"
   },
   {
     "id": "burn-kenny",
@@ -20965,11 +20980,6 @@
     "name": "Fusotao"
   },
   {
-    "id": "future-ai",
-    "symbol": "future-ai",
-    "name": "Future AI"
-  },
-  {
     "id": "futurecoin",
     "symbol": "future",
     "name": "FutureCoin"
@@ -21593,6 +21603,11 @@
     "id": "gemie",
     "symbol": "gem",
     "name": "Gemie"
+  },
+  {
+    "id": "gemini-ai",
+    "symbol": "gemini",
+    "name": "Gemini AI"
   },
   {
     "id": "gemini-dollar",
@@ -22518,6 +22533,11 @@
     "id": "gomeat",
     "symbol": "gomt",
     "name": "GoMeat"
+  },
+  {
+    "id": "gone",
+    "symbol": "gone",
+    "name": "Gone"
   },
   {
     "id": "gooch",
@@ -25565,11 +25585,6 @@
     "name": "iGameS"
   },
   {
-    "id": "ig-gold",
-    "symbol": "igg",
-    "name": "IG Gold"
-  },
-  {
     "id": "ignis",
     "symbol": "ignis",
     "name": "Ignis"
@@ -26572,7 +26587,7 @@
   {
     "id": "it-s-just-a-rock",
     "symbol": "rock",
-    "name": "It's just a rock"
+    "name": "Rock"
   },
   {
     "id": "iucn-coin",
@@ -26863,6 +26878,11 @@
     "id": "jesus-coin",
     "symbol": "jesus",
     "name": "Jesus Coin"
+  },
+  {
+    "id": "jesus-on-sol",
+    "symbol": "jesus",
+    "name": "JESUS ON SOL"
   },
   {
     "id": "jet",
@@ -27860,6 +27880,11 @@
     "name": "KING FOREVER"
   },
   {
+    "id": "king-grok",
+    "symbol": "kinggrok",
+    "name": "King Grok"
+  },
+  {
     "id": "king-of-legends-2",
     "symbol": "kol",
     "name": "King of Legends"
@@ -28138,6 +28163,11 @@
     "id": "kohenoor",
     "symbol": "ken",
     "name": "KOHENOOR"
+  },
+  {
+    "id": "koi",
+    "symbol": "koi",
+    "name": "KOI"
   },
   {
     "id": "koinon",
@@ -30738,6 +30768,11 @@
     "id": "magical-blocks",
     "symbol": "mblk",
     "name": "Magical Blocks"
+  },
+  {
+    "id": "magicaltux",
+    "symbol": "tux",
+    "name": "Magicaltux"
   },
   {
     "id": "magic-bag",
@@ -33885,6 +33920,11 @@
     "name": "UNKJD"
   },
   {
+    "id": "monkeyhaircut",
+    "symbol": "monk",
+    "name": "monkeyhaircut"
+  },
+  {
     "id": "monkey-puppet",
     "symbol": "mpm",
     "name": "Monkey Puppet"
@@ -36550,6 +36590,11 @@
     "name": "Odin Protocol"
   },
   {
+    "id": "odung",
+    "symbol": "derp",
+    "name": "oDung"
+  },
+  {
     "id": "oduwa-coin",
     "symbol": "owc",
     "name": "Oduwa Coin"
@@ -36883,6 +36928,11 @@
     "id": "omnibotx",
     "symbol": "omnix",
     "name": "OmniBotX"
+  },
+  {
+    "id": "omnicat",
+    "symbol": "omni",
+    "name": "OmniCat"
   },
   {
     "id": "omni-consumer-protocol",
@@ -37598,6 +37648,11 @@
     "id": "ordinex",
     "symbol": "ord",
     "name": "ordinex"
+  },
+  {
+    "id": "ordiswap-token",
+    "symbol": "ords",
+    "name": "Ordiswap Token"
   },
   {
     "id": "ordizk",
@@ -40498,11 +40553,6 @@
     "id": "poolz-finance-2",
     "symbol": "poolx",
     "name": "Poolz Finance"
-  },
-  {
-    "id": "poope",
-    "symbol": "poope",
-    "name": "Poope"
   },
   {
     "id": "poopsicle",
@@ -44083,6 +44133,11 @@
     "id": "safu-crypto-cz",
     "symbol": "safucz",
     "name": "SAFU CRYPTO CZ"
+  },
+  {
+    "id": "safudex",
+    "symbol": "sfd",
+    "name": "SafuDex"
   },
   {
     "id": "safu-protocol",
@@ -51215,11 +51270,6 @@
     "name": "TOR"
   },
   {
-    "id": "tora",
-    "symbol": "tora",
-    "name": "TORA"
-  },
-  {
     "id": "tora-inu",
     "symbol": "tora",
     "name": "Tora Inu"
@@ -54870,6 +54920,11 @@
     "name": "WealthSecrets"
   },
   {
+    "id": "we-are-all-richard",
+    "symbol": "waar",
+    "name": "We Are All Richard"
+  },
+  {
     "id": "web",
     "symbol": "web",
     "name": "Web"
@@ -56753,11 +56808,6 @@
     "id": "xfit",
     "symbol": "xfit",
     "name": "XFai"
-  },
-  {
-    "id": "xfl-token",
-    "symbol": "xfl",
-    "name": "XFL"
   },
   {
     "id": "xfuel",
