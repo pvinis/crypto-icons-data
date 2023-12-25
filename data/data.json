@@ -1120,11 +1120,6 @@
     "name": "Abachi"
   },
   {
-    "id": "abased",
-    "symbol": "$abased",
-    "name": "aBASED"
-  },
-  {
     "id": "abcmeta",
     "symbol": "meta",
     "name": "ABCMETA"
@@ -6313,11 +6308,6 @@
     "id": "berryswap",
     "symbol": "berry",
     "name": "BerrySwap"
-  },
-  {
-    "id": "beryltriochain",
-    "symbol": "bribit",
-    "name": "BerylTrioChain"
   },
   {
     "id": "besa-gaming-company",
@@ -20760,6 +20750,11 @@
     "name": "Frogo"
   },
   {
+    "id": "frogolana",
+    "symbol": "frogo",
+    "name": "Frogolana"
+  },
+  {
     "id": "frogswap",
     "symbol": "frog",
     "name": "FrogSwap"
@@ -21960,6 +21955,11 @@
     "name": "Gilgeous"
   },
   {
+    "id": "ginger",
+    "symbol": "ginger",
+    "name": "GINGER"
+  },
+  {
     "id": "ginoa",
     "symbol": "ginoa",
     "name": "Ginoa"
@@ -22057,7 +22057,7 @@
   {
     "id": "globalboost",
     "symbol": "bsty",
-    "name": "GlobalBoost-Y"
+    "name": "GlobalBoost"
   },
   {
     "id": "globalchainz",
@@ -23268,6 +23268,11 @@
     "id": "guessonchain",
     "symbol": "guess",
     "name": "GuessOnChain"
+  },
+  {
+    "id": "gui-inu",
+    "symbol": "gui",
+    "name": "Gui Inu"
   },
   {
     "id": "guildfi",
@@ -25488,11 +25493,6 @@
     "id": "idia",
     "symbol": "idia",
     "name": "Impossible Finance Launchpad"
-  },
-  {
-    "id": "idk",
-    "symbol": "idk",
-    "name": "IDK"
   },
   {
     "id": "idle",
@@ -28166,6 +28166,11 @@
   },
   {
     "id": "koi",
+    "symbol": "koi",
+    "name": "KOI"
+  },
+  {
+    "id": "koi-2",
     "symbol": "koi",
     "name": "KOI"
   },
@@ -31958,6 +31963,11 @@
     "id": "melon-2",
     "symbol": "melon",
     "name": "MELON"
+  },
+  {
+    "id": "melon-dog",
+    "symbol": "melon",
+    "name": "Melon Dog"
   },
   {
     "id": "melos-studio",
@@ -36123,6 +36133,11 @@
     "id": "not-financial-advice",
     "symbol": "nfai",
     "name": "Not Financial Advice"
+  },
+  {
+    "id": "nothing-2",
+    "symbol": "nothing",
+    "name": "NOTHING"
   },
   {
     "id": "nothing-token",
@@ -40473,6 +40488,11 @@
     "id": "ponk",
     "symbol": "ponk",
     "name": "Ponk"
+  },
+  {
+    "id": "ponke",
+    "symbol": "ponke",
+    "name": "PONKE"
   },
   {
     "id": "pontoon",
@@ -46490,6 +46510,11 @@
     "name": "Solana"
   },
   {
+    "id": "solana-beach",
+    "symbol": "solana",
+    "name": "Solana Beach"
+  },
+  {
     "id": "solanacorn",
     "symbol": "corn",
     "name": "Solanacorn"
@@ -47715,6 +47740,11 @@
     "name": "Stablecoin"
   },
   {
+    "id": "stablecomp",
+    "symbol": "scomp",
+    "name": "Stablecomp"
+  },
+  {
     "id": "stabledoc-token",
     "symbol": "sdt",
     "name": "Stabledoc"
@@ -47858,11 +47888,6 @@
     "id": "staked-aave-balancer-pool-token",
     "symbol": "stkabpt",
     "name": "Staked Aave Balancer Pool Token"
-  },
-  {
-    "id": "staked-acme",
-    "symbol": "stacme",
-    "name": "Staked ACME"
   },
   {
     "id": "staked-ageur",
@@ -58268,6 +58293,11 @@
     "id": "zkdoge",
     "symbol": "zkdoge",
     "name": "zkDoge"
+  },
+  {
+    "id": "zkera-finance",
+    "symbol": "zke",
+    "name": "zkEra Finance"
   },
   {
     "id": "zkevmchain-bsc",
