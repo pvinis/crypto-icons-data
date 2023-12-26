@@ -8340,6 +8340,11 @@
     "name": "BonkEarn"
   },
   {
+    "id": "bonkinu",
+    "symbol": "bonkinu",
+    "name": "Bonkinu"
+  },
+  {
     "id": "bonk-inu",
     "symbol": "bonki",
     "name": "BONK Inu"
@@ -10965,6 +10970,11 @@
     "name": "Nana"
   },
   {
+    "id": "chipi",
+    "symbol": "chipi",
+    "name": "Chipi"
+  },
+  {
     "id": "chirp-finance",
     "symbol": "chirp",
     "name": "Chirp Finance"
@@ -11468,6 +11478,11 @@
     "id": "cocktailbar",
     "symbol": "coc",
     "name": "cocktailbar.finance"
+  },
+  {
+    "id": "coco",
+    "symbol": "coco",
+    "name": "Coco"
   },
   {
     "id": "cocos-bcx",
@@ -16010,6 +16025,11 @@
     "name": "Dog Wif Nunchucks"
   },
   {
+    "id": "dogwifpants",
+    "symbol": "pants",
+    "name": "dogwifpants"
+  },
+  {
     "id": "dogyrace",
     "symbol": "dor",
     "name": "DogyRace"
@@ -16668,6 +16688,11 @@
     "id": "dude",
     "symbol": "dude",
     "name": "DuDe"
+  },
+  {
+    "id": "duel",
+    "symbol": "duel",
+    "name": "DUEL"
   },
   {
     "id": "duel-network-2",
@@ -19215,6 +19240,11 @@
     "name": "FC Sion Fan Token"
   },
   {
+    "id": "fcuk",
+    "symbol": "fcuk",
+    "name": "FCUK"
+  },
+  {
     "id": "fear",
     "symbol": "fear",
     "name": "FEAR"
@@ -21500,6 +21530,11 @@
     "name": "Gearbox"
   },
   {
+    "id": "gecko-inu",
+    "symbol": "gec",
+    "name": "Gecko Inu"
+  },
+  {
     "id": "gecko-meme",
     "symbol": "gecko",
     "name": "Gecko (Meme)"
@@ -22728,11 +22763,6 @@
     "id": "gpt-ai",
     "symbol": "ai",
     "name": "GPT AI"
-  },
-  {
-    "id": "gpt-guru",
-    "symbol": "gptg",
-    "name": "GPT Guru"
   },
   {
     "id": "grabcoinclub",
@@ -24148,6 +24178,11 @@
     "id": "heroes-of-nft",
     "symbol": "hon",
     "name": "Heroes of NFT"
+  },
+  {
+    "id": "heroes-td",
+    "symbol": "htd",
+    "name": "Heroes TD"
   },
   {
     "id": "heroestd-cgc",
@@ -26993,6 +27028,11 @@
     "id": "joe-hat-token",
     "symbol": "hat",
     "name": "Joe Hat"
+  },
+  {
+    "id": "joel",
+    "symbol": "joel",
+    "name": "Joel"
   },
   {
     "id": "joe-yo-coin",
@@ -30220,11 +30260,6 @@
     "name": "LP 3pool Curve"
   },
   {
-    "id": "lp-finance",
-    "symbol": "lpfi",
-    "name": "LP Finance DAO"
-  },
-  {
     "id": "lp-renbtc-curve",
     "symbol": "renbtccurve",
     "name": "LP renBTC Curve"
@@ -30935,6 +30970,11 @@
     "name": "Mainframe"
   },
   {
+    "id": "mainnetz",
+    "symbol": "netz",
+    "name": "MainnetZ"
+  },
+  {
     "id": "mainstream-for-the-underground",
     "symbol": "mftu",
     "name": "Mainstream For The Underground"
@@ -31053,6 +31093,11 @@
     "id": "manifold-finance",
     "symbol": "fold",
     "name": "Manifold Finance"
+  },
+  {
+    "id": "man-man-man",
+    "symbol": "man",
+    "name": "MAN MAN MAN"
   },
   {
     "id": "manna",
@@ -33448,6 +33493,11 @@
     "id": "mission-helios",
     "symbol": "helios",
     "name": "Mission Helios"
+  },
+  {
+    "id": "missionmars",
+    "symbol": "mmars",
+    "name": "MissionMars"
   },
   {
     "id": "mist",
@@ -36530,6 +36580,11 @@
     "name": "OceanEX"
   },
   {
+    "id": "oceanfi",
+    "symbol": "ocf",
+    "name": "OceanFi"
+  },
+  {
     "id": "oceanland",
     "symbol": "oland",
     "name": "OceanLand"
@@ -37615,6 +37670,11 @@
     "name": "OrdiBot"
   },
   {
+    "id": "ordinal-bitcoin",
+    "symbol": "obtc",
+    "name": "ORDINAL BITCOIN"
+  },
+  {
     "id": "ordinal-bridge",
     "symbol": "ordibridge",
     "name": "Ordinal Bridge"
@@ -38053,6 +38113,11 @@
     "id": "paisapad",
     "symbol": "ppd",
     "name": "PaisaPad"
+  },
+  {
+    "id": "paje-etdev-company",
+    "symbol": "pajeet",
+    "name": "PAJE ETDEV COMPANY"
   },
   {
     "id": "pakcoin",
@@ -46830,6 +46895,11 @@
     "name": "Solyard Finance"
   },
   {
+    "id": "solzilla",
+    "symbol": "solzilla",
+    "name": "Solzilla"
+  },
+  {
     "id": "sombra-network",
     "symbol": "smbr",
     "name": "Sombra"
@@ -47758,11 +47828,6 @@
     "id": "stable-usdlr",
     "symbol": "usdlr",
     "name": "Stable USDLR"
-  },
-  {
-    "id": "stablexswap",
-    "symbol": "stax",
-    "name": "StableXSwap"
   },
   {
     "id": "stabl-fi",
@@ -54295,6 +54360,11 @@
     "name": "VLaunch"
   },
   {
+    "id": "vmex",
+    "symbol": "vmex",
+    "name": "VMEX"
+  },
+  {
     "id": "vmpx",
     "symbol": "vmpx",
     "name": "VMPX"
@@ -56573,11 +56643,6 @@
     "id": "x-bridge-bot",
     "symbol": "xfer",
     "name": "X Bridge Bot"
-  },
-  {
-    "id": "xbullion",
-    "symbol": "gold",
-    "name": "XBullion"
   },
   {
     "id": "xbullion_silver",
