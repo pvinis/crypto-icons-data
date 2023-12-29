@@ -7090,6 +7090,11 @@
     "name": "Bitcoin SV"
   },
   {
+    "id": "bitcoin-cats",
+    "symbol": "1cat",
+    "name": "Bitcoin Cats"
+  },
+  {
     "id": "bitcoin-diamond",
     "symbol": "bcd",
     "name": "Bitcoin Diamond"
@@ -7522,7 +7527,7 @@
   {
     "id": "blackfury-hug",
     "symbol": "fury",
-    "name": "Blackfury Hug"
+    "name": "Blackfury Hub"
   },
   {
     "id": "blackhat-coin",
@@ -12570,11 +12575,6 @@
     "name": "Covenant"
   },
   {
-    "id": "covercompared",
-    "symbol": "cvr",
-    "name": "CoverCompared"
-  },
-  {
     "id": "cover-protocol",
     "symbol": "cover",
     "name": "Cover Protocol"
@@ -13885,6 +13885,11 @@
     "name": "Daisy Protocol"
   },
   {
+    "id": "dall-doginals",
+    "symbol": "dall",
+    "name": "Dall (Doginals)"
+  },
+  {
     "id": "dalma-inu",
     "symbol": "dalma",
     "name": "Dalma Inu"
@@ -14138,6 +14143,11 @@
     "id": "data-vital",
     "symbol": "dav",
     "name": "Data Vital"
+  },
+  {
+    "id": "datsbotai",
+    "symbol": "dba",
+    "name": "Datsbotai"
   },
   {
     "id": "dave-coin",
@@ -16573,6 +16583,11 @@
     "id": "dragonchain",
     "symbol": "drgn",
     "name": "Dragonchain"
+  },
+  {
+    "id": "dragoncoin",
+    "symbol": "dragon",
+    "name": "DragonCoin"
   },
   {
     "id": "dragon-crypto-argenti",
@@ -19918,6 +19933,11 @@
     "id": "fitzen",
     "symbol": "fitz",
     "name": "FitZen"
+  },
+  {
+    "id": "fiwb-doginals",
+    "symbol": "fiwb",
+    "name": "FIWB (Doginals)"
   },
   {
     "id": "fix00",
@@ -25640,6 +25660,11 @@
     "name": "IceCreamSwap"
   },
   {
+    "id": "ice-net",
+    "symbol": "ice",
+    "name": "ICE NET"
+  },
+  {
     "id": "ice-token",
     "symbol": "ice",
     "name": "Popsicle Finance"
@@ -27040,11 +27065,6 @@
     "name": "Jarvis Synthetic Swiss Franc"
   },
   {
-    "id": "jasan-wellness",
-    "symbol": "jw",
-    "name": "Jasan Wellness"
-  },
-  {
     "id": "jaseonmun",
     "symbol": "jsm",
     "name": "Joseon-Mun"
@@ -27913,11 +27933,6 @@
     "id": "keko",
     "symbol": "keko",
     "name": "Keko"
-  },
-  {
-    "id": "kekya",
-    "symbol": "kekya",
-    "name": "Kekya"
   },
   {
     "id": "kelp-dao-restaked-eth",
@@ -30400,6 +30415,11 @@
     "name": "Loong"
   },
   {
+    "id": "loong-2024",
+    "symbol": "loong",
+    "name": "LOONG 2024"
+  },
+  {
     "id": "loon-network",
     "symbol": "loon",
     "name": "Loon Network"
@@ -31573,6 +31593,11 @@
     "id": "marsdao",
     "symbol": "mdao",
     "name": "MarsDAO"
+  },
+  {
+    "id": "mars-doginals",
+    "symbol": "mars",
+    "name": "MARS (Doginals)"
   },
   {
     "id": "mars-ecosystem-token",
@@ -36350,6 +36375,11 @@
     "name": "Nodle Network"
   },
   {
+    "id": "nogas",
+    "symbol": "ngs",
+    "name": "NoGas"
+  },
+  {
     "id": "noia-network",
     "symbol": "noia",
     "name": "Syntropy"
@@ -37750,6 +37780,11 @@
     "name": "Optimus X"
   },
   {
+    "id": "optionflow-finance",
+    "symbol": "opt",
+    "name": "OptionFlow Finance"
+  },
+  {
     "id": "option-panda-platform",
     "symbol": "opa",
     "name": "Option Panda Platform"
@@ -37928,6 +37963,11 @@
     "id": "orca-avai",
     "symbol": "avai",
     "name": "Orca AVAI"
+  },
+  {
+    "id": "orca-inu",
+    "symbol": "orcainu",
+    "name": "ORCA INU"
   },
   {
     "id": "orcfax",
@@ -42495,6 +42535,11 @@
     "name": "Radix"
   },
   {
+    "id": "radpie",
+    "symbol": "rdp",
+    "name": "Radpie"
+  },
+  {
     "id": "rae-token",
     "symbol": "rae",
     "name": "Receive Access Ecosystem"
@@ -44603,6 +44648,11 @@
     "id": "sail-2",
     "symbol": "sail",
     "name": "SAIL"
+  },
+  {
+    "id": "sailwars",
+    "symbol": "swt",
+    "name": "Sailwars"
   },
   {
     "id": "saintbot",
@@ -47225,6 +47275,11 @@
     "name": "Solomon Defi"
   },
   {
+    "id": "solong-the-dragon",
+    "symbol": "solong",
+    "name": "SOLONG The Dragon"
+  },
+  {
     "id": "solordi",
     "symbol": "solo",
     "name": "Solordi"
@@ -47958,6 +48013,11 @@
     "id": "spider-spirit",
     "symbol": "spider",
     "name": "Spider Spirit"
+  },
+  {
+    "id": "spiderswap",
+    "symbol": "spdr",
+    "name": "SpiderSwap"
   },
   {
     "id": "spillways",
@@ -52020,6 +52080,11 @@
     "name": "Traders Coin"
   },
   {
+    "id": "traderx",
+    "symbol": "$tx",
+    "name": "TraderX"
+  },
+  {
     "id": "tradestars",
     "symbol": "tsx",
     "name": "TradeStars"
@@ -54658,6 +54723,11 @@
     "id": "virtual-coin",
     "symbol": "vrc",
     "name": "Virtual Coin"
+  },
+  {
+    "id": "virtual-protocol",
+    "symbol": "virtual",
+    "name": "Virtual Protocol"
   },
   {
     "id": "virtual-reality-glasses",
@@ -57930,6 +58000,11 @@
     "name": "Yearn yPRISMA"
   },
   {
+    "id": "year-of-the-dragon",
+    "symbol": "yod",
+    "name": "Year of the Dragon"
+  },
+  {
     "id": "yeet-dao",
     "symbol": "yeet",
     "name": "YEET DAO"
@@ -58340,6 +58415,11 @@
     "name": "Zaif"
   },
   {
+    "id": "zaiho",
+    "symbol": "zai",
+    "name": "ZAIHO"
+  },
+  {
     "id": "zakumifi",
     "symbol": "zafi",
     "name": "ZakumiFi"
@@ -58658,6 +58738,11 @@
     "id": "zero-tech",
     "symbol": "meow",
     "name": "ZERO"
+  },
+  {
+    "id": "zerpaay",
+    "symbol": "zrpy",
+    "name": "Zerpaay"
   },
   {
     "id": "zetacoin",
