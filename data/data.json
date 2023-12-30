@@ -7490,11 +7490,6 @@
     "name": "Bitxor"
   },
   {
-    "id": "bitzipp",
-    "symbol": "bzp",
-    "name": "BitZipp"
-  },
-  {
     "id": "biu-coin",
     "symbol": "biu",
     "name": "BIU COIN"
@@ -9555,6 +9550,11 @@
     "name": "Burrow"
   },
   {
+    "id": "burrrd",
+    "symbol": "burrrd",
+    "name": "BURRRD"
+  },
+  {
     "id": "bursaspor-fan-token",
     "symbol": "tmsh",
     "name": "Bursaspor Fan Token"
@@ -11100,6 +11100,11 @@
     "name": "Chipi"
   },
   {
+    "id": "chi-protocol",
+    "symbol": "chi",
+    "name": "Chi Protocol"
+  },
+  {
     "id": "chirp-finance",
     "symbol": "chirp",
     "name": "Chirp Finance"
@@ -11273,6 +11278,11 @@
     "id": "circuits-of-value",
     "symbol": "coval",
     "name": "Circuits of Value"
+  },
+  {
+    "id": "circularity-finance",
+    "symbol": "cifi",
+    "name": "Circularity Finance"
   },
   {
     "id": "ciri-coin",
@@ -19788,6 +19798,11 @@
     "id": "fingerprints",
     "symbol": "prints",
     "name": "FingerprintsDAO"
+  },
+  {
+    "id": "fink",
+    "symbol": "fink",
+    "name": "FINK"
   },
   {
     "id": "finminity",
@@ -30810,6 +30825,11 @@
     "name": "Lunatics"
   },
   {
+    "id": "lunatics-eth",
+    "symbol": "lunat",
+    "name": "Lunatics [ETH]"
+  },
+  {
     "id": "luna-wormhole",
     "symbol": "lunc",
     "name": "Terra Classic (Wormhole)"
@@ -31597,7 +31617,7 @@
   {
     "id": "mars-doginals",
     "symbol": "mars",
-    "name": "MARS (Doginals)"
+    "name": "MARS (DRC-20)"
   },
   {
     "id": "mars-ecosystem-token",
@@ -33688,6 +33708,11 @@
     "id": "mini-grok-2",
     "symbol": "mini grok",
     "name": "Mini Grok"
+  },
+  {
+    "id": "mini-metis",
+    "symbol": "minime",
+    "name": "Mini Metis"
   },
   {
     "id": "minnapad",
@@ -38062,7 +38087,7 @@
   {
     "id": "ordiswap-token",
     "symbol": "ords",
-    "name": "Ordiswap Token"
+    "name": "Ordiswap"
   },
   {
     "id": "ordizk",
@@ -41093,6 +41118,11 @@
     "id": "portuma",
     "symbol": "por",
     "name": "Portuma"
+  },
+  {
+    "id": "porygon",
+    "symbol": "pory",
+    "name": "Porygon"
   },
   {
     "id": "pos-32",
@@ -47308,6 +47338,11 @@
     "id": "sols",
     "symbol": "sols",
     "name": "sols"
+  },
+  {
+    "id": "sols-ordinals",
+    "symbol": "sols",
+    "name": "SOLS (Ordinals)"
   },
   {
     "id": "solster",
@@ -55800,6 +55835,11 @@
     "name": "WhaleWatch"
   },
   {
+    "id": "whatbot",
+    "symbol": "what",
+    "name": "WhatBot"
+  },
+  {
     "id": "what-do-you-meme",
     "symbol": "wdym",
     "name": "What Do You Meme"
@@ -58005,11 +58045,6 @@
     "name": "Year of the Dragon"
   },
   {
-    "id": "yeet-dao",
-    "symbol": "yeet",
-    "name": "YEET DAO"
-  },
-  {
     "id": "yel-finance",
     "symbol": "yel",
     "name": "Yel.Finance"
@@ -58708,6 +58743,11 @@
     "id": "zero",
     "symbol": "zer",
     "name": "Zero"
+  },
+  {
+    "id": "zeroclassic",
+    "symbol": "zerc",
+    "name": "ZeroClassic"
   },
   {
     "id": "zero-exchange",
