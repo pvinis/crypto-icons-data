@@ -5160,11 +5160,6 @@
     "name": "Baby Doge Inu"
   },
   {
-    "id": "babydot",
-    "symbol": "bdot",
-    "name": "BabyDot"
-  },
-  {
     "id": "babyfloki",
     "symbol": "babyfloki",
     "name": "BabyFloki"
@@ -8155,6 +8150,11 @@
     "name": "BMCHAIN"
   },
   {
+    "id": "bmp",
+    "symbol": "$bmp",
+    "name": "BMP"
+  },
+  {
     "id": "bmx",
     "symbol": "bmx",
     "name": "BMX"
@@ -8173,6 +8173,11 @@
     "id": "bnb-diamond",
     "symbol": "bnbd",
     "name": "BNB Diamond"
+  },
+  {
+    "id": "bnbee",
+    "symbol": "bee",
+    "name": "BNBEE"
   },
   {
     "id": "bnbking",
@@ -9390,6 +9395,11 @@
     "name": "Buddha"
   },
   {
+    "id": "buddyai",
+    "symbol": "buddy",
+    "name": "BuddyAI"
+  },
+  {
     "id": "buddy-dao",
     "symbol": "bdy",
     "name": "Buddy DAO"
@@ -9626,6 +9636,11 @@
   },
   {
     "id": "butter",
+    "symbol": "butter",
+    "name": "Butter"
+  },
+  {
+    "id": "butter-2",
     "symbol": "butter",
     "name": "Butter"
   },
@@ -11643,6 +11658,11 @@
     "id": "coban",
     "symbol": "coban",
     "name": "COBAN"
+  },
+  {
+    "id": "cobra-swap",
+    "symbol": "cobra",
+    "name": "Cobra Swap"
   },
   {
     "id": "cockapoo",
@@ -16997,7 +17017,7 @@
   {
     "id": "dust-city-nectar",
     "symbol": "nctr",
-    "name": "Dust City Nectar"
+    "name": "Nectar"
   },
   {
     "id": "dust-protocol",
@@ -20295,6 +20315,11 @@
     "name": "FP μElemental"
   },
   {
+    "id": "flooring-protocol-microjeergirl",
+    "symbol": "μjeergirl",
+    "name": "FP μJeerGirl"
+  },
+  {
     "id": "flooring-protocol-microlilpudgys",
     "symbol": "ulp",
     "name": "FP μLilPudgys"
@@ -20343,6 +20368,11 @@
     "id": "flooring-protocol-microsappyseals",
     "symbol": "usaps",
     "name": "FP μSappySeals"
+  },
+  {
+    "id": "flooring-protocol-microworldofwomen",
+    "symbol": "uwow",
+    "name": "FP μWorldOfWomen"
   },
   {
     "id": "flooring-protocol-microy00ts",
@@ -23445,6 +23475,11 @@
     "name": "GROKBOT"
   },
   {
+    "id": "grokboy",
+    "symbol": "grokboy",
+    "name": "grokboy"
+  },
+  {
     "id": "grok-by-grok-com",
     "symbol": "grōk",
     "name": "Grok by Grōk.com"
@@ -23796,6 +23831,11 @@
   },
   {
     "id": "hades",
+    "symbol": "hades",
+    "name": "Hades"
+  },
+  {
+    "id": "hades-2",
     "symbol": "hades",
     "name": "Hades"
   },
@@ -29448,11 +29488,6 @@
     "id": "legend-of-fantasy-war",
     "symbol": "lfw",
     "name": "Linked Finance World"
-  },
-  {
-    "id": "legends-room",
-    "symbol": "more",
-    "name": "More"
   },
   {
     "id": "legends-token",
@@ -38565,6 +38600,11 @@
     "name": "PADAWAN"
   },
   {
+    "id": "paideia",
+    "symbol": "pai",
+    "name": "Paideia"
+  },
+  {
     "id": "paid-network",
     "symbol": "paid",
     "name": "PAID Network"
@@ -39008,11 +39048,6 @@
     "id": "patientory",
     "symbol": "ptoy",
     "name": "Patientory"
-  },
-  {
-    "id": "patrick",
-    "symbol": "pat",
-    "name": "Patrick"
   },
   {
     "id": "patriot-pay",
@@ -39938,6 +39973,11 @@
     "id": "photonswap",
     "symbol": "photon",
     "name": "PhotonSwap"
+  },
+  {
+    "id": "phteven",
+    "symbol": "phteve",
+    "name": "Phteven"
   },
   {
     "id": "phunk-vault-nftx",
@@ -45385,6 +45425,11 @@
     "name": "Scry Protocol"
   },
   {
+    "id": "sdoge",
+    "symbol": "sdoge",
+    "name": "SDOGE"
+  },
+  {
     "id": "sdrive-app",
     "symbol": "scoin",
     "name": "Sdrive.app"
@@ -45503,6 +45548,11 @@
     "id": "seek-tiger",
     "symbol": "sti",
     "name": "Seek Tiger"
+  },
+  {
+    "id": "seifmoon",
+    "symbol": "$seif",
+    "name": "Seifmoon"
   },
   {
     "id": "seigniorage-shares",
@@ -46963,6 +47013,11 @@
     "id": "snake-city",
     "symbol": "snct",
     "name": "Snake City"
+  },
+  {
+    "id": "snakes-game",
+    "symbol": "snakes",
+    "name": "Snakes Game"
   },
   {
     "id": "snaps",
@@ -53600,6 +53655,11 @@
     "name": "Unobtanium Tezos"
   },
   {
+    "id": "unodex",
+    "symbol": "undx",
+    "name": "UNODEX"
+  },
+  {
     "id": "uno-re",
     "symbol": "uno",
     "name": "Uno Re"
@@ -55545,11 +55605,6 @@
     "name": "Warrior Empires"
   },
   {
-    "id": "wasdaq-finance",
-    "symbol": "wsdq",
-    "name": "Wasdaq Finance"
-  },
-  {
     "id": "wasder",
     "symbol": "was",
     "name": "Wasder"
@@ -55823,6 +55878,11 @@
     "id": "wefi-finance",
     "symbol": "wefi",
     "name": "Wefi Finance"
+  },
+  {
+    "id": "weft-finance",
+    "symbol": "weft",
+    "name": "Weft Finance"
   },
   {
     "id": "wegro",
@@ -57693,6 +57753,11 @@
     "id": "xlauncher",
     "symbol": "xlh",
     "name": "xLauncher"
+  },
+  {
+    "id": "xl-bully",
+    "symbol": "xlbully",
+    "name": "XL BULLY"
   },
   {
     "id": "xlink-bridged-btc-stacks",
