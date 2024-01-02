@@ -2235,11 +2235,6 @@
     "name": "Aktionariat Vereign AG Tokenized Shares"
   },
   {
-    "id": "aladdin-cvxcrv",
-    "symbol": "acrv",
-    "name": "Aladdin cvxCRV"
-  },
-  {
     "id": "aladdin-dao",
     "symbol": "ald",
     "name": "Aladdin DAO"
@@ -4836,7 +4831,7 @@
   },
   {
     "id": "avatly-2",
-    "symbol": "ava",
+    "symbol": "avatly",
     "name": "Avatly"
   },
   {
@@ -8812,7 +8807,7 @@
   {
     "id": "brianarmstrongtrumpyellen",
     "symbol": "coin",
-    "name": "BrianArmstrongTrumpYellen"
+    "name": "BrianArmstrongTrumpYellenGTA6"
   },
   {
     "id": "brick",
@@ -10630,11 +10625,6 @@
     "name": "CEX Index"
   },
   {
-    "id": "cex-trade",
-    "symbol": "cexd",
-    "name": "Cex-Trade"
-  },
-  {
     "id": "cfl365-finance",
     "symbol": "cfl365",
     "name": "CFL365 Finance"
@@ -11682,7 +11672,7 @@
   {
     "id": "cocktailbar",
     "symbol": "coc",
-    "name": "cocktailbar.finance"
+    "name": "The Cocktailbar"
   },
   {
     "id": "coco",
@@ -13713,11 +13703,6 @@
     "id": "curve-fi-amdai-amusdc-amusdt",
     "symbol": "am3crv",
     "name": "Curve.fi amDAI/amUSDC/amUSDT"
-  },
-  {
-    "id": "curve-fi-dai-usdc",
-    "symbol": "dai+usdc",
-    "name": "Curve.fi DAI/USDC"
   },
   {
     "id": "curve-fi-frax-usdc",
@@ -20395,11 +20380,6 @@
     "name": "Florin"
   },
   {
-    "id": "floshido-inu",
-    "symbol": "floshido",
-    "name": "FLOSHIDO INU"
-  },
-  {
     "id": "flourishing-ai-token",
     "symbol": "ai",
     "name": "Flourishing AI"
@@ -22645,11 +22625,6 @@
     "name": "Goatly.farm"
   },
   {
-    "id": "gobi-labs",
-    "symbol": "gobi",
-    "name": "Gobi Labs"
-  },
-  {
     "id": "goblin",
     "symbol": "goblin",
     "name": "Goblin"
@@ -23898,11 +23873,6 @@
     "id": "halloween-2",
     "symbol": "halloween",
     "name": "HALLOWEEN"
-  },
-  {
-    "id": "halloween-floki",
-    "symbol": "floh",
-    "name": "Halloween Floki"
   },
   {
     "id": "halo-coin",
@@ -54212,7 +54182,7 @@
   {
     "id": "vaporfi",
     "symbol": "vape",
-    "name": "VaporFi"
+    "name": "VAPE"
   },
   {
     "id": "vapornodes",
