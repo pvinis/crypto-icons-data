@@ -185,11 +185,6 @@
     "name": "OneArt"
   },
   {
-    "id": "1eco",
-    "symbol": "1eco",
-    "name": "1eco"
-  },
-  {
     "id": "1hive-water",
     "symbol": "water",
     "name": "1Hive Water"
@@ -5200,6 +5195,11 @@
     "name": "Baby Doge Inu"
   },
   {
+    "id": "baby-elon",
+    "symbol": "babyelon",
+    "name": "Baby Elon"
+  },
+  {
     "id": "babyfloki",
     "symbol": "babyfloki",
     "name": "BabyFloki"
@@ -9350,11 +9350,6 @@
     "name": "BRRRRR"
   },
   {
-    "id": "bruce-pepe",
-    "symbol": "bruce",
-    "name": "BRUCE pepe"
-  },
-  {
     "id": "bruh",
     "symbol": "bruh",
     "name": "BRUH"
@@ -9623,11 +9618,6 @@
     "id": "bumblebot",
     "symbol": "bumble",
     "name": "Bumblebot"
-  },
-  {
-    "id": "bumble-c",
-    "symbol": "bumblec",
-    "name": "Bumble-C"
   },
   {
     "id": "bumoon",
@@ -9928,6 +9918,11 @@
     "id": "calamari-network",
     "symbol": "kma",
     "name": "Calamari Network"
+  },
+  {
+    "id": "calaxy",
+    "symbol": "clxy",
+    "name": "Calaxy"
   },
   {
     "id": "calcium",
@@ -10518,6 +10513,11 @@
     "id": "cbdc",
     "symbol": "cbdc",
     "name": "CBDC"
+  },
+  {
+    "id": "cbdx",
+    "symbol": "cbdx",
+    "name": "CBDX (Ordinals)"
   },
   {
     "id": "cbyte-network",
@@ -11963,6 +11963,11 @@
     "id": "coinfirm-amlt",
     "symbol": "amlt",
     "name": "AMLT Network"
+  },
+  {
+    "id": "coingrab",
+    "symbol": "grab",
+    "name": "CoinGrab"
   },
   {
     "id": "coinhiba",
@@ -13660,11 +13665,6 @@
     "name": "Crypto Village Accelerator CVAG"
   },
   {
-    "id": "crypto-volatility-token",
-    "symbol": "cvi",
-    "name": "Crypto Volatility"
-  },
-  {
     "id": "crypto-x",
     "symbol": "cx",
     "name": "Crypto X"
@@ -13678,11 +13678,6 @@
     "id": "cryptozoon",
     "symbol": "zoon",
     "name": "CryptoZoon"
-  },
-  {
-    "id": "cryptozoon-arb",
-    "symbol": "zoon",
-    "name": "CryptoZOON ARB"
   },
   {
     "id": "cryptyk",
@@ -17840,11 +17835,6 @@
     "name": "ELIS"
   },
   {
-    "id": "elitium",
-    "symbol": "eum",
-    "name": "Elitium"
-  },
-  {
     "id": "elixir-finance",
     "symbol": "elxr",
     "name": "Elixir Finance"
@@ -19013,6 +19003,11 @@
     "id": "eurc-wormhole",
     "symbol": "eurc",
     "name": "EURC (Wormhole)"
+  },
+  {
+    "id": "eurk",
+    "symbol": "eurk",
+    "name": "EURK"
   },
   {
     "id": "euro3",
@@ -20258,6 +20253,11 @@
     "id": "flair-dex",
     "symbol": "fldx",
     "name": "Flair Dex"
+  },
+  {
+    "id": "flame-2",
+    "symbol": "flame",
+    "name": "Flame"
   },
   {
     "id": "flamengo-fan-token",
@@ -23965,6 +23965,11 @@
     "name": "Guppi Finance"
   },
   {
+    "id": "gursonavax",
+    "symbol": "gurs",
+    "name": "GursOnAVAX"
+  },
+  {
     "id": "gusd-token-49eca0d2-b7ae-4a58-bef7-2310688658f2",
     "symbol": "gusd",
     "name": "GUSD Token (Gaura)"
@@ -26702,7 +26707,7 @@
   {
     "id": "insc",
     "symbol": "insc",
-    "name": "INSC"
+    "name": "INSC (Ordinals)"
   },
   {
     "id": "inscription-dao",
@@ -27288,6 +27293,11 @@
     "id": "itheum",
     "symbol": "itheum",
     "name": "Itheum"
+  },
+  {
+    "id": "its-as-shrimple-as-that",
+    "symbol": "shrimple",
+    "name": "its as shrimple as that"
   },
   {
     "id": "itsbloc",
@@ -31880,6 +31890,11 @@
     "name": "MantaDAO"
   },
   {
+    "id": "manta-network",
+    "symbol": "manta",
+    "name": "Manta Network"
+  },
+  {
     "id": "mantaswap",
     "symbol": "mts",
     "name": "MantaSwap"
@@ -33915,6 +33930,11 @@
     "name": "Mikawa Inu"
   },
   {
+    "id": "mikeneko",
+    "symbol": "mike",
+    "name": "MiKeNeKo"
+  },
+  {
     "id": "milady-meme-coin",
     "symbol": "ladys",
     "name": "Milady Meme Coin"
@@ -35600,6 +35620,11 @@
     "name": "MVS Multiverse"
   },
   {
+    "id": "mwcc-ordinals",
+    "symbol": "mwcc",
+    "name": "MWCC (Ordinals)"
+  },
+  {
     "id": "mxc",
     "symbol": "mxc",
     "name": "MXC"
@@ -35648,11 +35673,6 @@
     "id": "mycelium",
     "symbol": "myc",
     "name": "Mycelium"
-  },
-  {
-    "id": "my-ceremonial-event",
-    "symbol": "myce",
-    "name": "MY Ceremonial Event"
   },
   {
     "id": "my-defi-legends",
@@ -38285,6 +38305,11 @@
     "name": "OPPA"
   },
   {
+    "id": "opsec",
+    "symbol": "opsec",
+    "name": "OpSec"
+  },
+  {
     "id": "optical-bitcoin",
     "symbol": "obtc",
     "name": "Optical Bitcoin"
@@ -39398,6 +39423,11 @@
     "id": "party",
     "symbol": "party",
     "name": "PARTY"
+  },
+  {
+    "id": "party-2",
+    "symbol": "party",
+    "name": "Party"
   },
   {
     "id": "pascalcoin",
@@ -42543,11 +42573,6 @@
     "id": "pusd-2",
     "symbol": "pusd",
     "name": "PUSd"
-  },
-  {
-    "id": "pushswap",
-    "symbol": "push",
-    "name": "PushSwap"
   },
   {
     "id": "pussy-financial",
@@ -51290,6 +51315,11 @@
     "name": "TenX"
   },
   {
+    "id": "terahertz-capital",
+    "symbol": "thz",
+    "name": "TeraHertz Capital"
+  },
+  {
     "id": "terareum",
     "symbol": "tera",
     "name": "Terareum [OLD]"
@@ -55148,11 +55178,6 @@
     "id": "verge-eth",
     "symbol": "xvg",
     "name": "Verge (ETH)"
-  },
-  {
-    "id": "veriblock",
-    "symbol": "vbk",
-    "name": "VeriBlock"
   },
   {
     "id": "verified-usd-foundation-usdv",
@@ -59738,6 +59763,11 @@
     "id": "zkevmchain-bsc",
     "symbol": "zkevm",
     "name": "zkEVMChain (BSC)"
+  },
+  {
+    "id": "zkfair",
+    "symbol": "zkf",
+    "name": "ZKFair"
   },
   {
     "id": "zkfarmer-io-zkbud",
