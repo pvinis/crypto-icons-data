@@ -27465,11 +27465,6 @@
     "name": "Jared From Subway"
   },
   {
-    "id": "jarvis-ai",
-    "symbol": "jai",
-    "name": "Jarvis AI"
-  },
-  {
     "id": "jarvis-brazilian-real",
     "symbol": "jbrl",
     "name": "Jarvis Brazilian Real"
@@ -48310,11 +48305,6 @@
     "name": "Soros"
   },
   {
-    "id": "sosf",
-    "symbol": "sosf",
-    "name": "SOS Fidelity"
-  },
-  {
     "id": "soulboundid",
     "symbol": "soulb",
     "name": "SoulboundID"
@@ -49953,11 +49943,6 @@
     "id": "stronger",
     "symbol": "strngr",
     "name": "Stronger"
-  },
-  {
-    "id": "stronghands-finance",
-    "symbol": "ishnd",
-    "name": "StrongHands Finance"
   },
   {
     "id": "stronghold-token",
@@ -56258,11 +56243,6 @@
     "id": "wayawolfcoin",
     "symbol": "ww",
     "name": "WayaWolfCoin"
-  },
-  {
-    "id": "waygate",
-    "symbol": "way",
-    "name": "Waygate"
   },
   {
     "id": "waykichain",
