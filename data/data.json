@@ -365,11 +365,6 @@
     "name": "3WILD"
   },
   {
-    "id": "3xcalibur",
-    "symbol": "xcal",
-    "name": "3xcalibur Ecosystem Token"
-  },
-  {
     "id": "4096",
     "symbol": "4096",
     "name": "4096"
@@ -7665,11 +7660,6 @@
     "name": "BitValley"
   },
   {
-    "id": "bitwhite",
-    "symbol": "btw",
-    "name": "BitWhite"
-  },
-  {
     "id": "bitx",
     "symbol": "bitx",
     "name": "BitX"
@@ -10087,7 +10077,7 @@
   {
     "id": "cakepie-xyz",
     "symbol": "ckp",
-    "name": "Cakepie XYZ"
+    "name": "Cakepie"
   },
   {
     "id": "cakeswap",
@@ -18175,6 +18165,11 @@
     "name": "Elo Inu"
   },
   {
+    "id": "elon-2024",
+    "symbol": "elon2024",
+    "name": "ELON 2024"
+  },
+  {
     "id": "elon-cat",
     "symbol": "schrodinge",
     "name": "Elon Cat"
@@ -20790,6 +20785,11 @@
     "name": "FLOOF"
   },
   {
+    "id": "floop",
+    "symbol": "floop",
+    "name": "Floop"
+  },
+  {
     "id": "floor-cheese-burger",
     "symbol": "flrbrg",
     "name": "Floor Cheese Burger"
@@ -21398,11 +21398,6 @@
     "id": "fractal",
     "symbol": "fcl",
     "name": "Fractal"
-  },
-  {
-    "id": "fractal-protocol-vault",
-    "symbol": "usdf",
-    "name": "Fractal Protocol Vault"
   },
   {
     "id": "fracton-protocol",
@@ -22160,6 +22155,11 @@
     "name": "Gameflip"
   },
   {
+    "id": "gamegpt",
+    "symbol": "duel",
+    "name": "GameGPT"
+  },
+  {
     "id": "gameluk",
     "symbol": "luk",
     "name": "GameLuk"
@@ -22838,11 +22838,6 @@
     "id": "ghostkids",
     "symbol": "boo",
     "name": "GhostKids"
-  },
-  {
-    "id": "ghostmarket",
-    "symbol": "gm",
-    "name": "GhostMarket"
   },
   {
     "id": "ghostwifhat",
@@ -35055,11 +35050,6 @@
     "name": "Moments Market"
   },
   {
-    "id": "momentum-2",
-    "symbol": "mass",
-    "name": "Momentum"
-  },
-  {
     "id": "mommy-doge",
     "symbol": "mommydoge",
     "name": "Mommy Doge"
@@ -41550,6 +41540,11 @@
     "name": "Plxyer"
   },
   {
+    "id": "plz-come-back-to-eth",
+    "symbol": "plz",
+    "name": "PLZ COME BACK TO ETH"
+  },
+  {
     "id": "pmg-coin",
     "symbol": "pmg",
     "name": "PMG Coin"
@@ -41998,6 +41993,11 @@
     "id": "pontoon",
     "symbol": "toon",
     "name": "Pontoon"
+  },
+  {
+    "id": "ponyhawk",
+    "symbol": "ponyhawk",
+    "name": "PONYHAWK"
   },
   {
     "id": "pooch",
@@ -42468,11 +42468,6 @@
     "id": "privateum",
     "symbol": "pri",
     "name": "Privateum Global"
-  },
-  {
-    "id": "privatix",
-    "symbol": "prix",
-    "name": "Privatix"
   },
   {
     "id": "privcy",
@@ -44640,6 +44635,11 @@
     "name": "ReSource Protocol"
   },
   {
+    "id": "restaked-swell-eth",
+    "symbol": "rsweth",
+    "name": "Restaked Swell ETH"
+  },
+  {
     "id": "restake-finance",
     "symbol": "rstk",
     "name": "Restake Finance"
@@ -46047,7 +46047,7 @@
   {
     "id": "sathosi-airlines-token",
     "symbol": "sat",
-    "name": "Sathosi Airlines Token"
+    "name": "Satoshi Airlines Token"
   },
   {
     "id": "satin-exchange",
@@ -46413,11 +46413,6 @@
     "id": "scrooge",
     "symbol": "scrooge",
     "name": "Scrooge (OLD)"
-  },
-  {
-    "id": "scrooge-new",
-    "symbol": "scrooge",
-    "name": "Scrooge"
   },
   {
     "id": "scry-info",
@@ -47796,7 +47791,7 @@
   },
   {
     "id": "skydogenet",
-    "symbol": "sky",
+    "symbol": "skydoge",
     "name": "skydogenet"
   },
   {
@@ -48445,6 +48440,11 @@
     "name": "SOLA"
   },
   {
+    "id": "solav",
+    "symbol": "solav",
+    "name": "SOLAV"
+  },
+  {
     "id": "sola-x",
     "symbol": "sax",
     "name": "SOLA-X"
@@ -48733,6 +48733,11 @@
     "id": "sonarwatch",
     "symbol": "sonar",
     "name": "SonarWatch"
+  },
+  {
+    "id": "sonata-network",
+    "symbol": "sona",
+    "name": "Sonata Network"
   },
   {
     "id": "songbird",
@@ -54195,11 +54200,6 @@
     "name": "Twitter CEO Floki"
   },
   {
-    "id": "two-paws",
-    "symbol": "twopaw",
-    "name": "Two Paws"
-  },
-  {
     "id": "txa",
     "symbol": "txa",
     "name": "TXA"
@@ -54223,6 +54223,11 @@
     "id": "tycoon",
     "symbol": "tyc",
     "name": "Tycoon"
+  },
+  {
+    "id": "typeai",
+    "symbol": "type",
+    "name": "TypeAI"
   },
   {
     "id": "typeit",
@@ -55243,11 +55248,6 @@
     "id": "usdfi-stable",
     "symbol": "stable",
     "name": "Stable"
-  },
-  {
-    "id": "usd-freedom",
-    "symbol": "usdf",
-    "name": "USD Freedom"
   },
   {
     "id": "usdh",
@@ -60268,11 +60268,6 @@
     "id": "zenithswap",
     "symbol": "zsp",
     "name": "ZenithSwap"
-  },
-  {
-    "id": "zenith-token-306740ae-2497-41a7-aef9-ec34e7f12aa3",
-    "symbol": "zth",
-    "name": "Zenith Token"
   },
   {
     "id": "zenith-wallet",
