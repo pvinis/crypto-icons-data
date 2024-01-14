@@ -250,11 +250,6 @@
     "name": "1Sol"
   },
   {
-    "id": "1sol-io-wormhole",
-    "symbol": "1sol",
-    "name": "1sol.io (Wormhole)"
-  },
-  {
     "id": "-2",
     "symbol": "₿",
     "name": "₿"
@@ -418,11 +413,6 @@
     "id": "5ire",
     "symbol": "5ire",
     "name": "5ire"
-  },
-  {
-    "id": "5km-run",
-    "symbol": "run",
-    "name": "5KM RUN"
   },
   {
     "id": "5mc",
@@ -8485,11 +8475,6 @@
     "name": "Bogdanoff"
   },
   {
-    "id": "bogey",
-    "symbol": "bogey",
-    "name": "Bogey"
-  },
-  {
     "id": "bogged-finance",
     "symbol": "bog",
     "name": "Bogged Finance"
@@ -10473,11 +10458,6 @@
     "id": "cashtree-token",
     "symbol": "ctt",
     "name": "Cashtree Token"
-  },
-  {
-    "id": "cashzone",
-    "symbol": "cashz",
-    "name": "CashZone"
   },
   {
     "id": "casinocoin",
@@ -14408,11 +14388,6 @@
     "id": "dapp",
     "symbol": "dapp",
     "name": "LiquidApps"
-  },
-  {
-    "id": "dapp-com",
-    "symbol": "dappt",
-    "name": "Dapp.com"
   },
   {
     "id": "dappradar",
@@ -21298,11 +21273,6 @@
     "id": "forge",
     "symbol": "forge",
     "name": "Forge"
-  },
-  {
-    "id": "forge-finance",
-    "symbol": "forge",
-    "name": "Forge Finance"
   },
   {
     "id": "for-loot-and-glory",
@@ -29950,11 +29920,6 @@
     "name": "Landwolf on AVAX"
   },
   {
-    "id": "landworld",
-    "symbol": "lwd",
-    "name": "Landworld"
-  },
-  {
     "id": "landx-governance-token",
     "symbol": "lndx",
     "name": "LandX Governance Token"
@@ -30337,7 +30302,7 @@
   {
     "id": "leopold",
     "symbol": "leo",
-    "name": "Leopold"
+    "name": "LEO"
   },
   {
     "id": "leo-token",
@@ -31210,11 +31175,6 @@
     "name": "LOGIC"
   },
   {
-    "id": "logos",
-    "symbol": "log",
-    "name": "LOGOS"
-  },
-  {
     "id": "loki-network",
     "symbol": "oxen",
     "name": "Oxen"
@@ -31428,11 +31388,6 @@
     "id": "lp-yearn-crv-vault",
     "symbol": "lp-ycrv",
     "name": "LP Yearn CRV Vault"
-  },
-  {
-    "id": "ls-coin",
-    "symbol": "lsc",
-    "name": "LS Coin"
   },
   {
     "id": "lsdoge",
@@ -32353,6 +32308,11 @@
     "id": "maps",
     "symbol": "maps",
     "name": "MAPS"
+  },
+  {
+    "id": "mar3-ai",
+    "symbol": "mar3",
+    "name": "MAR3 AI"
   },
   {
     "id": "maranbet",
@@ -35393,6 +35353,11 @@
     "id": "moon-air",
     "symbol": "moonair",
     "name": "Moon Air"
+  },
+  {
+    "id": "moon-app",
+    "symbol": "app",
+    "name": "Moon App"
   },
   {
     "id": "moonarch",
@@ -38500,11 +38465,6 @@
     "name": "ONINO"
   },
   {
-    "id": "onlinebase",
-    "symbol": "online",
-    "name": "Onlinebase"
-  },
-  {
     "id": "only1",
     "symbol": "like",
     "name": "Only1"
@@ -40790,11 +40750,6 @@
     "name": "Phiat Protocol"
   },
   {
-    "id": "philcoin",
-    "symbol": "phl",
-    "name": "Philcoin"
-  },
-  {
     "id": "philosoraptor",
     "symbol": "rap",
     "name": "Philosoraptor"
@@ -41620,11 +41575,6 @@
     "name": "Poglana"
   },
   {
-    "id": "point-coin",
-    "symbol": "point",
-    "name": "Point Coin"
-  },
-  {
     "id": "pointpay",
     "symbol": "pxp",
     "name": "PointPay"
@@ -42198,11 +42148,6 @@
     "id": "position-token",
     "symbol": "posi",
     "name": "Position"
-  },
-  {
-    "id": "positron-token",
-    "symbol": "pot",
-    "name": "Positron"
   },
   {
     "id": "possum",
@@ -53835,11 +53780,6 @@
     "name": "trollbox"
   },
   {
-    "id": "troll-face",
-    "symbol": "troll",
-    "name": "Troll Face"
-  },
-  {
     "id": "tron",
     "symbol": "trx",
     "name": "TRON"
@@ -54188,11 +54128,6 @@
     "id": "twister-finance",
     "symbol": "twst",
     "name": "Twister Finance"
-  },
-  {
-    "id": "twitfi",
-    "symbol": "twt",
-    "name": "Twitfi"
   },
   {
     "id": "twitter-ceo-floki",
@@ -60665,19 +60600,9 @@
     "name": "zkSync id"
   },
   {
-    "id": "zksync-labs",
-    "symbol": "zklab",
-    "name": "zkSync Labs"
-  },
-  {
     "id": "zktsunami",
     "symbol": ":zkt:",
     "name": "ZkTsunami"
-  },
-  {
-    "id": "zkvault",
-    "symbol": "zkvault",
-    "name": "zkVAULT"
   },
   {
     "id": "zmine",
