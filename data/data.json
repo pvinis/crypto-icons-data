@@ -3730,11 +3730,6 @@
     "name": "ARCS"
   },
   {
-    "id": "arcstar",
-    "symbol": "arcstar",
-    "name": "Arcstar"
-  },
-  {
     "id": "ardana",
     "symbol": "dana",
     "name": "Ardana"
@@ -5190,6 +5185,11 @@
     "name": "BabyBoo"
   },
   {
+    "id": "babybtc-token",
+    "symbol": "babybtc",
+    "name": "BABYBTC TOKEN"
+  },
+  {
     "id": "baby-coq-inu",
     "symbol": "bcoq",
     "name": "Baby Coq Inu"
@@ -5338,6 +5338,11 @@
     "id": "baby-meme-coin",
     "symbol": "babymeme",
     "name": "Baby Meme Coin"
+  },
+  {
+    "id": "baby-myro",
+    "symbol": "babymyro",
+    "name": "Baby Myro"
   },
   {
     "id": "babypepe",
@@ -7463,11 +7468,6 @@
     "id": "bitica-coin",
     "symbol": "bdcc",
     "name": "BITICA COIN"
-  },
-  {
-    "id": "bitindi-chain",
-    "symbol": "bni",
-    "name": "Bitindi Chain"
   },
   {
     "id": "bitkub-coin",
@@ -9833,6 +9833,11 @@
     "id": "burners",
     "symbol": "brnr",
     "name": "Burners"
+  },
+  {
+    "id": "burnify",
+    "symbol": "bfy",
+    "name": "Burnify"
   },
   {
     "id": "burn-kenny",
@@ -15193,6 +15198,11 @@
     "id": "degenstogether",
     "symbol": "degen",
     "name": "DegensTogether"
+  },
+  {
+    "id": "degen-token",
+    "symbol": "dgn",
+    "name": "Degen Token"
   },
   {
     "id": "degen-traded-fund",
@@ -21255,6 +21265,11 @@
     "name": "Forestry"
   },
   {
+    "id": "forever-aid-token",
+    "symbol": "foat",
+    "name": "Forever Aid Token"
+  },
+  {
     "id": "foreverbox",
     "symbol": "fbox",
     "name": "Foreverbox"
@@ -25748,11 +25763,6 @@
     "id": "honor-world-token",
     "symbol": "hwt",
     "name": "Honor World Token"
-  },
-  {
-    "id": "hood-ai",
-    "symbol": "hood",
-    "name": "Hood AI"
   },
   {
     "id": "hooked-protocol",
@@ -30448,6 +30458,11 @@
     "id": "libfi",
     "symbol": "libx",
     "name": "Libfi"
+  },
+  {
+    "id": "libra-3",
+    "symbol": "libra",
+    "name": "Libra"
   },
   {
     "id": "libra-credit",
@@ -41040,6 +41055,11 @@
     "name": "PIP"
   },
   {
+    "id": "pipi-the-cat",
+    "symbol": "pipi",
+    "name": "pipi the cat"
+  },
+  {
     "id": "pi-protocol",
     "symbol": "pip",
     "name": "Pi Protocol"
@@ -48533,6 +48553,11 @@
     "id": "solimax",
     "symbol": "slm",
     "name": "SoliMax"
+  },
+  {
+    "id": "solmash",
+    "symbol": "mash",
+    "name": "SolMash"
   },
   {
     "id": "solmoon-2",
@@ -57370,11 +57395,6 @@
     "name": "White Whale"
   },
   {
-    "id": "whive",
-    "symbol": "whive",
-    "name": "Whive"
-  },
-  {
     "id": "whole-earth-coin",
     "symbol": "wec",
     "name": "Whole Earth Coin"
@@ -58798,6 +58818,11 @@
     "id": "xcusdt",
     "symbol": "xcusdt",
     "name": "xcUSDT"
+  },
+  {
+    "id": "xd",
+    "symbol": "xd",
+    "name": "XD"
   },
   {
     "id": "xdai",
