@@ -185,6 +185,11 @@
     "name": "1000SHIB"
   },
   {
+    "id": "1000troll",
+    "symbol": "1000troll",
+    "name": "1000TROLL"
+  },
+  {
     "id": "12ships",
     "symbol": "tshp",
     "name": "12Ships"
@@ -9005,6 +9010,11 @@
     "name": "BOTXCOIN"
   },
   {
+    "id": "bouncing-dvd",
+    "symbol": "dvd",
+    "name": "Bouncing DVD"
+  },
+  {
     "id": "bouncing-seals",
     "symbol": "seals",
     "name": "Bouncing Seals"
@@ -14505,6 +14515,11 @@
     "name": "dancing triangle"
   },
   {
+    "id": "danjuan-scroll-cat",
+    "symbol": "cat",
+    "name": "Danjuan Scroll Cat"
+  },
+  {
     "id": "danketsu",
     "symbol": "ninjaz",
     "name": "Danketsu"
@@ -16790,6 +16805,11 @@
     "name": "DOGMI"
   },
   {
+    "id": "dogggo",
+    "symbol": "dogggo",
+    "name": "Dogggo"
+  },
+  {
     "id": "doggo",
     "symbol": "doggo",
     "name": "DOGGO"
@@ -18580,6 +18600,11 @@
     "name": "EMMI GG"
   },
   {
+    "id": "emoji-erc20",
+    "symbol": "$emoji",
+    "name": "emoji ERC20"
+  },
+  {
     "id": "e-money",
     "symbol": "ngm",
     "name": "e-Money"
@@ -19183,6 +19208,11 @@
     "id": "eternalflow",
     "symbol": "eft",
     "name": "EternalFlow"
+  },
+  {
+    "id": "etf-rocks",
+    "symbol": "etf",
+    "name": "ETF Rocks"
   },
   {
     "id": "etfsol2024",
@@ -21653,6 +21683,11 @@
     "id": "frakt-token",
     "symbol": "frkt",
     "name": "FRAKT"
+  },
+  {
+    "id": "frame",
+    "symbol": "frame",
+    "name": "Frame"
   },
   {
     "id": "france-rev-finance",
@@ -27890,6 +27925,11 @@
     "name": "Ispolink"
   },
   {
+    "id": "issp",
+    "symbol": "issp",
+    "name": "ISSP"
+  },
+  {
     "id": "issuaa",
     "symbol": "iss",
     "name": "ISSUAA"
@@ -28633,6 +28673,11 @@
     "id": "k21",
     "symbol": "k21",
     "name": "K21"
+  },
+  {
+    "id": "kabochan",
+    "symbol": "kabo",
+    "name": "KaboChan"
   },
   {
     "id": "kabosu",
@@ -32140,6 +32185,11 @@
     "name": "Lyra Finance"
   },
   {
+    "id": "lyve-finance",
+    "symbol": "lyve",
+    "name": "Lyve Finance"
+  },
+  {
     "id": "lyzi",
     "symbol": "lyzi",
     "name": "Lyzi"
@@ -34910,6 +34960,11 @@
     "name": "MinerGateToken"
   },
   {
+    "id": "minergold-io",
+    "symbol": "mgold",
+    "name": "MinerGold.io"
+  },
+  {
     "id": "miners-of-kadenia",
     "symbol": "mok",
     "name": "Miners of Kadenia"
@@ -35358,6 +35413,11 @@
     "id": "molly-ai",
     "symbol": "molly",
     "name": "Molly AI"
+  },
+  {
+    "id": "molly-gateway",
+    "symbol": "molly",
+    "name": "Molly Gateway"
   },
   {
     "id": "moments",
@@ -36338,6 +36398,11 @@
     "id": "musk-gold",
     "symbol": "musk",
     "name": "MUSK Gold"
+  },
+  {
+    "id": "muskx",
+    "symbol": "muskx",
+    "name": "MuskX"
   },
   {
     "id": "must",
@@ -37815,6 +37880,11 @@
     "name": "GRAM Token"
   },
   {
+    "id": "nort",
+    "symbol": "xrt",
+    "name": "norT"
+  },
+  {
     "id": "nosana",
     "symbol": "nos",
     "name": "Nosana"
@@ -38850,6 +38920,11 @@
     "name": "Only1"
   },
   {
+    "id": "onlycockscrypto",
+    "symbol": "cox",
+    "name": "OnlyCocksCrypto"
+  },
+  {
     "id": "only-possible-on-ethereum",
     "symbol": "opoe",
     "name": "Only Possible On Ethereum"
@@ -39753,6 +39828,11 @@
     "id": "oxymetatoken",
     "symbol": "omt",
     "name": "OxyMetaToken"
+  },
+  {
+    "id": "oxyo2",
+    "symbol": "krpza",
+    "name": "OxyO2"
   },
   {
     "id": "ozonechain",
@@ -46630,6 +46710,11 @@
     "name": "Scallop"
   },
   {
+    "id": "scallop-2",
+    "symbol": "sca",
+    "name": "Scallop"
+  },
+  {
     "id": "scamfari",
     "symbol": "scm",
     "name": "ScamFari"
@@ -46978,6 +47063,11 @@
     "id": "seilu-bridge",
     "symbol": "seilu",
     "name": "Seilu Bridge"
+  },
+  {
+    "id": "seimen",
+    "symbol": "seimen",
+    "name": "SEIMEN"
   },
   {
     "id": "seimoyed",
@@ -50003,6 +50093,11 @@
     "id": "squadfund",
     "symbol": "sqf",
     "name": "SquadFund"
+  },
+  {
+    "id": "squadswap",
+    "symbol": "squad",
+    "name": "SquadSwap"
   },
   {
     "id": "squid-game",
@@ -53680,6 +53775,11 @@
     "name": "Tonex"
   },
   {
+    "id": "ton-fish-memecoin",
+    "symbol": "fish",
+    "name": "TON FISH MEMECOIN"
+  },
+  {
     "id": "tongtong-coin",
     "symbol": "ttc",
     "name": "Tongtong Coin"
@@ -54308,6 +54408,16 @@
     "id": "trollbox",
     "symbol": "tox",
     "name": "trollbox"
+  },
+  {
+    "id": "troll-face",
+    "symbol": "troll",
+    "name": "Troll Face"
+  },
+  {
+    "id": "troll-inu",
+    "symbol": "trollinu",
+    "name": "Troll Inu"
   },
   {
     "id": "tron",
@@ -56395,6 +56505,11 @@
     "name": "Verge (ETH)"
   },
   {
+    "id": "verida",
+    "symbol": "vda",
+    "name": "Verida"
+  },
+  {
     "id": "verified-usd-foundation-usdv",
     "symbol": "usdv",
     "name": "Verified USD"
@@ -56748,6 +56863,11 @@
     "id": "virtuswap",
     "symbol": "vrsw",
     "name": "VirtuSwap"
+  },
+  {
+    "id": "vishai",
+    "symbol": "vish",
+    "name": "VishAI"
   },
   {
     "id": "vision-city",
@@ -58515,6 +58635,11 @@
     "name": "Wrapped BCH"
   },
   {
+    "id": "wrapped-bch-21-co",
+    "symbol": "21bch",
+    "name": "Wrapped BCH (21.co)"
+  },
+  {
     "id": "wrapped-beacon-eth",
     "symbol": "wbeth",
     "name": "Wrapped Beacon ETH"
@@ -58548,6 +58673,11 @@
     "id": "wrapped-bmx-liquidity-token",
     "symbol": "wblt",
     "name": "Wrapped BMX Liquidity Token"
+  },
+  {
+    "id": "wrapped-bnb-21-co",
+    "symbol": "21bnb",
+    "name": "Wrapped BNB (21.co)"
   },
   {
     "id": "wrapped-bnb-celer",
@@ -58623,6 +58753,16 @@
     "id": "wrapped-cusd-allbridge-from-celo",
     "symbol": "acusd",
     "name": "Wrapped CUSD (Allbridge from Celo)"
+  },
+  {
+    "id": "wrapped-doge-21-co",
+    "symbol": "21doge",
+    "name": "Wrapped DOGE (21.co)"
+  },
+  {
+    "id": "wrapped-dot-21-co",
+    "symbol": "21dot",
+    "name": "Wrapped DOT (21.co)"
   },
   {
     "id": "wrapped-ecomi",
@@ -58763,6 +58903,11 @@
     "id": "wrapped-klay",
     "symbol": "wklay",
     "name": "Wrapped KLAY"
+  },
+  {
+    "id": "wrapped-ltc-21-co",
+    "symbol": "21ltc",
+    "name": "Wrapped LTC (21.co)"
   },
   {
     "id": "wrapped-lunagens",
@@ -58923,6 +59068,11 @@
     "id": "wrapped-shiden-network",
     "symbol": "sdn",
     "name": "Wrapped Shiden Network"
+  },
+  {
+    "id": "wrapped-sol-21-co",
+    "symbol": "21sol",
+    "name": "Wrapped SOL (21.co)"
   },
   {
     "id": "wrapped-solana",
