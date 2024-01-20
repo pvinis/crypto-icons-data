@@ -3190,6 +3190,11 @@
     "name": "Antfarm Governance Token"
   },
   {
+    "id": "antfarm-token",
+    "symbol": "atf",
+    "name": "Antfarm Token"
+  },
+  {
     "id": "antibot",
     "symbol": "atb",
     "name": "AntiBot"
@@ -6115,6 +6120,11 @@
     "name": "Basis Share"
   },
   {
+    "id": "basket",
+    "symbol": "bskt",
+    "name": "Basket"
+  },
+  {
     "id": "basketball-legends",
     "symbol": "bbl",
     "name": "Basketball Legends"
@@ -7855,6 +7865,11 @@
     "name": "Black Rabbit AI"
   },
   {
+    "id": "blackrocktradingcurrency",
+    "symbol": "btc",
+    "name": "BlackrockTradingCurrency"
+  },
+  {
     "id": "black-sats-ordinals",
     "symbol": "bsat",
     "name": "Black Sats (Ordinals)"
@@ -7873,6 +7888,11 @@
     "id": "black-token",
     "symbol": "black",
     "name": "Black Token"
+  },
+  {
+    "id": "blackwater-labs",
+    "symbol": "bwl",
+    "name": "Blackwater Labs"
   },
   {
     "id": "black-whale-2",
@@ -11425,6 +11445,11 @@
     "name": "Cheezburger"
   },
   {
+    "id": "cheezburger-2",
+    "symbol": "cheez",
+    "name": "Cheezburger"
+  },
+  {
     "id": "cheqd-network",
     "symbol": "cheq",
     "name": "CHEQD Network"
@@ -13035,6 +13060,11 @@
     "name": "Cornatto"
   },
   {
+    "id": "cornermarket",
+    "symbol": "cmt",
+    "name": "CornerMarket"
+  },
+  {
     "id": "cornucopias",
     "symbol": "copi",
     "name": "Cornucopias"
@@ -13720,6 +13750,11 @@
     "name": "Crypto Carbon Energy"
   },
   {
+    "id": "cryptocarsreborn",
+    "symbol": "ccr",
+    "name": "CryptoCarsReborn"
+  },
+  {
     "id": "cryptocart",
     "symbol": "ccv2",
     "name": "CryptoCart V2"
@@ -14148,6 +14183,11 @@
     "id": "cudos",
     "symbol": "cudos",
     "name": "Cudos"
+  },
+  {
+    "id": "culo",
+    "symbol": "culo",
+    "name": "CULO"
   },
   {
     "id": "cult-dao",
@@ -15930,6 +15970,11 @@
     "name": "Dfyn Network"
   },
   {
+    "id": "dgi-game",
+    "symbol": "dgi",
+    "name": "DGI Game"
+  },
+  {
     "id": "dgnapp-ai",
     "symbol": "degai",
     "name": "DGNAPP.AI"
@@ -16601,8 +16646,8 @@
   },
   {
     "id": "dogecola",
-    "symbol": "dogecola",
-    "name": "DOGECOLA"
+    "symbol": "colana",
+    "name": "COLANA"
   },
   {
     "id": "dogecube",
@@ -20415,6 +20460,11 @@
     "name": "Ferma"
   },
   {
+    "id": "ferret-ai",
+    "symbol": "ferret",
+    "name": "Ferret AI"
+  },
+  {
     "id": "ferro",
     "symbol": "fer",
     "name": "Ferro"
@@ -22590,6 +22640,11 @@
     "name": "GARD"
   },
   {
+    "id": "garden-2",
+    "symbol": "seed",
+    "name": "Garden"
+  },
+  {
     "id": "garfield-bsc",
     "symbol": "$garfield",
     "name": "Garfield (BSC)"
@@ -24600,6 +24655,11 @@
     "name": "GulfCoin"
   },
   {
+    "id": "gumbovile",
+    "symbol": "bo",
+    "name": "gumBOvile"
+  },
+  {
     "id": "gunbet",
     "symbol": "gunbet",
     "name": "GunBet"
@@ -24921,6 +24981,11 @@
   },
   {
     "id": "harambe",
+    "symbol": "harambe",
+    "name": "Harambe"
+  },
+  {
+    "id": "harambe-2",
     "symbol": "harambe",
     "name": "Harambe"
   },
@@ -25845,6 +25910,11 @@
     "name": "Hobbes"
   },
   {
+    "id": "hocus-pocus-finance",
+    "symbol": "hoc",
+    "name": "Hocus Pocus Finance"
+  },
+  {
     "id": "hodlassets",
     "symbol": "hodl",
     "name": "HodlAssets"
@@ -26713,6 +26783,11 @@
     "id": "ibuffer-token",
     "symbol": "bfr",
     "name": "Buffer Token"
+  },
+  {
+    "id": "ice",
+    "symbol": "ice",
+    "name": "Ice"
   },
   {
     "id": "icebergy",
@@ -28875,6 +28950,11 @@
     "name": "Kanpeki"
   },
   {
+    "id": "kanye",
+    "symbol": "ye",
+    "name": "Kanye"
+  },
+  {
     "id": "kapital-dao",
     "symbol": "kap",
     "name": "KAP Games"
@@ -30525,6 +30605,11 @@
     "name": "Legacy ICHI"
   },
   {
+    "id": "legend-of-annihilation",
+    "symbol": "loa",
+    "name": "Legend of Annihilation"
+  },
+  {
     "id": "legend-of-fantasy-war",
     "symbol": "lfw",
     "name": "Linked Finance World"
@@ -31438,6 +31523,11 @@
     "id": "liza-2",
     "symbol": "liza",
     "name": "LIZA"
+  },
+  {
+    "id": "lizard",
+    "symbol": "lizard",
+    "name": "Lizard"
   },
   {
     "id": "lizardtoken-finance",
@@ -35417,7 +35507,7 @@
   {
     "id": "molly-gateway",
     "symbol": "molly",
-    "name": "Molly Gateway"
+    "name": "Molly"
   },
   {
     "id": "moments",
@@ -42795,6 +42885,11 @@
     "name": "PRivaCY Coin"
   },
   {
+    "id": "pre",
+    "symbol": "pre",
+    "name": "Pre"
+  },
+  {
     "id": "precipitate-ai",
     "symbol": "rain",
     "name": "Precipitate.ai"
@@ -46545,6 +46640,11 @@
     "name": "SatoshiSwap"
   },
   {
+    "id": "satoshivm",
+    "symbol": "savm",
+    "name": "SatoshiVM"
+  },
+  {
     "id": "satoxcoin",
     "symbol": "satox",
     "name": "Satoxcoin"
@@ -48190,6 +48290,11 @@
     "name": "SIPHER"
   },
   {
+    "id": "siphon-life-spell",
+    "symbol": "sls",
+    "name": "Siphon Life Spell"
+  },
+  {
     "id": "siren",
     "symbol": "si",
     "name": "Siren"
@@ -48712,7 +48817,7 @@
   {
     "id": "socean-staked-sol",
     "symbol": "scnsol",
-    "name": "Socean Staked Sol"
+    "name": "Sanctum Staked SOL"
   },
   {
     "id": "social-ai",
@@ -49113,6 +49218,11 @@
     "id": "solmoon-bsc",
     "symbol": "smoon",
     "name": "Solmoon BSC"
+  },
+  {
+    "id": "solnyfans",
+    "symbol": "solnyfans",
+    "name": "SolnyFans"
   },
   {
     "id": "solo-coin",
@@ -50765,6 +50875,11 @@
     "name": "Scala"
   },
   {
+    "id": "stem-ai",
+    "symbol": "stem",
+    "name": "Stem AI"
+  },
+  {
     "id": "stemx",
     "symbol": "stemx",
     "name": "STEMX"
@@ -52183,6 +52298,11 @@
     "id": "tao-inu",
     "symbol": "taonu",
     "name": "TAO INU"
+  },
+  {
+    "id": "tao-meme",
+    "symbol": "tao",
+    "name": "Tao Meme"
   },
   {
     "id": "taopad",
@@ -53663,6 +53783,11 @@
     "id": "token-teknoloji-a-s-usd",
     "symbol": "usdot",
     "name": "Token Teknoloji A.Ş. USD"
+  },
+  {
+    "id": "tokenwatch",
+    "symbol": "tokenwatch",
+    "name": "TokenWatch"
   },
   {
     "id": "tokhit",
