@@ -5395,6 +5395,11 @@
     "name": "Baby Meme Coin"
   },
   {
+    "id": "baby-musk",
+    "symbol": "babymusk",
+    "name": "Baby Musk"
+  },
+  {
     "id": "babymyro",
     "symbol": "babymyro",
     "name": "Babymyro"
@@ -11627,7 +11632,7 @@
   {
     "id": "chipi",
     "symbol": "chipi",
-    "name": "Chipi"
+    "name": "CHIPI"
   },
   {
     "id": "chi-protocol",
@@ -27485,6 +27490,16 @@
     "name": "Insrt Finance"
   },
   {
+    "id": "instabridge-wrapped-eth",
+    "symbol": "xeth",
+    "name": "Instabridge Wrapped ETH"
+  },
+  {
+    "id": "instabridge-wrapped-usdt",
+    "symbol": "xusdt",
+    "name": "Instabridge Wrapped USDT"
+  },
+  {
     "id": "instadapp",
     "symbol": "inst",
     "name": "Instadapp"
@@ -29823,6 +29838,11 @@
     "id": "koop360",
     "symbol": "koop",
     "name": "Koop360"
+  },
+  {
+    "id": "korra",
+    "symbol": "korra",
+    "name": "KORRA"
   },
   {
     "id": "kortana",
