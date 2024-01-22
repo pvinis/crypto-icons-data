@@ -1930,6 +1930,11 @@
     "name": "AI Network"
   },
   {
+    "id": "ains-domains",
+    "symbol": "ains",
+    "name": "Ains domains"
+  },
+  {
     "id": "ainu-token",
     "symbol": "ainu",
     "name": "Ainu"
@@ -2655,11 +2660,6 @@
     "name": "Alpha Bot Calls"
   },
   {
-    "id": "alpha-brain-capital-2",
-    "symbol": "acap",
-    "name": "Alpha Capital"
-  },
-  {
     "id": "alphacoin",
     "symbol": "alpha",
     "name": "Alpha Coin"
@@ -3323,6 +3323,11 @@
     "id": "apenft",
     "symbol": "nft",
     "name": "APENFT"
+  },
+  {
+    "id": "apepudgyclonexazukimilady",
+    "symbol": "nft",
+    "name": "ApePudgyCloneXAzukiMilady"
   },
   {
     "id": "apes-go-bananas",
@@ -5447,6 +5452,11 @@
   {
     "id": "baby-shark",
     "symbol": "shark",
+    "name": "Baby Shark"
+  },
+  {
+    "id": "baby-shark-2",
+    "symbol": "babyshark",
     "name": "Baby Shark"
   },
   {
@@ -11765,6 +11775,11 @@
     "name": "Chunks"
   },
   {
+    "id": "churro",
+    "symbol": "churro",
+    "name": "Churro"
+  },
+  {
     "id": "cia",
     "symbol": "cia",
     "name": "CIA"
@@ -13470,6 +13485,11 @@
     "name": "CrocBot"
   },
   {
+    "id": "croc-cat",
+    "symbol": "croc",
+    "name": "Croc CAT"
+  },
+  {
     "id": "crodex",
     "symbol": "crx",
     "name": "Crodex"
@@ -14498,11 +14518,6 @@
     "id": "daily-finance",
     "symbol": "dly",
     "name": "Daily Finance"
-  },
-  {
-    "id": "dain-token",
-    "symbol": "dain",
-    "name": "Dain"
   },
   {
     "id": "dai-pulsechain",
@@ -15740,6 +15755,11 @@
     "name": "DeVault"
   },
   {
+    "id": "develocity",
+    "symbol": "deve",
+    "name": "Develocity"
+  },
+  {
     "id": "developer-dao",
     "symbol": "code",
     "name": "Developer DAO"
@@ -15763,6 +15783,11 @@
     "id": "devita-global",
     "symbol": "life",
     "name": "DEVITA"
+  },
+  {
+    "id": "devomon",
+    "symbol": "evo",
+    "name": "Devomon"
   },
   {
     "id": "devops",
@@ -20240,6 +20265,11 @@
     "name": "FaraLand"
   },
   {
+    "id": "farcana",
+    "symbol": "far",
+    "name": "FARCANA"
+  },
+  {
     "id": "farmbot",
     "symbol": "farm",
     "name": "FarmBot"
@@ -21835,6 +21865,11 @@
     "name": "FreeRossDAO"
   },
   {
+    "id": "freetrump",
+    "symbol": "$trump",
+    "name": "FreeTrump"
+  },
+  {
     "id": "freeway",
     "symbol": "fwt",
     "name": "Freeway"
@@ -22793,6 +22828,11 @@
     "id": "geegoopuzzle",
     "symbol": "ggp",
     "name": "Geegoopuzzle"
+  },
+  {
+    "id": "geeko-dex",
+    "symbol": "geeko",
+    "name": "Geeko Dex"
   },
   {
     "id": "geek-protocol",
@@ -25073,6 +25113,11 @@
     "id": "harrypottertrumphomersimpson777inu",
     "symbol": "ethereum",
     "name": "HarryPotterTrumpHomerSimpson777Inu"
+  },
+  {
+    "id": "harrypotterwifhatmyrowynn",
+    "symbol": "solana",
+    "name": "HarryPotterWifHatMyroWynn"
   },
   {
     "id": "harvest-finance",
@@ -27460,11 +27505,6 @@
     "name": "Inscription DAO"
   },
   {
-    "id": "insf",
-    "symbol": "insf",
-    "name": "INSF"
-  },
-  {
     "id": "insights-network",
     "symbol": "instar",
     "name": "INSTAR"
@@ -29383,6 +29423,11 @@
     "id": "kingaru",
     "symbol": "kru",
     "name": "Kingaru"
+  },
+  {
+    "id": "king-bonk",
+    "symbol": "kingbonk",
+    "name": "King Bonk"
   },
   {
     "id": "king-dog-inu",
@@ -34850,6 +34895,11 @@
     "name": "MILEI"
   },
   {
+    "id": "milei-token",
+    "symbol": "milei",
+    "name": "MILEI Token"
+  },
+  {
     "id": "milestone-millions",
     "symbol": "msmil",
     "name": "Milestone Millions"
@@ -39185,6 +39235,11 @@
     "name": "OpenDAO"
   },
   {
+    "id": "open-dollar-governance",
+    "symbol": "odg",
+    "name": "Open Dollar Governance"
+  },
+  {
     "id": "openeden-tbill",
     "symbol": "tbill",
     "name": "OpenEden TBILL"
@@ -41325,6 +41380,11 @@
     "name": "Phantom Protocol"
   },
   {
+    "id": "pharaoh",
+    "symbol": "phar",
+    "name": "Pharaoh"
+  },
+  {
     "id": "pharos",
     "symbol": "pharos",
     "name": "Pharos"
@@ -41758,6 +41818,11 @@
     "id": "pizza-game",
     "symbol": "pizza",
     "name": "Pizza Game"
+  },
+  {
+    "id": "pkey",
+    "symbol": "pkey",
+    "name": "Pkey"
   },
   {
     "id": "pkt",
@@ -44018,11 +44083,6 @@
     "id": "quickswap",
     "symbol": "quick",
     "name": "Quickswap"
-  },
-  {
-    "id": "quick-transfer-coin-plus",
-    "symbol": "qtcc",
-    "name": "Quick Transfer Coin Plus"
   },
   {
     "id": "quidax",
@@ -51630,11 +51690,6 @@
     "name": "Superstake"
   },
   {
-    "id": "supertx-governance-token",
-    "symbol": "sup",
-    "name": "SuperTx Governance"
-  },
-  {
     "id": "super-vet",
     "symbol": "svet",
     "name": "Super Vet"
@@ -51723,6 +51778,11 @@
     "id": "suzuverse",
     "symbol": "sgt",
     "name": "Suzuverse"
+  },
+  {
+    "id": "swag-coin",
+    "symbol": "swag",
+    "name": "swag coin"
   },
   {
     "id": "swag-finance",
@@ -52035,6 +52095,11 @@
     "name": "Synaptic AI"
   },
   {
+    "id": "synatra-staked-sol",
+    "symbol": "ysol",
+    "name": "Synatra Staked SOL"
+  },
+  {
     "id": "syncdex",
     "symbol": "sydx",
     "name": "SyncDex"
@@ -52158,6 +52223,11 @@
     "id": "tabbypos",
     "symbol": "epos",
     "name": "TabbyPOS"
+  },
+  {
+    "id": "tabo",
+    "symbol": "tabo",
+    "name": "TABO"
   },
   {
     "id": "taboo-token",
@@ -52408,6 +52478,11 @@
     "id": "tax-haven-inu",
     "symbol": "taxhaveninu",
     "name": "Tax Haven Inu"
+  },
+  {
+    "id": "taylor-swift-s-cat",
+    "symbol": "benji",
+    "name": "Taylor Swift's Cat"
   },
   {
     "id": "tbcc",
@@ -53748,11 +53823,6 @@
     "id": "token-dforce-usd",
     "symbol": "usx",
     "name": "dForce USD"
-  },
-  {
-    "id": "token-engineering-commons",
-    "symbol": "tec",
-    "name": "Token Engineering Commons"
   },
   {
     "id": "tokenfi",
@@ -56368,11 +56438,6 @@
     "id": "vedao",
     "symbol": "weve",
     "name": "veDAO"
-  },
-  {
-    "id": "veed",
-    "symbol": "veed",
-    "name": "VEED"
   },
   {
     "id": "vee-finance",
@@ -59808,6 +59873,11 @@
     "id": "xenlon-mars",
     "symbol": "xlon",
     "name": "Xenlon Mars"
+  },
+  {
+    "id": "xeno",
+    "symbol": "xeno",
+    "name": "Xeno"
   },
   {
     "id": "xeno-token",
