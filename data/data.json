@@ -3682,7 +3682,7 @@
   {
     "id": "arcade-protocol",
     "symbol": "arcd",
-    "name": "Arcade Protocol"
+    "name": "Arcade DAO"
   },
   {
     "id": "arcadeum",
@@ -4940,6 +4940,11 @@
     "name": "Avalaunch"
   },
   {
+    "id": "avalox",
+    "symbol": "avalox",
+    "name": "Avalox"
+  },
+  {
     "id": "avante",
     "symbol": "axt",
     "name": "Avante"
@@ -6143,6 +6148,11 @@
     "id": "basex",
     "symbol": "bsx",
     "name": "BaseX"
+  },
+  {
+    "id": "basexchange",
+    "symbol": "bex",
+    "name": "BaseXchange"
   },
   {
     "id": "baseyield",
@@ -7773,6 +7783,11 @@
     "id": "bitscrow",
     "symbol": "btscrw",
     "name": "Bitscrow"
+  },
+  {
+    "id": "bitscrunch-token",
+    "symbol": "bcut",
+    "name": "bitsCrunch Token"
   },
   {
     "id": "bitshares",
@@ -10895,6 +10910,11 @@
     "name": "CatwifHat"
   },
   {
+    "id": "catwifmelon",
+    "symbol": "melon",
+    "name": "CATWIFMELON"
+  },
+  {
     "id": "catzcoin",
     "symbol": "catz",
     "name": "CatzCoin"
@@ -11158,11 +11178,6 @@
     "id": "cerra",
     "symbol": "cerra",
     "name": "Cerra"
-  },
-  {
-    "id": "certicos",
-    "symbol": "cert",
-    "name": "Certicos V2"
   },
   {
     "id": "certik",
@@ -13075,6 +13090,11 @@
     "name": "Cooper"
   },
   {
+    "id": "coorest",
+    "symbol": "crst",
+    "name": "Coorest"
+  },
+  {
     "id": "cope",
     "symbol": "cope",
     "name": "Cope"
@@ -13623,6 +13643,11 @@
     "id": "crodex",
     "symbol": "crx",
     "name": "Crodex"
+  },
+  {
+    "id": "crodie",
+    "symbol": "crodie",
+    "name": "Crodie"
   },
   {
     "id": "crogecoin",
@@ -14715,6 +14740,11 @@
     "name": "Danketsu"
   },
   {
+    "id": "dao-glas",
+    "symbol": "dgs",
+    "name": "Dao Glas"
+  },
+  {
     "id": "daohaus",
     "symbol": "haus",
     "name": "DAOhaus"
@@ -15345,6 +15375,11 @@
     "name": "Defactor"
   },
   {
+    "id": "defender-bot",
+    "symbol": "dfndr",
+    "name": "Defender Bot"
+  },
+  {
     "id": "de-fi",
     "symbol": "defi",
     "name": "De.Fi"
@@ -15753,6 +15788,11 @@
     "id": "demeter-usd",
     "symbol": "dusd",
     "name": "Demeter USD"
+  },
+  {
+    "id": "demi",
+    "symbol": "demi",
+    "name": "DeMi"
   },
   {
     "id": "demole",
@@ -16945,6 +16985,11 @@
     "name": "DogeLumens"
   },
   {
+    "id": "dogemeta",
+    "symbol": "dogemeta",
+    "name": "DOGEMETA"
+  },
+  {
     "id": "dogemon-go",
     "symbol": "dogo",
     "name": "DogemonGo"
@@ -18103,6 +18148,11 @@
     "id": "easy-swap-bot",
     "symbol": "ezswap",
     "name": "Easy Swap Bot"
+  },
+  {
+    "id": "easytoken",
+    "symbol": "eyt",
+    "name": "EasyToken"
   },
   {
     "id": "eazyswap-token",
@@ -20230,6 +20280,11 @@
     "name": "FaceDAO"
   },
   {
+    "id": "facet",
+    "symbol": "facet",
+    "name": "FACET"
+  },
+  {
     "id": "fact0rn",
     "symbol": "fact",
     "name": "Fact0rn"
@@ -21208,11 +21263,6 @@
     "id": "flightclupcoin",
     "symbol": "flight",
     "name": "FlightClupcoin"
-  },
-  {
-    "id": "flipped-pepe",
-    "symbol": "epep",
-    "name": "Flipped Pepe"
   },
   {
     "id": "flits",
@@ -22953,11 +23003,6 @@
     "id": "gay-pepe",
     "symbol": "gaypepe",
     "name": "Gay Pepe"
-  },
-  {
-    "id": "gazetv",
-    "symbol": "gaze",
-    "name": "GazeTV"
   },
   {
     "id": "gaziantep-fk-fan-token",
@@ -24820,6 +24865,11 @@
     "name": "GSTCOIN"
   },
   {
+    "id": "gt-protocol",
+    "symbol": "gtai",
+    "name": "GT-Protocol"
+  },
+  {
     "id": "gu",
     "symbol": "gu",
     "name": "Kugle GU"
@@ -25188,6 +25238,11 @@
     "id": "hapi",
     "symbol": "hapi",
     "name": "HAPI"
+  },
+  {
+    "id": "happyai",
+    "symbol": "smileai",
+    "name": "HappyAI"
   },
   {
     "id": "happybear",
@@ -33095,11 +33150,6 @@
     "name": "MaranBet"
   },
   {
-    "id": "marble-bet",
-    "symbol": "marble",
-    "name": "Marble Bet"
-  },
-  {
     "id": "marbledao-artex",
     "symbol": "artex",
     "name": "MarbleDAO ARTEX"
@@ -34678,11 +34728,6 @@
     "id": "metaq",
     "symbol": "metaq",
     "name": "MetaQ"
-  },
-  {
-    "id": "metareset",
-    "symbol": "reset",
-    "name": "MetaReset [OLD]"
   },
   {
     "id": "metarim",
@@ -37995,6 +38040,11 @@
     "name": "Nikssa"
   },
   {
+    "id": "nile",
+    "symbol": "nile",
+    "name": "Nile"
+  },
+  {
     "id": "nimbus-platform-gnimb",
     "symbol": "gnimb",
     "name": "Nimbus Platform GNIMB"
@@ -38653,6 +38703,11 @@
     "id": "nym",
     "symbol": "nym",
     "name": "Nym"
+  },
+  {
+    "id": "nyro",
+    "symbol": "nyro",
+    "name": "Nyro"
   },
   {
     "id": "nyxia-ai",
@@ -39753,6 +39808,11 @@
     "id": "oraidex",
     "symbol": "oraix",
     "name": "OraiDEX"
+  },
+  {
+    "id": "orang",
+    "symbol": "orang",
+    "name": "Orang"
   },
   {
     "id": "orange-bot",
@@ -41698,11 +41758,6 @@
     "id": "phiat-protocol",
     "symbol": "phiat",
     "name": "Phiat Protocol"
-  },
-  {
-    "id": "philcoin",
-    "symbol": "phl",
-    "name": "Philcoin"
   },
   {
     "id": "philosoraptor",
@@ -44860,11 +44915,6 @@
     "name": "Ratio Protocol"
   },
   {
-    "id": "rat-roulette",
-    "symbol": "rat",
-    "name": "Rat Roulette"
-  },
-  {
     "id": "rats",
     "symbol": "rats",
     "name": "Rats"
@@ -47680,6 +47730,11 @@
     "name": "SENSO"
   },
   {
+    "id": "sentimentai",
+    "symbol": "sent",
+    "name": "SentimentAI"
+  },
+  {
     "id": "sentiment-token",
     "symbol": "sent",
     "name": "Sentiment"
@@ -48223,11 +48278,6 @@
     "id": "shibot",
     "symbol": "shibot",
     "name": "Shibot"
-  },
-  {
-    "id": "shibzilla2-0",
-    "symbol": "sbz2.0",
-    "name": "ShibZilla2.0"
   },
   {
     "id": "shiden",
@@ -49073,11 +49123,6 @@
     "id": "snailmoon",
     "symbol": "snm",
     "name": "SnailMoon"
-  },
-  {
-    "id": "snail-race",
-    "symbol": "snails",
-    "name": "Snail Race"
   },
   {
     "id": "snail-trail",
@@ -50995,6 +51040,11 @@
     "name": "Stamen Tellus Token"
   },
   {
+    "id": "stamp-2",
+    "symbol": "stamp",
+    "name": "STAMP"
+  },
+  {
     "id": "standard-protocol",
     "symbol": "stnd",
     "name": "Standard Protocol"
@@ -52618,6 +52668,11 @@
     "id": "tai",
     "symbol": "tai",
     "name": "tBridge"
+  },
+  {
+    "id": "taikai",
+    "symbol": "tkai",
+    "name": "TAIKAI"
   },
   {
     "id": "taikula-coin",
@@ -57775,6 +57830,11 @@
     "name": "V.SYSTEMS"
   },
   {
+    "id": "vtro",
+    "symbol": "vtro",
+    "name": "VTRO"
+  },
+  {
     "id": "vulcan-forged",
     "symbol": "pyr",
     "name": "Vulcan Forged"
@@ -59803,6 +59863,11 @@
     "id": "wrapped-virgin-gen-0-cryptokitties",
     "symbol": "wvg0",
     "name": "Wrapped Virgin Gen-0 CryptoKittties"
+  },
+  {
+    "id": "wrapped-vtru",
+    "symbol": "wvtru",
+    "name": "Wrapped VTRU"
   },
   {
     "id": "wrapped-wan",
