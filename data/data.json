@@ -10200,11 +10200,6 @@
     "name": "Byepix"
   },
   {
-    "id": "byld",
-    "symbol": "byld",
-    "name": "bYLD"
-  },
-  {
     "id": "bypass",
     "symbol": "bypass",
     "name": "Bypass"
@@ -10458,11 +10453,6 @@
     "id": "canto",
     "symbol": "canto",
     "name": "CANTO"
-  },
-  {
-    "id": "cantobelieve",
-    "symbol": "believe",
-    "name": "CantoBelieve"
   },
   {
     "id": "canto-crabs-chip",
@@ -14290,11 +14280,6 @@
     "name": "Crystal Palace FC Fan Token"
   },
   {
-    "id": "crystal-token",
-    "symbol": "cyl",
-    "name": "Crystal CYL"
-  },
-  {
     "id": "crystl-finance",
     "symbol": "crystl",
     "name": "Crystl Finance"
@@ -16273,6 +16258,11 @@
     "id": "diamond-launch",
     "symbol": "dlc",
     "name": "Diamond Launch"
+  },
+  {
+    "id": "dibbles",
+    "symbol": "dibble",
+    "name": "Dibbles"
   },
   {
     "id": "dibs-share",
@@ -19003,11 +18993,6 @@
     "id": "endurance",
     "symbol": "ace",
     "name": "Fusionist"
-  },
-  {
-    "id": "eneftiverse",
-    "symbol": "evr",
-    "name": "ENEFTIVERSE"
   },
   {
     "id": "eneftor",
@@ -24090,6 +24075,11 @@
     "name": "GoldMiner"
   },
   {
+    "id": "gold-pegged-coin",
+    "symbol": "gpc",
+    "name": "Gold Pegged Coin"
+  },
+  {
     "id": "goldpesa-option",
     "symbol": "gpo",
     "name": "GoldPesa Option"
@@ -26343,6 +26333,11 @@
     "id": "hollywood-capital-group-warrior",
     "symbol": "wor",
     "name": "Hollywood Capital Group WARRIOR"
+  },
+  {
+    "id": "hololoot",
+    "symbol": "hol",
+    "name": "Hololoot"
   },
   {
     "id": "holonus",
@@ -28842,7 +28837,7 @@
   {
     "id": "johor-darul-ta-zim-fc",
     "symbol": "jdt",
-    "name": "Johor Darul Ta’zim FC"
+    "name": "Johor Darul Ta’zim FC Fan Token"
   },
   {
     "id": "jojo",
@@ -29793,6 +29788,11 @@
     "id": "kingu",
     "symbol": "kingu",
     "name": "KingU"
+  },
+  {
+    "id": "king-wif",
+    "symbol": "kingwif",
+    "name": "King WIF"
   },
   {
     "id": "kingyton",
@@ -30943,11 +30943,6 @@
     "id": "leeroy-jenkins",
     "symbol": "leeroy",
     "name": "LEEROY JENKINS"
-  },
-  {
-    "id": "leet",
-    "symbol": "leet",
-    "name": "LeetSwap (Base)"
   },
   {
     "id": "leetcoin",
@@ -34135,6 +34130,11 @@
     "name": "Memeflate"
   },
   {
+    "id": "memehub",
+    "symbol": "memehub",
+    "name": "Memehub"
+  },
+  {
     "id": "meme-inu",
     "symbol": "meme",
     "name": "Meme Inu"
@@ -35830,6 +35830,11 @@
     "name": "Modefi"
   },
   {
+    "id": "model-labs",
+    "symbol": "model",
+    "name": "Model Labs"
+  },
+  {
     "id": "modex",
     "symbol": "modex",
     "name": "Modex"
@@ -36333,6 +36338,11 @@
     "id": "mooney",
     "symbol": "mooney",
     "name": "Moon DAO"
+  },
+  {
+    "id": "moonflow",
+    "symbol": "moon",
+    "name": "Moonflow"
   },
   {
     "id": "moonft",
@@ -44595,6 +44605,11 @@
     "name": "RabbitX"
   },
   {
+    "id": "rabi",
+    "symbol": "rabi",
+    "name": "Rabi"
+  },
+  {
     "id": "rabity-finance",
     "symbol": "rbf",
     "name": "Rabity Finance"
@@ -49145,6 +49160,11 @@
     "name": "Smoothy"
   },
   {
+    "id": "smorf",
+    "symbol": "smorf",
+    "name": "smorf"
+  },
+  {
     "id": "smp-finance",
     "symbol": "smpf",
     "name": "SMP Finance"
@@ -52865,6 +52885,11 @@
     "name": "TangoSwap"
   },
   {
+    "id": "tangyuan",
+    "symbol": "tangyuan",
+    "name": "TangYuan"
+  },
+  {
     "id": "tank-battle",
     "symbol": "tbl",
     "name": "Tank Battle"
@@ -52881,7 +52906,7 @@
   },
   {
     "id": "tanpin",
-    "symbol": "tnp",
+    "symbol": "tanpin",
     "name": "TanPin"
   },
   {
