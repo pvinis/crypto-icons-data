@@ -5585,6 +5585,11 @@
     "name": "BabyXrp"
   },
   {
+    "id": "babyx-swap",
+    "symbol": "babyx",
+    "name": "BabyX Swap"
+  },
+  {
     "id": "baby-yooshiape",
     "symbol": "byooshiape",
     "name": "Baby YooshiApe"
@@ -6033,6 +6038,11 @@
     "id": "barking",
     "symbol": "bark",
     "name": "Barking"
+  },
+  {
+    "id": "barley-finance",
+    "symbol": "barl",
+    "name": "Barley Finance"
   },
   {
     "id": "barnbridge",
@@ -6603,11 +6613,6 @@
     "id": "bemchain",
     "symbol": "bcn",
     "name": "Bemchain"
-  },
-  {
-    "id": "be-meta-famous",
-    "symbol": "bmf",
-    "name": "Be Meta Famous"
   },
   {
     "id": "ben-2",
@@ -11830,11 +11835,6 @@
     "name": "Chooky"
   },
   {
-    "id": "chop",
-    "symbol": "chop",
-    "name": "CHOP"
-  },
-  {
     "id": "chopbot",
     "symbol": "chop",
     "name": "Chopbot"
@@ -14468,11 +14468,6 @@
     "id": "custodiy",
     "symbol": "cty",
     "name": "CUSTODIY"
-  },
-  {
-    "id": "custom-wallet-bot",
-    "symbol": "wallet",
-    "name": "Custom Wallet Bot"
   },
   {
     "id": "cut-it-off",
@@ -18303,11 +18298,6 @@
     "id": "ecoterra",
     "symbol": "ecoterra",
     "name": "Ecoterra"
-  },
-  {
-    "id": "ecotool",
-    "symbol": "eto",
-    "name": "EcoTool"
   },
   {
     "id": "ecowatt",
@@ -28305,6 +28295,11 @@
     "name": "iShares MSCI World ETF Tokenized Stock Defichain"
   },
   {
+    "id": "ishib",
+    "symbol": "ishib",
+    "name": "iSHIB"
+  },
+  {
     "id": "ishook",
     "symbol": "shk",
     "name": "iShook"
@@ -32625,6 +32620,11 @@
     "name": "Lyncoin"
   },
   {
+    "id": "lynex",
+    "symbol": "lynx",
+    "name": "Lynex"
+  },
+  {
     "id": "lynkey",
     "symbol": "lynk",
     "name": "LynKey"
@@ -35723,6 +35723,11 @@
     "id": "mnmcoin",
     "symbol": "mnmc",
     "name": "MNMCoin"
+  },
+  {
+    "id": "moai",
+    "symbol": "moai",
+    "name": "MOAI"
   },
   {
     "id": "mobifi",
@@ -41050,6 +41055,11 @@
     "name": "Paycoin"
   },
   {
+    "id": "payday",
+    "symbol": "payday",
+    "name": "Payday"
+  },
+  {
     "id": "pay-it-now",
     "symbol": "pin",
     "name": "Pay It Now"
@@ -46015,11 +46025,6 @@
     "name": "Ripae"
   },
   {
-    "id": "ripae-peth",
-    "symbol": "peth",
-    "name": "Ripae pETH"
-  },
-  {
     "id": "ripae-pmatic",
     "symbol": "pmatic",
     "name": "Ripae pMATIC"
@@ -48973,6 +48978,11 @@
     "id": "slnv2",
     "symbol": "slnv2",
     "name": "SLNV2"
+  },
+  {
+    "id": "slp",
+    "symbol": "slp",
+    "name": "SLP"
   },
   {
     "id": "slurp",
@@ -54108,11 +54118,6 @@
     "id": "tigris",
     "symbol": "tig",
     "name": "Tigris"
-  },
-  {
-    "id": "tilwiki",
-    "symbol": "tlw",
-    "name": "TilWiki"
   },
   {
     "id": "time-alliance-guild-time",
@@ -60295,6 +60300,11 @@
     "name": "xcKSM"
   },
   {
+    "id": "xcoinmeme",
+    "symbol": "x",
+    "name": "Xcoinmeme"
+  },
+  {
     "id": "x-com",
     "symbol": "x",
     "name": "CruxDecussata"
@@ -62163,6 +62173,11 @@
     "id": "zktsunami",
     "symbol": ":zkt:",
     "name": "ZkTsunami"
+  },
+  {
+    "id": "zkzone",
+    "symbol": "zkz",
+    "name": "Zkzone"
   },
   {
     "id": "zmine",
