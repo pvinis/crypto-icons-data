@@ -8370,11 +8370,6 @@
     "name": "BLOCKv"
   },
   {
-    "id": "blockverse",
-    "symbol": "block",
-    "name": "BlockVerse"
-  },
-  {
     "id": "blockx",
     "symbol": "bcx",
     "name": "BlockX"
@@ -9838,6 +9833,11 @@
     "id": "btc-2x-flexible-leverage-index",
     "symbol": "btc2x-fli",
     "name": "BTC 2x Flexible Leverage Index"
+  },
+  {
+    "id": "btchero",
+    "symbol": "btchero",
+    "name": "BTCHero"
   },
   {
     "id": "btcmeme",
@@ -12247,7 +12247,7 @@
   {
     "id": "club-deportivo-fan-token",
     "symbol": "chvs",
-    "name": "Club Deportivo Fan Token"
+    "name": "Club Deportivo Guadalajara Fan Token"
   },
   {
     "id": "clube-atletico-mineiro-fan-token",
@@ -12778,6 +12778,11 @@
     "id": "companionbot",
     "symbol": "cbot",
     "name": "CompanionBot"
+  },
+  {
+    "id": "companion-pet-coin",
+    "symbol": "cpc",
+    "name": "Companion Pet Coin"
   },
   {
     "id": "compendium-fi",
@@ -15075,6 +15080,11 @@
     "name": "DCNTRL Network"
   },
   {
+    "id": "dcomm",
+    "symbol": "dcm",
+    "name": "DComm"
+  },
+  {
     "id": "d-community",
     "symbol": "dili",
     "name": "D Community"
@@ -16048,11 +16058,6 @@
     "id": "dexfi-governance",
     "symbol": "gdex",
     "name": "DexFi Governance"
-  },
-  {
-    "id": "dexfin",
-    "symbol": "dxf",
-    "name": "Dexfin"
   },
   {
     "id": "dex-game",
@@ -17120,6 +17125,11 @@
     "name": "Doginals Club Exclusive (DRC-20)"
   },
   {
+    "id": "doginphire",
+    "symbol": "fire",
+    "name": "doginphire"
+  },
+  {
     "id": "dogira",
     "symbol": "dogira",
     "name": "Dogira"
@@ -17153,11 +17163,6 @@
     "id": "dogswap-token",
     "symbol": "dog",
     "name": "Dogeswap (HECO)"
-  },
-  {
-    "id": "dog-tag",
-    "symbol": "tag",
-    "name": "Dog Tag"
   },
   {
     "id": "dogu-inu",
@@ -17403,6 +17408,11 @@
     "id": "dora-factory-2",
     "symbol": "dora",
     "name": "Dora Factory"
+  },
+  {
+    "id": "doric-network",
+    "symbol": "drc",
+    "name": "Doric Network"
   },
   {
     "id": "dork",
@@ -19618,6 +19628,11 @@
     "id": "ethereum-gold-mining-comp",
     "symbol": "egmc",
     "name": "Ethereum Gold Mining Comp"
+  },
+  {
+    "id": "ethereum-inu",
+    "symbol": "ethinu",
+    "name": "Ethereum Inu"
   },
   {
     "id": "ethereummax",
@@ -22665,6 +22680,11 @@
     "name": "Galaxy Fight Club"
   },
   {
+    "id": "galaxy-fox",
+    "symbol": "gfox",
+    "name": "Galaxy Fox"
+  },
+  {
     "id": "galaxy-token-injective",
     "symbol": "galaxy",
     "name": "Galaxy Token (Injective)"
@@ -25670,6 +25690,11 @@
     "name": "Helicopter Finance"
   },
   {
+    "id": "heli-doge",
+    "symbol": "hd",
+    "name": "HELI Doge"
+  },
+  {
     "id": "helio-protocol-hay",
     "symbol": "hay",
     "name": "Destablecoin HAY"
@@ -27303,6 +27328,11 @@
     "id": "idoodles",
     "symbol": "idoodles",
     "name": "IDOODLES"
+  },
+  {
+    "id": "idrx",
+    "symbol": "idrx",
+    "name": "IDRX"
   },
   {
     "id": "ierc-20",
@@ -30320,6 +30350,11 @@
     "name": "Kryptonite"
   },
   {
+    "id": "kryptonite-staked-sei",
+    "symbol": "stsei",
+    "name": "Kryptonite Staked SEI"
+  },
+  {
     "id": "krypton-token",
     "symbol": "kgc",
     "name": "Krypton Galaxy Coin"
@@ -32403,11 +32438,6 @@
     "id": "lumi-finance-luausd",
     "symbol": "luausd",
     "name": "Lumi Finance LUAUSD"
-  },
-  {
-    "id": "lumiiitoken",
-    "symbol": "lumiii",
-    "name": "Lumiii"
   },
   {
     "id": "lumina-bot",
@@ -40035,6 +40065,16 @@
     "name": "OrdiBot"
   },
   {
+    "id": "ordigen",
+    "symbol": "odgn",
+    "name": "OrdiGen"
+  },
+  {
+    "id": "ordi-launch",
+    "symbol": "orla",
+    "name": "Ordi Launch"
+  },
+  {
     "id": "ordinal-bitcoin",
     "symbol": "obtc",
     "name": "ORDINAL BITCOIN"
@@ -40312,7 +40352,7 @@
   {
     "id": "outer-ring",
     "symbol": "gq",
-    "name": "Galactic Quadrant"
+    "name": "Blink Galaxy"
   },
   {
     "id": "outter-finance",
@@ -41163,11 +41203,6 @@
     "id": "peach-inu-bsc",
     "symbol": "peach",
     "name": "Peach Inu (BSC)"
-  },
-  {
-    "id": "peak-token",
-    "symbol": "pktk",
-    "name": "Peak Token"
   },
   {
     "id": "peanut",
@@ -43498,6 +43533,11 @@
     "id": "print-mining",
     "symbol": "print",
     "name": "Print Mining"
+  },
+  {
+    "id": "print-protocol",
+    "symbol": "print",
+    "name": "Print Protocol"
   },
   {
     "id": "print-the-pepe",
@@ -55410,6 +55450,11 @@
     "name": "Tune.Fm"
   },
   {
+    "id": "tupelothedog",
+    "symbol": "tupelo",
+    "name": "tupelothedog"
+  },
+  {
     "id": "turan-network",
     "symbol": "trn",
     "name": "Turan Network"
@@ -56975,6 +57020,11 @@
     "name": "Vectorium"
   },
   {
+    "id": "vector-reserve",
+    "symbol": "vec",
+    "name": "Vector Reserve"
+  },
+  {
     "id": "vectorspace",
     "symbol": "vxv",
     "name": "Vectorspace AI"
@@ -57995,6 +58045,11 @@
     "name": "VZZN"
   },
   {
+    "id": "w3gamez-network",
+    "symbol": "w3g",
+    "name": "W3Gamez Network"
+  },
+  {
     "id": "wadzpay-token",
     "symbol": "wtk",
     "name": "WadzPay"
@@ -58728,6 +58783,11 @@
     "id": "whalescandypls-com",
     "symbol": "wc",
     "name": "WhalesCandyPLS.com"
+  },
+  {
+    "id": "whale-sei",
+    "symbol": "whale",
+    "name": "Whale (SEI)"
   },
   {
     "id": "whales-market",
