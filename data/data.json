@@ -205,6 +205,11 @@
     "name": "OneArt"
   },
   {
+    "id": "1ex",
+    "symbol": "1ex",
+    "name": "1ex"
+  },
+  {
     "id": "1hive-water",
     "symbol": "water",
     "name": "1Hive Water"
@@ -378,6 +383,11 @@
     "id": "4chan",
     "symbol": "4chan",
     "name": "4Chan"
+  },
+  {
+    "id": "4dcoin",
+    "symbol": "4dc",
+    "name": "4DCoin"
   },
   {
     "id": "4d-twin-maps-2",
@@ -4790,11 +4800,6 @@
     "name": "IDEX"
   },
   {
-    "id": "aurora-klay",
-    "symbol": "ara",
-    "name": "Aurora Klay"
-  },
-  {
     "id": "aurora-near",
     "symbol": "aurora",
     "name": "Aurora"
@@ -6165,11 +6170,6 @@
     "name": "BaseSwap"
   },
   {
-    "id": "basetools",
-    "symbol": "base",
-    "name": "BaseTools"
-  },
-  {
     "id": "base-velocimeter",
     "symbol": "bvm",
     "name": "Base Velocimeter"
@@ -6473,6 +6473,11 @@
     "id": "beauty-bakery-linked-operation-transaction-technology",
     "symbol": "lott",
     "name": "Beauty Bakery Linked Operation Transaction Technology"
+  },
+  {
+    "id": "bebe",
+    "symbol": "bebe",
+    "name": "BEBE"
   },
   {
     "id": "becoswap-token",
@@ -9063,11 +9068,6 @@
     "id": "bored-candy-city",
     "symbol": "candy",
     "name": "Bored Candy City"
-  },
-  {
-    "id": "bored-pepe-vip-club",
-    "symbol": "bpvc",
-    "name": "Bored Pepe VIP Club"
   },
   {
     "id": "boringdao",
@@ -15375,6 +15375,11 @@
     "name": "DeepFakeAI"
   },
   {
+    "id": "deep-fucking-value",
+    "symbol": "deep",
+    "name": "Deep Fucking Value"
+  },
+  {
     "id": "deeponion",
     "symbol": "onion",
     "name": "DeepOnion"
@@ -15417,7 +15422,7 @@
   {
     "id": "de-fi",
     "symbol": "defi",
-    "name": "De.Fi"
+    "name": "DeFi"
   },
   {
     "id": "defiai",
@@ -17635,6 +17640,11 @@
     "name": "Dragon"
   },
   {
+    "id": "dragon-3",
+    "symbol": "dragon",
+    "name": "Dragon"
+  },
+  {
     "id": "dragon-arena",
     "symbol": "dra",
     "name": "Dragon Arena"
@@ -17986,6 +17996,11 @@
   },
   {
     "id": "dumbmoney",
+    "symbol": "gme",
+    "name": "DumbMoney"
+  },
+  {
+    "id": "dumbmoney-2",
     "symbol": "gme",
     "name": "DumbMoney"
   },
@@ -19798,6 +19813,11 @@
     "id": "etherparty",
     "symbol": "fuel",
     "name": "Etherparty"
+  },
+  {
+    "id": "etherpets",
+    "symbol": "epets",
+    "name": "Etherpets"
   },
   {
     "id": "etherpos",
@@ -23855,6 +23875,11 @@
     "name": "GMD"
   },
   {
+    "id": "gme",
+    "symbol": "gme",
+    "name": "GME"
+  },
+  {
     "id": "gmfam",
     "symbol": "gmfam",
     "name": "GMFAM"
@@ -27902,12 +27927,12 @@
   {
     "id": "instabridge-wrapped-eth",
     "symbol": "xeth",
-    "name": "Instabridge Wrapped ETH"
+    "name": "Instabridge Wrapped ETH (Radix)"
   },
   {
     "id": "instabridge-wrapped-usdt",
     "symbol": "xusdt",
-    "name": "Instabridge Wrapped USDT"
+    "name": "Instabridge Wrapped USDT (Radix)"
   },
   {
     "id": "instadapp",
@@ -30870,6 +30895,11 @@
     "name": "Lattice"
   },
   {
+    "id": "laughcoin",
+    "symbol": "laughcoin",
+    "name": "Laughcoin"
+  },
+  {
     "id": "launchblock",
     "symbol": "lbp",
     "name": "LaunchBlock"
@@ -31058,11 +31088,6 @@
     "id": "leetswap-canto",
     "symbol": "leet",
     "name": "LeetSwap (Canto)"
-  },
-  {
-    "id": "leetswap-linea",
-    "symbol": "leet",
-    "name": "LeetSwap (Linea)"
   },
   {
     "id": "legacy-ichi",
@@ -32903,11 +32928,6 @@
     "id": "magicaltux",
     "symbol": "tux",
     "name": "Magicaltux"
-  },
-  {
-    "id": "magic-bag",
-    "symbol": "felix",
-    "name": "Magic Bag"
   },
   {
     "id": "magic-beasties",
@@ -38820,6 +38840,11 @@
     "name": "sUSD"
   },
   {
+    "id": "nuson-chain",
+    "symbol": "nsc",
+    "name": "Nuson Chain"
+  },
+  {
     "id": "nutgain",
     "symbol": "nutgv2",
     "name": "NUTGAIN"
@@ -39710,6 +39735,11 @@
     "name": "Opacity"
   },
   {
+    "id": "opal-2",
+    "symbol": "gem",
+    "name": "Opal"
+  },
+  {
     "id": "opcz",
     "symbol": "opcz",
     "name": "OpCZ"
@@ -40003,6 +40033,11 @@
     "id": "orang",
     "symbol": "orang",
     "name": "Orang"
+  },
+  {
+    "id": "orange",
+    "symbol": "ornj",
+    "name": "Orange"
   },
   {
     "id": "orange-bot",
@@ -48170,6 +48205,11 @@
     "name": "Sharky Swap"
   },
   {
+    "id": "sharp-portfolio-index",
+    "symbol": "spi",
+    "name": "Sharp Portfolio Index"
+  },
+  {
     "id": "shaun-inu",
     "symbol": "shaun",
     "name": "Shaun Inu"
@@ -49553,6 +49593,11 @@
     "id": "soft-dao",
     "symbol": "soft",
     "name": "Soft DAO"
+  },
+  {
+    "id": "soge-2",
+    "symbol": "soge",
+    "name": "SOGE"
   },
   {
     "id": "sohotrn",
@@ -52732,6 +52777,11 @@
   {
     "id": "sx-network",
     "symbol": "sx",
+    "name": "SX Network (OLD)"
+  },
+  {
+    "id": "sx-network-2",
+    "symbol": "sx",
     "name": "SX Network"
   },
   {
@@ -53850,6 +53900,11 @@
     "name": "TheJanitor"
   },
   {
+    "id": "the-jupiter-cat",
+    "symbol": "jupcat",
+    "name": "The Jupiter Cat"
+  },
+  {
     "id": "the-killbox-game",
     "symbol": "kbox",
     "name": "The Killbox Game"
@@ -54268,6 +54323,11 @@
     "id": "tifi-token",
     "symbol": "tifi",
     "name": "TiFi"
+  },
+  {
+    "id": "tif-protocol",
+    "symbol": "tif",
+    "name": "Tif Protocol"
   },
   {
     "id": "tigercash",
@@ -59095,6 +59155,11 @@
     "name": "Wilder World"
   },
   {
+    "id": "wild-goat-coin",
+    "symbol": "wgc",
+    "name": "Wild Goat Coin"
+  },
+  {
     "id": "wild-island-game",
     "symbol": "wild",
     "name": "Wild Island Game"
@@ -59158,6 +59223,11 @@
     "id": "winklink-bsc",
     "symbol": "win",
     "name": "WINkLink BSC"
+  },
+  {
+    "id": "winnerz",
+    "symbol": "wnz",
+    "name": "Winnerz"
   },
   {
     "id": "winr-protocol",
@@ -60063,6 +60133,11 @@
     "id": "wrapped-pulse-wpls",
     "symbol": "wpls",
     "name": "Wrapped Pulse"
+  },
+  {
+    "id": "wrapped-rose",
+    "symbol": "wrose",
+    "name": "Wrapped Rose"
   },
   {
     "id": "wrapped-sftw",
