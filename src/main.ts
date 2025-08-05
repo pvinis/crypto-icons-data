@@ -9,10 +9,6 @@ const symbolIdMap: Record<
 	string,
 	Array<{
 		id: string
-		alexa: number | null
-		gecko_rank: number | null
-		gecko_score: number
-		community_score: number
 		image: {
 			thumb: string
 			small: string
@@ -41,11 +37,16 @@ const downloadImage = async (url: string, filepath: string) => {
 	await Bun.write(filepath, await img.arrayBuffer())
 }
 
-const path = "coins/list"
-// const path = "coins/list/new"
+const apiPath = "coins/list"
+// const apiPath = "coins/list/new"
 
 try {
-	const coins = CoinsListSchema.parse(await (await coingecko.get(path)).json())
+	const coinsResponse = await coingecko.get(apiPath)
+	if (!coinsResponse.ok) {
+		console.debug(`API error fetching coins list: ${coinsResponse.status} ${coinsResponse.statusText}`)
+		throw new Error(`Failed to fetch coins list`)
+	}
+	const coins = CoinsListSchema.parse(await coinsResponse.json())
 
 	await Bun.write("data/data.json", JSON.stringify(coins, null, 2) + "\n")
 
@@ -64,48 +65,55 @@ try {
 		}
 
 		// console.debug(`${index + 1}/${length} - ${coin.symbol} (${coin.id}) - Fetching..`)
-		const coiData = await coingecko.get(`coins/${coin.id}`)
-		console.log(coiData)
-		const coinData = CoinDetailSchema.parse(await (await coingecko.get(`coins/${coin.id}`)).json())
-		console.log(coin.id)
-		console.log(coinData)
-		// 	symbolIdMap[coin.symbol]!.push({
-		// 		id: coin.id,
-		// 		image: {
-		// 			thumb:
-		// 				coin.id +
-		// 				path.extname(
-		// 					coinData.image.thumb.startsWith("http")
-		// 						? last(new URL(coinData.image.thumb).pathname.split("/"))!
-		// 						: coinData.image.thumb,
-		// 				),
-		// 			small:
-		// 				coin.id +
-		// 				path.extname(
-		// 					coinData.image.small.startsWith("http")
-		// 						? last(new URL(coinData.image.small).pathname.split("/"))!
-		// 						: coinData.image.small,
-		// 				),
-		// 			large:
-		// 				coin.id +
-		// 				path.extname(
-		// 					coinData.image.large.startsWith("http")
-		// 						? last(new URL(coinData.image.large).pathname.split("/"))!
-		// 						: coinData.image.large,
-		// 				),
-		// 		},
-		// 	})
-		// 	await Bun.write("data/symbol-id-map.json", JSON.stringify(symbolIdMap, null, 2) + "\n")
-		// 	if (coinData.image.large.includes("missing_large")) {
-		// 		console.log(`${index + 1}/${length} - ${coin.symbol} (${coin.id}) - Missing large image.`)
-		// 		const file = Bun.file("data/missing.png")
-		// 		await Bun.write(`data/icons/large/${coin.id}.png`, file)
-		// 	} else {
-		// 		const fileUrl = new URL(coinData.image.large)
-		// 		const fileExt = path.extname(fileUrl.pathname)
-		// 		await downloadImage(coinData.image.large, `data/icons/large/${coin.id}${fileExt}`)
+		const coinDetailResponse = await coingecko.get(`coins/${coin.id}`)
+		if (!coinDetailResponse.ok) {
+			console.debug(`API error fetching ${coin.id}: ${coinDetailResponse.status} ${coinDetailResponse.statusText}`)
+			if (coinDetailResponse.status === 429) {
+				throw new Error("Rate limit exceeded")
+			}
+			console.debug(`Skipping ${coin.symbol} (${coin.id})...`)
+			continue
+		}
+		const coinData = CoinDetailSchema.parse(await coinDetailResponse.json())
+
+		symbolIdMap[coin.symbol]!.push({
+			id: coin.id,
+			image: {
+				thumb:
+					coin.id +
+					path.extname(
+						coinData.image.thumb.startsWith("http")
+							? last(new URL(coinData.image.thumb).pathname.split("/"))!
+							: coinData.image.thumb,
+					),
+				small:
+					coin.id +
+					path.extname(
+						coinData.image.small.startsWith("http")
+							? last(new URL(coinData.image.small).pathname.split("/"))!
+							: coinData.image.small,
+					),
+				large:
+					coin.id +
+					path.extname(
+						coinData.image.large.startsWith("http")
+							? last(new URL(coinData.image.large).pathname.split("/"))!
+							: coinData.image.large,
+					),
+			},
+		})
+
+		await Bun.write("data/symbol-id-map.json", JSON.stringify(symbolIdMap, null, 2) + "\n")
+		if (coinData.image.large.includes("missing_large")) {
+			console.log(`${index + 1}/${length} - ${coin.symbol} (${coin.id}) - Missing large image.`)
+			const file = Bun.file("data/missing.png")
+			await Bun.write(`data/icons/large/${coin.id}.png`, file)
+		} else {
+			const fileUrl = new URL(coinData.image.large)
+			const fileExt = path.extname(fileUrl.pathname)
+			await downloadImage(coinData.image.large, `data/icons/large/${coin.id}${fileExt}`)
+		}
 	}
-	// }
 } catch (e) {
 	console.log(e)
 	console.log("Rate limit exceeded probably.")
