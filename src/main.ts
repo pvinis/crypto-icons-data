@@ -41,6 +41,15 @@ const apiPath = "coins/list"
 // const apiPath = "coins/list/new"
 
 try {
+	// sanity check: ping the api first
+	const pingResponse = await coingecko.get("ping")
+	if (!pingResponse.ok) {
+		console.log(`API ping failed: ${pingResponse.status} ${pingResponse.statusText}`)
+		throw new Error("Failed to connect to CoinGecko API")
+	}
+	const pingData = await pingResponse.json()
+	console.log("API ping successful:", pingData)
+
 	const coinsResponse = await coingecko.get(apiPath)
 	if (!coinsResponse.ok) {
 		console.debug(`API error fetching coins list: ${coinsResponse.status} ${coinsResponse.statusText}`)
