@@ -1,7 +1,7 @@
 {
   "status": {
-    "timestamp": "2024-02-21T00:10:04.687+00:00",
+    "timestamp": "2025-08-05T07:26:44.937+00:00",
     "error_code": 10004,
-    "error_message": "API subscription deactivated. Please reactivate your account via https://www.coingecko.com/en/api/pricing or contact api@coingecko.com"
+    "error_message": "API subscription deactivated. Please reactivate your account via https://www.coingecko.com/en/api/pricing or submit a ticket at: https://support.coingecko.com"
   }
 }
