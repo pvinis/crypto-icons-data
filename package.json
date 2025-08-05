@@ -10,7 +10,8 @@
   "author": "Pavlos Vinieratos <pvinis>",
   "license": "ISC",
   "dependencies": {
-    "lodash": "4.17.21"
+    "lodash": "4.17.21",
+    "zod": "^4.0.14"
   },
   "devDependencies": {
     "@tsconfig/bun": "1.0.8",

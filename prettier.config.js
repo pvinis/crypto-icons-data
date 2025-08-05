@@ -2,5 +2,5 @@ export default {
 	semi: false,
 	useTabs: true,
 	singleQuote: false,
-	printWidth: 100,
+	printWidth: 120,
 }
