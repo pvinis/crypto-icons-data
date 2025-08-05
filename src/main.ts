@@ -2,7 +2,7 @@ import path from "path"
 import { last } from "lodash"
 import symbolIdMapJson from "../data/symbol-id-map.json"
 
-const pro = true
+const pro = false
 
 const symbolIdMap: Record<
 	string,
