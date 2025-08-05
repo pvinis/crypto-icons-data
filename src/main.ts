@@ -43,11 +43,11 @@ const downloadImage = async (url: string, filepath: string) => {
 }
 
 try {
-	const coins: Array<{ id: string; symbol: string; name: string }> = await (
+	const coins = (await (
 		await coingecko.get("coins/list")
 	)
 		// await coingecko.get("coins/list/new")
-		.json()
+		.json()) as Array<{ id: string; symbol: string; name: string }>
 
 	await Bun.write("data/data.json", JSON.stringify(coins, null, 2) + "\n")
 
@@ -65,7 +65,9 @@ try {
 
 		console.log(`${index + 1}/${length} - ${coin.symbol} (${coin.id}) - Fetching..`)
 
-		const coinData: {
+		const coinData = (await (
+			await coingecko.get(`coins/${coin.id}`)
+		).json()) as {
 			id: string
 			symbol: string
 			name: string
@@ -74,9 +76,9 @@ try {
 			coingecko_rank: number | null
 			coingecko_score: number
 			community_score: number
-		} = await (await coingecko.get(`coins/${coin.id}`)).json()
+		}
 
-		symbolIdMap[coin.symbol].push({
+		symbolIdMap[coin.symbol]!.push({
 			id: coin.id,
 			alexa: coinData.public_interest_stats.alexa_rank,
 			gecko_rank: coinData.coingecko_rank,
@@ -88,21 +90,21 @@ try {
 					path.extname(
 						coinData.image.thumb.startsWith("http")
 							? last(new URL(coinData.image.thumb).pathname.split("/"))!
-							: coinData.image.thumb
+							: coinData.image.thumb,
 					),
 				small:
 					coin.id +
 					path.extname(
 						coinData.image.small.startsWith("http")
 							? last(new URL(coinData.image.small).pathname.split("/"))!
-							: coinData.image.small
+							: coinData.image.small,
 					),
 				large:
 					coin.id +
 					path.extname(
 						coinData.image.large.startsWith("http")
 							? last(new URL(coinData.image.large).pathname.split("/"))!
-							: coinData.image.large
+							: coinData.image.large,
 					),
 			},
 		})
