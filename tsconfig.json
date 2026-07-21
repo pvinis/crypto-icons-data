@@ -1,1 +1,1 @@
-{ "extends": "@tsconfig/bun/tsconfig.json" }
+{ "extends": "@tsconfig/bun/tsconfig.json", "compilerOptions": { "types": ["bun"] } }
