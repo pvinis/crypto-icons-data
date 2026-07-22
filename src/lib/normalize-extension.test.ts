@@ -1,5 +1,5 @@
 import { test, expect, beforeEach, afterEach } from "bun:test"
-import { mkdtemp, rm } from "node:fs/promises"
+import { mkdtemp, readdir, rm } from "node:fs/promises"
 import { tmpdir } from "node:os"
 import path from "node:path"
 import { normalizeExtension } from "./normalize-extension"
@@ -25,8 +25,11 @@ test("renames an uppercase-extension file to lowercase and returns it", async ()
 	const filePath = await makeFixture("icon.PNG", "png")
 	const result = await normalizeExtension(filePath)
 	expect(result).toBe("png")
-	expect(await Bun.file(path.join(dir, "icon.png")).exists()).toBe(true)
-	expect(await Bun.file(filePath).exists()).toBe(false)
+	// Assert via the case-preserved directory listing so this holds on both
+	// case-sensitive (Linux CI) and case-insensitive (macOS dev) filesystems.
+	const entries = await readdir(dir)
+	expect(entries).toContain("icon.png")
+	expect(entries).not.toContain("icon.PNG")
 })
 
 test("leaves an already-correct lowercase extension untouched", async () => {
