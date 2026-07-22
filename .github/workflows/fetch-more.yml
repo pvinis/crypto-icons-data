@@ -13,6 +13,10 @@ jobs:
     steps:
       - uses: actions/checkout@v7
       - uses: jdx/mise-action@v4
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
       - run: |
           bun install
       - name: Fetch
@@ -21,6 +25,9 @@ jobs:
           COINGECKO_PRO_API_KEY: ${{ secrets.COINGECKO_PRO_API_KEY }}
         run: |
           bun run do-it
+      - name: Build assets (thumbnails, colours, manifest)
+        run: |
+          bun run build-assets
       - name: push to main
         # took this from https://github.com/mikeal/publish-to-github-action/blob/master/entrypoint.sh
         run: |
@@ -37,3 +44,20 @@ jobs:
           git commit -m "add: more icons" || exit 0
           git pull --rebase publisher main
           git push publisher main
+      - name: Tag and trigger site rebuild
+        env:
+          NETLIFY_BUILD_HOOK_URL: ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
+        run: |
+          if git diff --name-only HEAD~1 HEAD -- data/ | grep -q .; then
+            TAG="data-$(date -u +%Y-%m-%d)"
+            git tag "$TAG"
+            git push publisher "$TAG"
+            echo "cut tag $TAG"
+            if [ -n "$NETLIFY_BUILD_HOOK_URL" ]; then
+              curl -fsS -X POST "$NETLIFY_BUILD_HOOK_URL"
+            else
+              echo "NETLIFY_BUILD_HOOK_URL not set, skipping build hook"
+            fi
+          else
+            echo "no changes under data/, skipping tag and build hook"
+          fi
