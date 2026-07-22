@@ -49,22 +49,28 @@ export async function runBuildAssets(root: string): Promise<void> {
 		}
 
 		const id = path.basename(file, path.extname(file))
-		iconIds.push(id)
 
-		const sourcePath = path.join(largeDir, `${id}.${finalExt}`)
-		const thumbPath = path.join(thumbDir, `${id}.webp`)
-		const thumbExists = await Bun.file(thumbPath).exists()
-		const previousColourHex = previousColours.get(id)
+		try {
+			const sourcePath = path.join(largeDir, `${id}.${finalExt}`)
+			const thumbPath = path.join(thumbDir, `${id}.webp`)
+			const thumbExists = await Bun.file(thumbPath).exists()
+			const previousColourHex = previousColours.get(id)
 
-		let colourHex: string
-		if (shouldSkipIcon({ thumbnailExists: thumbExists, previousColourHex })) {
-			colourHex = previousColourHex!
-		} else {
-			await generateThumbnail(sourcePath, thumbPath)
-			colourHex = await extractDominantColor(sourcePath)
+			let colourHex: string
+			if (shouldSkipIcon({ thumbnailExists: thumbExists, previousColourHex })) {
+				colourHex = previousColourHex!
+			} else {
+				await generateThumbnail(sourcePath, thumbPath)
+				colourHex = await extractDominantColor(sourcePath)
+			}
+
+			rows.push(buildManifestRow({ id, ext: finalExt, colourHex }, coinsById.get(id)))
+			iconIds.push(id)
+		} catch (err) {
+			skippedCount++
+			console.warn(`skipping ${file}: processing failed - ${err}`)
+			continue
 		}
-
-		rows.push(buildManifestRow({ id, ext: finalExt, colourHex }, coinsById.get(id)))
 	}
 
 	await Bun.write(path.join(siteDir, "index.json"), JSON.stringify([EXT_TABLE, ...rows]))

@@ -70,3 +70,22 @@ test("skips an unreadable/unsupported icon format while still processing valid i
 	expect(rowsById.has("some-orphan")).toBe(true)
 	expect(manifest).toHaveLength(3) // ext table + 2 valid rows (badformat excluded)
 })
+
+test("isolates a mid-processing failure so the run still completes and writes its manifest", async () => {
+	// passes normalizeExtension (valid .png extension) but is not a real image, so
+	// generateThumbnail throws when magick tries to process it - exercising the new
+	// try/catch around thumbnail generation + colour extraction, not the null-format branch.
+	await Bun.write(path.join(root, "data/icons/large/corrupt.png"), "this is not a valid png")
+
+	await expect(runBuildAssets(root)).resolves.toBeUndefined()
+
+	const manifest = await Bun.file(path.join(root, "data/site/index.json")).json()
+	const rowsById = new Map(manifest.slice(1).map((row: unknown[]) => [row[0], row]))
+
+	expect(rowsById.has("corrupt")).toBe(false)
+	expect(rowsById.has("bitcoin")).toBe(true)
+	expect(rowsById.has("some-orphan")).toBe(true)
+	expect(manifest).toHaveLength(3) // ext table + 2 valid rows (corrupt excluded)
+
+	expect(await Bun.file(path.join(root, "data/site/coverage.json")).exists()).toBe(true)
+})
