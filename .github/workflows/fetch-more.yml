@@ -40,6 +40,7 @@ jobs:
           git branch --verbose
 
           git checkout main
+          echo "COMMIT_BEFORE=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
           git add -A
           git commit -m "add: more icons" || exit 0
           git pull --rebase publisher main
@@ -48,16 +49,24 @@ jobs:
         env:
           NETLIFY_BUILD_HOOK_URL: ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
         run: |
-          if git diff --name-only HEAD~1 HEAD -- data/ | grep -q .; then
-            TAG="data-$(date -u +%Y-%m-%d)"
+          if [ "$(git rev-parse HEAD)" = "$COMMIT_BEFORE" ]; then
+            echo "no new commit this run, skipping tag and build hook"
+            exit 0
+          fi
+          if ! git diff --name-only "$COMMIT_BEFORE" HEAD -- data/ | grep -q .; then
+            echo "new commit did not change data/, skipping tag and build hook"
+            exit 0
+          fi
+          TAG="data-$(date -u +%Y-%m-%d)"
+          if git ls-remote --exit-code publisher "refs/tags/$TAG" >/dev/null 2>&1; then
+            echo "tag $TAG already exists on remote, skipping tag creation"
+          else
             git tag "$TAG"
             git push publisher "$TAG"
             echo "cut tag $TAG"
-            if [ -n "$NETLIFY_BUILD_HOOK_URL" ]; then
-              curl -fsS -X POST "$NETLIFY_BUILD_HOOK_URL"
-            else
-              echo "NETLIFY_BUILD_HOOK_URL not set, skipping build hook"
-            fi
+          fi
+          if [ -n "$NETLIFY_BUILD_HOOK_URL" ]; then
+            curl -fsS -X POST "$NETLIFY_BUILD_HOOK_URL" || echo "build hook POST failed (non-fatal)"
           else
-            echo "no changes under data/, skipping tag and build hook"
+            echo "NETLIFY_BUILD_HOOK_URL not set, skipping build hook"
           fi
