@@ -10,7 +10,7 @@ function channelDeltas(hexA: string, hexB: string): number[] {
 	return a.map((v, i) => Math.abs(v - b[i]!))
 }
 
-const TOLERANCE = 40
+const TOLERANCE = 25
 
 test("bitcoin extracts within tolerance of the brand colour #F7931A", async () => {
 	const hex = await extractDominantColor(path.join(FIXTURES, "bitcoin.png"))
