@@ -5,7 +5,8 @@
   "type": "module",
   "main": "src/main.ts",
   "scripts": {
-    "do-it": "bun run src/main.ts"
+    "do-it": "bun run src/main.ts",
+    "build-assets": "bun run src/build-assets.ts"
   },
   "author": "Pavlos Vinieratos <pvinis>",
   "license": "ISC",
